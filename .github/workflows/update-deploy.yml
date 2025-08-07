@@ -22,11 +22,11 @@ jobs:
       #     path: /app/data/reports/report.html
       #     key: cache-${{ github.run_id }}-${{ github.run_attempt }}
       - name: Run the build process with Docker
-        uses: addnab/docker-run-action@v3
+        uses: crease/displacement_forecast:latest
         with:
-            image: crease/displacement_forecast:latest
-            options: -v ${{ github.workspace }}:/reports
-            run: python process_forecast.py
+          options: -v ${{ github.workspace }}:/reports
+          entrypoint: ./entrypoint.sh
+          cmd: python process_forecast.py
       - name: Run the forecast script
         run: python process_forecast.py
       - name: Copy outputs to workspace
