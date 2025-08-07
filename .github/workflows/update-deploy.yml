@@ -11,7 +11,7 @@ on:
 jobs:
   update-forecast:
     runs-on: ubuntu-latest
-    container: crease/displacement_forecast:latest
+    # container: crease/displacement_forecast:latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
@@ -24,7 +24,7 @@ jobs:
       - name: Run the build process with Docker
         uses: addnab/docker-run-action@v3
         with:
-            image: crease/displacement_foreacst:latest
+            image: crease/displacement_forecast:latest
             options: -v ${{ github.workspace }}:/reports
             run: python process_forecast.py
       - name: Run the forecast script
