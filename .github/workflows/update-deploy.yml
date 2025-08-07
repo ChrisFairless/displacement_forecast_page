@@ -10,7 +10,7 @@ on:
 jobs:
   update-forecast:
     runs-on: ubuntu-latest
-    container: crease/displacement-forecast:latest
+    container: crease/displacement_forecast:latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
@@ -26,7 +26,7 @@ jobs:
         run: python process_forecast.py
       - name: Copy outputs to workspace
         run: |-
-          cp /app/data/report.html {{ github.workspace }}/data/index.html
+          cp /app/data/reports/ {{ github.workspace }}/reports/
       - name: Commit and push any changes
         run: |-
           git config --local user.name "GitHub Actions"
