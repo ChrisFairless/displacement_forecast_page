@@ -11,18 +11,22 @@ on:
 jobs:
   update-forecast:
     runs-on: ubuntu-latest
-    container: crease/displacement_forecast:latest
+    # container: crease/displacement_forecast:latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
-      - name: Set up cache for this attempt
-        uses: actions/cache@v4
-        id: cache
+      # - name: Set up cache for this attempt
+      #   uses: actions/cache@v4
+      #   id: cache
+      #   with:
+      #     path: /app/data/reports/report.html
+      #     key: cache-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Run the build process with Docker
+        uses: addnab/docker-run-action@v3
         with:
-          path: /app/data/reports/report.html
-          key: cache-${{ github.run_id }}-${{ github.run_attempt }}
-      - name: Install pandoc
-        run: apt-get install -y pandoc
+            image: crease/displacement_foreacst:latest
+            options: -v ${{ github.workspace }}:/reports
+            run: python process_forecast.py
       - name: Run the forecast script
         run: python process_forecast.py
       - name: Copy outputs to workspace
