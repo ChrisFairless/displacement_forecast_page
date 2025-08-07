@@ -10,13 +10,23 @@ on:
 jobs:
   update-forecast:
     runs-on: ubuntu-latest
-    container: crease/climada_petals
+    container: crease/displacement-forecast:latest
     steps:
-      - run: echo "Updating Forecasts. Job was triggered by a ${{ github.event_name }} event."
       - name: Check out repository code
         uses: actions/checkout@v4
+      - name: Set up cache for this attempt
+        uses: actions/cache@v4
+        id: cache
+        with:
+          path: /app/data/reports/report.html
+          key: cache-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Install pandoc
+        run: apt-get install -y pandoc
       - name: Run the forecast script
-        run: ./run.sh
+        run: python process_forecast.py
+      - name: Copy outputs to workspace
+        run: |-
+          cp /app/data/report.html {{ github.workspace }}/data/index.html
       - name: Commit and push any changes
         run: |-
           git config --local user.name "GitHub Actions"
