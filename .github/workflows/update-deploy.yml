@@ -11,7 +11,7 @@ on:
 jobs:
   update-forecast:
     runs-on: ubuntu-latest
-    # container: crease/displacement_forecast:latest
+    container: crease/displacement_forecast:latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
