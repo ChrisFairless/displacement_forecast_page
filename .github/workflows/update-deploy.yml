@@ -11,28 +11,28 @@ on:
 jobs:
   update-forecast:
     runs-on: ubuntu-latest
-    container: crease/displacement_forecast:latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
-      - name: Set up cache for this attempt
-        uses: actions/cache@v4
-        id: cache
-        with:
-          path: /app/data/reports/report.html
-          key: cache-${{ github.run_id }}-${{ github.run_attempt }}
-      - name: Install pandoc
-        run: apt-get install -y pandoc
-      - name: Run the forecast script
-        run: python process_forecast.py
-      - name: Copy outputs to workspace
-        run: |-
-          cp /app/data/reports/ {{ github.workspace }}/reports/
+      # - name: Set up cache for this attempt
+      #   uses: actions/cache@v4
+      #   id: cache
+      #   with:
+      #     path: /app/data/reports/report.html
+      #     key: cache-${{ github.run_id }}-${{ github.run_attempt }}
+
+      - name: Run forecast in container
+        run: |
+          docker run --rm -v ${{ github.workspace }}:/app/data crease/displacement_forecast:latest
+
       - name: Commit and push any changes
         run: |-
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@users.noreply.github.com"
-          git add -A
+          find data -type f -path "*/report/*.png" -exec git add {} +
+          find data -type f -path "*/report/*.png" -exec git add {} +
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
