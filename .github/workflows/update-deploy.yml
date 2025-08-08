@@ -22,7 +22,7 @@ jobs:
       #     path: /app/data/reports/report.html
       #     key: cache-${{ github.run_id }}-${{ github.run_attempt }}
       - name: Copy climada.conf to local directory
-        run: cp /app/climada.conf /github/workspace/climada.conf
+        run: cp /app/climada.conf /root/conda/envs/climada_env/lib/python3.11/site-packages/climada/conf/climada.conf
       - name: Run the build process with Docker
         uses: docker://crease/displacement_forecast:latest
         with:
