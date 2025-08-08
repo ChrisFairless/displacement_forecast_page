@@ -22,7 +22,7 @@ jobs:
       #     path: /app/data/reports/report.html
       #     key: cache-${{ github.run_id }}-${{ github.run_attempt }}
       - name: Run the build process with Docker
-        uses: docker://displacement_forecast:latest
+        uses: docker://crease/displacement_forecast:latest
         with:
           options: -v ${{ github.workspace }}:/reports
           entrypoint: ./entrypoint.sh
