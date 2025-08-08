@@ -21,17 +21,17 @@ jobs:
       #   with:
       #     path: /app/data/reports/report.html
       #     key: cache-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Copy climada.conf to local directory
+        run: cp /app/climada.conf ${{ github.workspace }}
       - name: Run the build process with Docker
         uses: docker://crease/displacement_forecast:latest
         with:
           options: -v ${{ github.workspace }}:/reports
           entrypoint: /app/entrypoint.sh
           args: python /app/process_forecast.py
-      - name: Run the forecast script
-        run: python process_forecast.py
       - name: Copy outputs to workspace
         run: |-
-          cp /app/data/reports/ {{ github.workspace }}/reports/
+          cp /app/data/reports/ {{ github.workspace }}
       - name: Commit and push any changes
         run: |-
           git config --local user.name "GitHub Actions"
