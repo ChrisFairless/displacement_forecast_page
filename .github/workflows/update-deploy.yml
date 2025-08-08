@@ -25,7 +25,7 @@ jobs:
         uses: docker://crease/displacement_forecast:latest
         with:
           entrypoint: /app/entrypoint.sh
-          args: "cp /app/climada.conf ~/ && python /app/process_forecast.py"
+          args: "cp /app/climada.conf ~/climada.conf && python /app/process_forecast.py"
       - name: Copy outputs to workspace
         run: |-
           cp /app/data/reports/ {{ github.workspace }}
