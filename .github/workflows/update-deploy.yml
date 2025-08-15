@@ -23,7 +23,7 @@ jobs:
 
       - name: Run forecast in container
         run: |
-          docker run --rm -v ${{ github.workspace }}:/app crease/displacement_forecast:v0.1
+          docker run --rm -v ${{ github.workspace }}:/app/data crease/displacement_forecast:v0.1
 
       - name: Commit and push any changes
         run: |-
