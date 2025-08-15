@@ -23,7 +23,7 @@ jobs:
 
       - name: Run forecast in container
         run: |
-          docker run --rm -v ${{ github.workspace }}:/app --entrypoint /app/entrypoint.sh crease/displacement_forecast:latest -c "python /app/process_forecast.py"
+          docker run --rm -v ${{ github.workspace }}:/app crease/displacement_forecast:v0.1
 
       - name: Commit and push any changes
         run: |-
