@@ -11,7 +11,6 @@ on:
 jobs:
   update-forecast:
     runs-on: ubuntu-latest
-    container: crease/displacement_forecast:latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
@@ -22,11 +21,9 @@ jobs:
       #     path: /app/data/reports/report.html
       #     key: cache-${{ github.run_id }}-${{ github.run_attempt }}
 
-      - name: Run forecast process
-        run: python /app/process_forecast.py
-
-      - name: Copy outputs to workspace
-        run: cp /app/data/* {{ github.workspace }}/data/
+      - name: Run forecast in container
+        run: |
+          docker run --rm -v ${{ github.workspace }}:/app crease/displacement_forecast:latest
 
       - name: Commit and push any changes
         run: |-
