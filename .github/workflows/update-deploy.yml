@@ -21,20 +21,21 @@ jobs:
       #   with:
       #     path: /app/data/reports/report.html
       #     key: cache-${{ github.run_id }}-${{ github.run_attempt }}
-      - name: Run the build process with Docker
-        uses: docker://crease/displacement_forecast:latest
-        with:
-          entrypoint: /app/entrypoint.sh
-          args: python /app/process_forecast.py
+
+      - name: Run forecast process
+        run: python /app/process_forecast.py
+
       - name: Copy outputs to workspace
-        run: |-
-          cp /app/data/* {{ github.workspace }}/data/
+        run: cp /app/data/* {{ github.workspace }}/data/
+
       - name: Commit and push any changes
         run: |-
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@users.noreply.github.com"
-          git add */report/*.png
-          git add *.html
+          git add data/*/report/*.png
+          git add data/*/report/*.html
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
