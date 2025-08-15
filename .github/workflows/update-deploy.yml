@@ -33,7 +33,7 @@ jobs:
         run: |-
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@users.noreply.github.com"
-          git add *.png
+          git add */report/*.png
           git add *.html
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
