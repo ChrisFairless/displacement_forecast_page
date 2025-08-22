@@ -23,14 +23,16 @@ jobs:
 
       - name: Run forecast in container
         run: |
-          docker run --rm -v ${{ github.workspace }}:/app/data crease/displacement_forecast:latest
+          docker run --rm -v "${{ github.workspace }}/docs:/app/output" crease/displacement_forecast:latest
 
       - name: Commit and push any changes
         run: |-
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@users.noreply.github.com"
-          find data -type f -path "*/report/*.png" -exec git add {} +
-          find data -type f -path "*/report/*.png" -exec git add {} +
+          find data -type f -path "/app/output/*/report/*.png" -exec git add {} +
+          find data -type f -path "/app/output/*/report/*.png" -exec git add {} +
+          find data -type f -path "/app/output/index.html" -exec git add {} +
+          find data -type f -path "/app/output/index.md" -exec git add {} +
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
