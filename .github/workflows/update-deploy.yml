@@ -29,10 +29,10 @@ jobs:
         run: |-
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@users.noreply.github.com"
-          find data -type f -path "/app/output/*/report/*.png" -exec git add {} +
-          find data -type f -path "/app/output/*/report/*.png" -exec git add {} +
-          find data -type f -path "/app/output/index.html" -exec git add {} +
-          find data -type f -path "/app/output/index.md" -exec git add {} +
+          find docs -type f -path "*/report/*.png" -exec git add {} +
+          find docs -type f -path "*/report/*.png" -exec git add {} +
+          find docs -type f -path "index.html" -exec git add {} +
+          find docs -type f -path "index.md" -exec git add {} +
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
