@@ -1,0 +1,8 @@
+cache*
+.idea
+*.pkl
+.DS_Store
+.env
+*__pycache__*
+deleteme
+*egg-info*
