@@ -5,6 +5,7 @@ This will grow up to be an informative greeting one day.
 # Forecast Archive
 | Forecast Time                                             |   Number of Named Storms | Storms    |   Number Affecting People |   Number Displacing People |
 |:----------------------------------------------------------|-------------------------:|:----------|--------------------------:|---------------------------:|
+| [2025-08-23 12:00 UTC](20250823120000/report/report.html) |                        1 | KAJIKI    |                         1 |                          1 |
 | [2025-08-18 00:00 UTC](20250818000000/report/report.html) |                        1 | ERIN      |                         1 |                          1 |
 | [2025-08-07 12:00 UTC](20250807120000/report/report.html) |                        4 | HENRIETTE |                         0 |                          0 |
 |                                                           |                          | AWO       |                           |                            |
@@ -28,6 +29,8 @@ This will grow up to be an informative greeting one day.
 |                                                           |                          | COMAY     |                           |                            |
 | [2025-08-21 12:00 UTC](20250821120000/report/report.html) |                        2 | ERIN      |                         1 |                          1 |
 |                                                           |                          | LINGLING  |                           |                            |
+| [2025-08-23 00:00 UTC](20250823000000/report/report.html) |                        2 | ERIN      |                         1 |                          1 |
+|                                                           |                          | KAJIKI    |                           |                            |
 | [2025-08-18 12:00 UTC](20250818120000/report/report.html) |                        1 | ERIN      |                         1 |                          1 |
 | [2025-08-07 00:00 UTC](20250807000000/report/report.html) |                        3 | IVO       |                         0 |                          0 |
 |                                                           |                          | DEXTER    |                           |                            |
@@ -67,7 +70,10 @@ This will grow up to be an informative greeting one day.
 |                                                           |                          | KELI      |                           |                            |
 |                                                           |                          | CO-MAY    |                           |                            |
 | [2025-08-20 12:00 UTC](20250820120000/report/report.html) |                        1 | ERIN      |                         1 |                          1 |
+| [2025-08-22 12:00 UTC](20250822120000/report/report.html) |                        1 | ERIN      |                         0 |                          0 |
 | [2025-08-19 00:00 UTC](20250819000000/report/report.html) |                        1 | ERIN      |                         1 |                          1 |
+| [2025-08-24 00:00 UTC](20250824000000/report/report.html) |                        2 | FERNAND   |                         1 |                          1 |
+|                                                           |                          | KAJIKI    |                           |                            |
 | [2025-08-06 12:00 UTC](20250806120000/report/report.html) |                        3 | DEXTER    |                         0 |                          0 |
 |                                                           |                          | BAILU     |                           |                            |
 |                                                           |                          | HENRIETTE |                           |                            |
@@ -89,6 +95,8 @@ This will grow up to be an informative greeting one day.
 | [2025-08-20 00:00 UTC](20250820000000/report/report.html) |                        1 | ERIN      |                         1 |                          1 |
 | [2025-08-22 00:00 UTC](20250822000000/report/report.html) |                        1 | ERIN      |                         0 |                          0 |
 | [2025-08-19 12:00 UTC](20250819120000/report/report.html) |                        1 | ERIN      |                         1 |                          1 |
+| [2025-08-24 12:00 UTC](20250824120000/report/report.html) |                        2 | KAJIKI    |                         0 |                          0 |
+|                                                           |                          | FERNAND   |                           |                            |
 | [2025-08-06 00:00 UTC](20250806000000/report/report.html) |                        3 | HENRIETTE |                         0 |                          0 |
 |                                                           |                          | BAILU     |                           |                            |
 |                                                           |                          | DEXTER    |                           |                            |
