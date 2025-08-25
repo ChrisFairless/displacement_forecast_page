@@ -31,10 +31,10 @@ jobs:
           git config --local user.email "actions@users.noreply.github.com"
           find docs -type f -path "*/report/*.png" -exec git add {} +
           find docs -type f -path "*/report/*.png" -exec git add {} +
-          find docs -type f -path "index.html" -exec git add {} +
-          find docs -type f -path "index.md" -exec git add {} +
+          find docs -type f -path "*/index.html" -exec git add {} +
+          find docs -type f -path "*/index.md" -exec git add {} +
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
