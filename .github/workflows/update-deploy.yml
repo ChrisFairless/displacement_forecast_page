@@ -14,12 +14,6 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
-      # - name: Set up cache for this attempt
-      #   uses: actions/cache@v4
-      #   id: cache
-      #   with:
-      #     path: /app/data/reports/report.html
-      #     key: cache-${{ github.run_id }}-${{ github.run_attempt }}
 
       - name: Run forecast in container
         run: |
@@ -27,8 +21,9 @@ jobs:
 
       - name: Commit and push any changes
         run: |-
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/ChrisFairless/displacement_forecast_page.git
           find docs -type f -path "*/report/*.png" -exec git add {} +
           find docs -type f -path "*/report/*.png" -exec git add {} +
           find docs -type f -path "*/index.html" -exec git add {} +
@@ -36,5 +31,3 @@ jobs:
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
