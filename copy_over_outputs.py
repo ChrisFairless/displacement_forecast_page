@@ -4,7 +4,11 @@ import numpy as np
 from pathlib import Path
 
 source_dir = '/Users/chrisfairless/Projects/UNU/idmc/forecast/displacement_forecast/output/'
-target_dir = '/Users/chrisfairless/Projects/UNU/idmc/forecast/displacement_forecast_page/data/'
+target_dir = '/Users/chrisfairless/Projects/UNU/idmc/forecast/displacement_forecast_page/docs/'
+
+overwrite = True
+
+skip_html = True
 
 for d in os.listdir(source_dir):
     dir = Path(source_dir, d)
@@ -32,16 +36,19 @@ for d in os.listdir(source_dir):
     os.makedirs(write_dir, exist_ok=True)
     os.makedirs(write_report_dir, exist_ok=True)
 
-    if os.path.exists(write_report_path):
+    if os.path.exists(write_report_path) and not overwrite:
         print('Report already at the write location. Skipping.')
         continue
 
     for f in os.listdir(report_dir):
         src_file = Path(report_dir, f)
+        if skip_html and 'html' in str(src_file):
+            continue
         dst_file = Path(write_report_dir, f)
         shutil.copy(src_file, dst_file)
     print(f'Copied files from {report_dir} to {write_report_dir}.')
 
 print('Copying home page')
-shutil.copy(Path(source_dir, 'index.html'), Path(target_dir, 'index.html'))
+if not skip_html:
+    shutil.copy(Path(source_dir, 'index.html'), Path(target_dir, 'index.html'))
 shutil.copy(Path(source_dir, 'index.md'), Path(target_dir, 'index.md'))
