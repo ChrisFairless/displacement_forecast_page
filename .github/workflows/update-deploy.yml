@@ -19,11 +19,6 @@ jobs:
         run: |
           docker run --rm -v "${{ github.workspace }}/docs:/app/docs" crease/displacement_forecast:latest
 
-      - name: Set up git user
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Commit and push any changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
