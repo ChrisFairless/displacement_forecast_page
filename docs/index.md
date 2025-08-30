@@ -7,6 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                             |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------|---------------------------|----------------------------|
+| [2025-08-30 00:00 UTC](20250830000000/report/report.html) |                        1 | NONGFA                             |                         1 |                          1 |
 | [2025-08-28 12:00 UTC](20250828120000/report/report.html) |                        2 | FERNAND, JULIETTE                  |                         0 |                          0 |
 | [2025-08-28 00:00 UTC](20250828000000/report/report.html) |                        2 | JULIETTE, FERNAND                  |                         0 |                          0 |
 | [2025-08-27 12:00 UTC](20250827120000/report/report.html) |                        2 | FERNAND, JULIETTE                  |                         0 |                          0 |
