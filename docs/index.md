@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                             |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------|---------------------------|----------------------------|
-| [2025-09-03 12:00 UTC](20250903120000/report/report.html) |                        2 | KIKO, LORENA                       |                         0 |                          0 |
+| [2025-09-05 12:00 UTC](20250905120000/report/report.html) |                        3 | KIKO, LORENA, PEIPAH               |                         0 |                          0 |
 | [2025-09-02 12:00 UTC](20250902120000/report/report.html) |                        1 | KIKO                               |                         0 |                          0 |
 | [2025-09-02 00:00 UTC](20250902000000/report/report.html) |                        1 | KIKO                               |                         0 |                          0 |
 | [2025-09-01 12:00 UTC](20250901120000/report/report.html) |                        1 | KIKO                               |                         1 |                          1 |
