@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                             |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------|---------------------------|----------------------------|
-| [2025-09-16 12:00 UTC](20250916120000/report/report.html) |                        1 | MARIO                              |                         0 |                          0 |
+| [2025-09-17 12:00 UTC](20250917120000/report/report.html) |                        1 | MARIO                              |                         0 |                          0 |
 | [2025-09-16 00:00 UTC](20250916000000/report/report.html) |                        1 | MARIO                              |                         0 |                          0 |
 | [2025-09-15 00:00 UTC](20250915000000/report/report.html) |                        1 | MARIO                              |                         0 |                          0 |
 | [2025-09-10 12:00 UTC](20250910120000/report/report.html) |                        1 | KIKO                               |                         0 |                          0 |
