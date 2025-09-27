@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                      |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|---------------------------------------------|---------------------------|----------------------------|
-| [2025-09-26 12:00 UTC](20250926120000/report/report.html) |                        5 | BUALOI, GABRIELLE, NARDA, NEOGURI, HUMBERTO |                         2 |                          2 |
+| [2025-09-27 00:00 UTC](20250927000000/report/report.html) |                        5 | BUALOI, NARDA, NEOGURI, HUMBERTO, GABRIELLE |                         2 |                          2 |
 | [2025-09-22 00:00 UTC](20250922000000/report/report.html) |                        4 | GABRIELLE, RAGASA, NEOGURI, NARDA           |                         3 |                          3 |
 | [2025-09-21 12:00 UTC](20250921120000/report/report.html) |                        3 | RAGASA, GABRIELLE, NEOGURI                  |                         3 |                          3 |
 | [2025-09-21 00:00 UTC](20250921000000/report/report.html) |                        3 | NEOGURI, GABRIELLE, RAGASA                  |                         3 |                          3 |
