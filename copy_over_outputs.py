@@ -3,12 +3,15 @@ import shutil
 import numpy as np
 from pathlib import Path
 
-source_dir = '/Users/chrisfairless/Projects/UNU/idmc/forecast/displacement_forecast/output/'
-target_dir = '/Users/chrisfairless/Projects/UNU/idmc/forecast/displacement_forecast_page/docs/'
+source_dir = '/Users/chrisfairless/Data/UNU/idmc/displacement_forecast/output/'
+target_dir = '/Users/chrisfairless/OneDrive/Projects/UNU/idmc/forecast/displacement_forecast_page/docs/'
 
-overwrite = True
+overwrite = False
 
 skip_html = True
+
+assert os.path.exists(source_dir)
+assert os.path.exists(target_dir)
 
 for d in os.listdir(source_dir):
     dir = Path(source_dir, d)
