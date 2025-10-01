@@ -7,6 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2025-10-01 00:00 UTC](20251001000000/report/report.html) |                        3 | OCTAVE, HUMBERTO, IMELDA                            |                         1 |                          1 |
 | [2025-09-30 00:00 UTC](20250930000000/report/report.html) |                        2 | IMELDA, HUMBERTO                                    |                         2 |                          2 |
 | [2025-09-29 12:00 UTC](20250929120000/report/report.html) |                        5 | HUMBERTO, IMELDA, NEOGURI, NARDA, BUALOI            |                         1 |                          1 |
 | [2025-09-28 00:00 UTC](20250928000000/report/report.html) |                        4 | HUMBERTO, NARDA, BUALOI, NEOGURI                    |                         2 |                          2 |
