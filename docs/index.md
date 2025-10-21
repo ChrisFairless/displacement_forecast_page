@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2025-10-15 12:00 UTC](20251015120000/report/report.html) |                        1 | LORENZO                                             |                         0 |                          0 |
+| [2025-10-20 12:00 UTC](20251020120000/report/report.html) |                        2 | CHENGE, FENGSHEN                                    |                         1 |                          1 |
 | [2025-10-13 00:00 UTC](20251013000000/report/report.html) |                        1 | NAKRI                                               |                         1 |                          1 |
 | [2025-10-12 12:00 UTC](20251012120000/report/report.html) |                        2 | RAYMOND, NAKRI                                      |                         1 |                          1 |
 | [2025-10-12 00:00 UTC](20251012000000/report/report.html) |                        3 | NAKRI, JERRY, RAYMOND                               |                         1 |                          1 |
