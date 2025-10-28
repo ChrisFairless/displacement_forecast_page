@@ -26,6 +26,12 @@ This will grow up to be an informative greeting one day.
 | [2025-10-20 00:00 UTC](20251020000000/report/report.html) |                        2 | CHENGE, FENGSHEN                                    |                         2 |                          2 |
 | [2025-10-19 12:00 UTC](20251019120000/report/report.html) |                        2 | CHENGE, FENGSHEN                                    |                         2 |                          2 |
 | [2025-10-19 00:00 UTC](20251019000000/report/report.html) |                        2 | FENGSHEN, CHENGE                                    |                         2 |                          2 |
+| [2025-10-18 12:00 UTC](20251018120000/report/report.html) |                        1 | FENGSHEN                                            |                         1 |                          1 |
+| [2025-10-18 00:00 UTC](20251018000000/report/report.html) |                        1 | FENGSHEN                                            |                         1 |                          1 |
+| [2025-10-16 00:00 UTC](20251016000000/report/report.html) |                        1 | LORENZO                                             |                         0 |                          0 |
+| [2025-10-15 12:00 UTC](20251015120000/report/report.html) |                        1 | LORENZO                                             |                         0 |                          0 |
+| [2025-10-15 00:00 UTC](20251015000000/report/report.html) |                        2 | NAKRI, LORENZO                                      |                         0 |                          0 |
+| [2025-10-14 12:00 UTC](20251014120000/report/report.html) |                        2 | NAKRI, LORENZO                                      |                         0 |                          0 |
 | [2025-10-14 00:00 UTC](20251014000000/report/report.html) |                        2 | LORENZO, NAKRI                                      |                         0 |                          0 |
 | [2025-10-13 12:00 UTC](20251013120000/report/report.html) |                        2 | NAKRI, LORENZO                                      |                         0 |                          0 |
 | [2025-10-13 00:00 UTC](20251013000000/report/report.html) |                        1 | NAKRI                                               |                         1 |                          1 |
