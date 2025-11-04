@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2025-11-02 12:00 UTC](20251102120000/report/report.html) |                        1 | KALMAEGI                                            |                         1 |                          1 |
+| [2025-11-03 12:00 UTC](20251103120000/report/report.html) |                        1 | KALMAEGI                                            |                         1 |                          1 |
 | [2025-10-28 00:00 UTC](20251028000000/report/report.html) |                        3 | MELISSA, MONTHA, SONIA                              |                         2 |                          2 |
 | [2025-10-27 12:00 UTC](20251027120000/report/report.html) |                        3 | SONIA, MELISSA, MONTHA                              |                         2 |                          2 |
 | [2025-10-27 00:00 UTC](20251027000000/report/report.html) |                        3 | MONTHA, MELISSA, SONIA                              |                         1 |                          1 |
