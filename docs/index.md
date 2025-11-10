@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2025-11-09 00:00 UTC](20251109000000/report/report.html) |                        1 | FUNG-WONG                                           |                         1 |                          1 |
+| [2025-11-09 12:00 UTC](20251109120000/report/report.html) |                        1 | FUNG-WONG                                           |                         1 |                          1 |
 | [2025-11-08 00:00 UTC](20251108000000/report/report.html) |                        1 | FUNG-WONG                                           |                         1 |                          1 |
 | [2025-11-07 00:00 UTC](20251107000000/report/report.html) |                        2 | FUNG-WONG, KALMAEGI                                 |                         1 |                          1 |
 | [2025-11-06 12:00 UTC](20251106120000/report/report.html) |                        2 | KALMAEGI, FUNG-WONG                                 |                         2 |                          2 |
