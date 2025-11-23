@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2025-11-22 00:00 UTC](20251122000000/report/report.html) |                        1 | FINA                                                |                         1 |                          1 |
+| [2025-11-22 12:00 UTC](20251122120000/report/report.html) |                        1 | FINA                                                |                         1 |                          1 |
 | [2025-11-20 12:00 UTC](20251120120000/report/report.html) |                        1 | FINA                                                |                         1 |                          1 |
 | [2025-11-19 00:00 UTC](20251119000000/report/report.html) |                        1 | FINA                                                |                         1 |                          1 |
 | [2025-11-13 00:00 UTC](20251113000000/report/report.html) |                        1 | FUNGWONG                                            |                         0 |                          0 |
