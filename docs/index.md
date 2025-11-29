@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2025-11-28 12:00 UTC](20251128120000/report/report.html) |                        2 | DITWAH, KOTO                                        |                         2 |                          2 |
+| [2025-11-29 00:00 UTC](20251129000000/report/report.html) |                        2 | DITWAH, KOTO                                        |                         0 |                          0 |
 | [2025-11-26 00:00 UTC](20251126000000/report/report.html) |                        1 | KOTO                                                |                         1 |                          1 |
 | [2025-11-25 00:00 UTC](20251125000000/report/report.html) |                        1 | FINA                                                |                         1 |                          1 |
 | [2025-11-24 12:00 UTC](20251124120000/report/report.html) |                        1 | FINA                                                |                         1 |                          1 |
