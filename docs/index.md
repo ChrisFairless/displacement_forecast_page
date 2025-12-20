@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2025-12-19 00:00 UTC](20251219000000/report/report.html) |                        0 |                                                     |                         0 |                          0 |
+| [2025-12-19 12:00 UTC](20251219120000/report/report.html) |                        0 |                                                     |                         0 |                          0 |
 | [2025-12-17 00:00 UTC](20251217000000/report/report.html) |                        1 | BAKUNG                                              |                         0 |                          0 |
 | [2025-12-16 12:00 UTC](20251216120000/report/report.html) |                        1 | BAKUNG                                              |                         0 |                          0 |
 | [2025-12-16 00:00 UTC](20251216000000/report/report.html) |                        1 | BAKUNG                                              |                         0 |                          0 |
