@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2026-01-03 12:00 UTC](20260103120000/report/report.html) |                        1 | GRANT                                               |                         1 |                          1 |
+| [2026-01-04 00:00 UTC](20260104000000/report/report.html) |                        1 | GRANT                                               |                         0 |                          0 |
 | [2025-12-27 12:00 UTC](20251227120000/report/report.html) |                        1 | GRANT                                               |                         0 |                          0 |
 | [2025-12-27 00:00 UTC](20251227000000/report/report.html) |                        1 | GRANT                                               |                         0 |                          0 |
 | [2025-12-26 12:00 UTC](20251226120000/report/report.html) |                        1 | GRANT                                               |                         1 |                          1 |
