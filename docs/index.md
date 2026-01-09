@@ -7,6 +7,8 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-01-09 00:00 UTC](20260109000000/report/report.html) |                        1 | JENNA                                               |                         0 |                          0 |
+| [2026-01-08 12:00 UTC](20260108120000/report/report.html) |                        1 | JENNA                                               |                         0 |                          0 |
 | [2026-01-07 12:00 UTC](20260107120000/report/report.html) |                        1 | JENNA                                               |                         0 |                          0 |
 | [2026-01-07 00:00 UTC](20260107000000/report/report.html) |                        1 | JENNA                                               |                         0 |                          0 |
 | [2026-01-06 12:00 UTC](20260106120000/report/report.html) |                        2 | JENNA, GRANT                                        |                         0 |                          0 |
