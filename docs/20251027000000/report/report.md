@@ -9,6 +9,26 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251027000000.png)
 
 
+## MONTHA India: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_00UTC_IND_cat1.png)
+
+
+## MONTHA India: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MONTHA_2025-10-27_00UTC_IND_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_00UTC_IND_exposed.png)
+
+
+## MONTHA India: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MONTHA_2025-10-27_00UTC_IND_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_00UTC_IND_displaced.png)
+
+
 ## MELISSA Bahamas: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_BHS_cat1.png)
@@ -30,6 +50,52 @@ There are 3 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_BHS_displaced.png)
+
+
+## MELISSA Bermuda: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_BMU_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_BMU_cat3.png)
+
+
+## MELISSA Bermuda: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_BMU_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_BMU_exposed.png)
+
+
+## MELISSA Bermuda: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_BMU_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_BMU_displaced.png)
+
+
+## MELISSA Canada: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_CAN_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_CAN_cat3.png)
+
+
+## MELISSA Canada: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_CAN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_CAN_exposed.png)
+
+
+## MELISSA Canada: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_CAN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_CAN_displaced.png)
 
 
 ## MELISSA Cuba: areas affected
@@ -55,9 +121,44 @@ There are 3 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_CUB_displaced.png)
 
 
+## MELISSA United Kingdom: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_GBR_cat1.png)
+
+
+## MELISSA United Kingdom: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_GBR_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_GBR_exposed.png)
+
+
+## MELISSA United Kingdom: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_GBR_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_GBR_displaced.png)
+
+
 ## MELISSA Ireland: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_IRL_cat1.png)
+
+
+## MELISSA Ireland: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_IRL_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_IRL_exposed.png)
+
+
+## MELISSA Ireland: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_IRL_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_IRL_displaced.png)
 
 
 ## MELISSA Jamaica: areas affected
@@ -75,9 +176,32 @@ There are 3 active named storms.
 ![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_JAM_exposed.png)
 
 
-## MELISSA Turks and Caicos Islands: no forecast people displaced
+## MELISSA Jamaica: people displaced
 
-Storm MELISSA is not forecast to displace people in Turks and Caicos Islands.
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_JAM_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_JAM_displaced.png)
+
+
+## MELISSA Portugal: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_PRT_cat1.png)
+
+
+## MELISSA Portugal: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_PRT_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_PRT_exposed.png)
+
+
+## MELISSA Portugal: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_PRT_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_00UTC_PRT_displaced.png)
 
 
 ## MELISSA Turks and Caicos Islands: areas affected

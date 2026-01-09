@@ -1,1 +1,1 @@
-{"forecast_time": "2025-10-27 00:00 UTC", "number_active": 3, "storm_names": ["MONTHA", "MELISSA", "SONIA"], "number_affecting_people": 1, "number_displacing_people": 1, "storms_affecting_people": ["MELISSA"], "storms_displacing_people": ["MELISSA"]}
+{"forecast_time": "2025-10-27 00:00 UTC", "number_active": 3, "storm_names": ["MONTHA", "MELISSA", "SONIA"], "number_affecting_people": 2, "number_displacing_people": 2, "storms_affecting_people": ["MONTHA", "MELISSA"], "storms_displacing_people": ["MONTHA", "MELISSA"]}

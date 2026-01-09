@@ -9,16 +9,6 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251127000000.png)
 
 
-## SENYAR All countries: No forecast people exposed
-
-Storm SENYAR is not forecast to affect people in All countries.
-
-
-## SENYAR All countries: no forecast people displaced
-
-Storm SENYAR is not forecast to displace people in All countries.
-
-
 ## KOTO Viet Nam: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_KOTO_2025-11-27_00UTC_VNM_cat1.png)
@@ -37,5 +27,15 @@ Storm SENYAR is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_KOTO_2025-11-27_00UTC_VNM_displaced.png)
+
+
+## SENYAR All countries: No forecast people exposed
+
+Storm SENYAR is not forecast to affect people in All countries.
+
+
+## SENYAR All countries: no forecast people displaced
+
+Storm SENYAR is not forecast to displace people in All countries.
 
 

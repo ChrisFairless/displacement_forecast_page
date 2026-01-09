@@ -9,6 +9,24 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251007000000.png)
 
 
+## PRISCILLA Mexico: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_00UTC_MEX_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_00UTC_MEX_cat3.png)
+
+
+## OCTAVE All countries: No forecast people exposed
+
+Storm OCTAVE is not forecast to affect people in All countries.
+
+
+## OCTAVE All countries: no forecast people displaced
+
+Storm OCTAVE is not forecast to displace people in All countries.
+
+
 ## HALONG Japan: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-07_00UTC_JPN_cat1.png)
@@ -38,23 +56,5 @@ There are 3 active named storms.
 
 
 ![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-07_00UTC_USA_cat3.png)
-
-
-## OCTAVE All countries: No forecast people exposed
-
-Storm OCTAVE is not forecast to affect people in All countries.
-
-
-## OCTAVE All countries: no forecast people displaced
-
-Storm OCTAVE is not forecast to displace people in All countries.
-
-
-## PRISCILLA Mexico: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_00UTC_MEX_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_00UTC_MEX_cat3.png)
 
 

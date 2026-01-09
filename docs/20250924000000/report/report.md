@@ -9,110 +9,6 @@ There are 5 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250924000000.png)
 
 
-## NARDA All countries: No forecast people exposed
-
-Storm NARDA is not forecast to affect people in All countries.
-
-
-## NARDA All countries: no forecast people displaced
-
-Storm NARDA is not forecast to displace people in All countries.
-
-
-## RAGASA China: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_cat3.png)
-
-
-## RAGASA China: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_exposed.png)
-
-
-## RAGASA China: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_displaced.png)
-
-
-## RAGASA Hong Kong: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_cat3.png)
-
-
-## RAGASA Hong Kong: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_exposed.png)
-
-
-## RAGASA Hong Kong: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_displaced.png)
-
-
-## RAGASA Macao: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_MAC_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_MAC_cat3.png)
-
-
-## RAGASA Viet Nam: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_VNM_cat1.png)
-
-
-## RAGASA Viet Nam: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_VNM_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_VNM_exposed.png)
-
-
-## RAGASA Viet Nam: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_VNM_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_VNM_displaced.png)
-
-
-## GABRIELLE Portugal: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-24_00UTC_PRT_cat1.png)
-
-
-## GABRIELLE Portugal: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-24_00UTC_PRT_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-24_00UTC_PRT_exposed.png)
-
-
-## GABRIELLE Portugal: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-24_00UTC_PRT_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-24_00UTC_PRT_displaced.png)
-
-
 ## BUALOI China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_BUALOI_2025-09-24_00UTC_CHN_cat1.png)
@@ -227,8 +123,112 @@ Storm NARDA is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_BUALOI_2025-09-24_00UTC_VNM_displaced.png)
 
 
+## NARDA All countries: No forecast people exposed
+
+Storm NARDA is not forecast to affect people in All countries.
+
+
+## NARDA All countries: no forecast people displaced
+
+Storm NARDA is not forecast to displace people in All countries.
+
+
 ## NEOGURI United States: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-24_00UTC_USA_cat1.png)
+
+
+## RAGASA China: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_cat3.png)
+
+
+## RAGASA China: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_exposed.png)
+
+
+## RAGASA China: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_CHN_displaced.png)
+
+
+## RAGASA Hong Kong: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_cat3.png)
+
+
+## RAGASA Hong Kong: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_exposed.png)
+
+
+## RAGASA Hong Kong: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_HKG_displaced.png)
+
+
+## RAGASA Macao: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_MAC_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_MAC_cat3.png)
+
+
+## RAGASA Viet Nam: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_VNM_cat1.png)
+
+
+## RAGASA Viet Nam: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_VNM_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_VNM_exposed.png)
+
+
+## RAGASA Viet Nam: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_VNM_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-24_00UTC_VNM_displaced.png)
+
+
+## GABRIELLE Portugal: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-24_00UTC_PRT_cat1.png)
+
+
+## GABRIELLE Portugal: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-24_00UTC_PRT_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-24_00UTC_PRT_exposed.png)
+
+
+## GABRIELLE Portugal: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-24_00UTC_PRT_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-24_00UTC_PRT_displaced.png)
 
 

@@ -9,14 +9,14 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251003000000.png)
 
 
-## IMELDA All countries: No forecast people exposed
+## OCTAVE All countries: No forecast people exposed
 
-Storm IMELDA is not forecast to affect people in All countries.
+Storm OCTAVE is not forecast to affect people in All countries.
 
 
-## IMELDA All countries: no forecast people displaced
+## OCTAVE All countries: no forecast people displaced
 
-Storm IMELDA is not forecast to displace people in All countries.
+Storm OCTAVE is not forecast to displace people in All countries.
 
 
 ## MATMO China: areas affected
@@ -108,13 +108,13 @@ Storm IMELDA is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_MATMO_2025-10-03_00UTC_VNM_displaced.png)
 
 
-## OCTAVE All countries: No forecast people exposed
+## IMELDA All countries: No forecast people exposed
 
-Storm OCTAVE is not forecast to affect people in All countries.
+Storm IMELDA is not forecast to affect people in All countries.
 
 
-## OCTAVE All countries: no forecast people displaced
+## IMELDA All countries: no forecast people displaced
 
-Storm OCTAVE is not forecast to displace people in All countries.
+Storm IMELDA is not forecast to displace people in All countries.
 
 

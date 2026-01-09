@@ -9,14 +9,14 @@ There are 4 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250928120000.png)
 
 
-## NARDA All countries: No forecast people exposed
+## NEOGURI All countries: No forecast people exposed
 
-Storm NARDA is not forecast to affect people in All countries.
+Storm NEOGURI is not forecast to affect people in All countries.
 
 
-## NARDA All countries: no forecast people displaced
+## NEOGURI All countries: no forecast people displaced
 
-Storm NARDA is not forecast to displace people in All countries.
+Storm NEOGURI is not forecast to displace people in All countries.
 
 
 ## BUALOI Lao People's Democratic Republic: areas affected
@@ -62,6 +62,16 @@ Storm NARDA is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_BUALOI_2025-09-28_12UTC_VNM_displaced.png)
 
 
+## NARDA All countries: No forecast people exposed
+
+Storm NARDA is not forecast to affect people in All countries.
+
+
+## NARDA All countries: no forecast people displaced
+
+Storm NARDA is not forecast to displace people in All countries.
+
+
 ## HUMBERTO Bermuda: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-28_12UTC_BMU_cat1.png)
@@ -80,15 +90,5 @@ Storm NARDA is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-28_12UTC_BMU_displaced.png)
-
-
-## NEOGURI All countries: No forecast people exposed
-
-Storm NEOGURI is not forecast to affect people in All countries.
-
-
-## NEOGURI All countries: no forecast people displaced
-
-Storm NEOGURI is not forecast to displace people in All countries.
 
 

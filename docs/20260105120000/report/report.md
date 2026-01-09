@@ -9,16 +9,6 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260105120000.png)
 
 
-## JENNA All countries: No forecast people exposed
-
-Storm JENNA is not forecast to affect people in All countries.
-
-
-## JENNA All countries: no forecast people displaced
-
-Storm JENNA is not forecast to displace people in All countries.
-
-
 ## GRANT All countries: No forecast people exposed
 
 Storm GRANT is not forecast to affect people in All countries.
@@ -27,5 +17,15 @@ Storm GRANT is not forecast to affect people in All countries.
 ## GRANT All countries: no forecast people displaced
 
 Storm GRANT is not forecast to displace people in All countries.
+
+
+## JENNA All countries: No forecast people exposed
+
+Storm JENNA is not forecast to affect people in All countries.
+
+
+## JENNA All countries: no forecast people displaced
+
+Storm JENNA is not forecast to displace people in All countries.
 
 
