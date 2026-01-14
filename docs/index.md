@@ -8,8 +8,13 @@ This will grow up to be an informative greeting one day.
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
 | [2026-01-13 12:00 UTC](20260113120000/report/report.html) |                        1 | DUDZAI                                              |                         1 |                          1 |
+| [2026-01-13 00:00 UTC](20260113000000/report/report.html) |                        1 | DUDZAI                                              |                         1 |                          1 |
+| [2026-01-12 12:00 UTC](20260112120000/report/report.html) |                        1 | DUDZAI                                              |                         1 |                          1 |
+| [2026-01-12 00:00 UTC](20260112000000/report/report.html) |                        1 | DUDZAI                                              |                         1 |                          1 |
+| [2026-01-11 12:00 UTC](20260111120000/report/report.html) |                        2 | DUDZAI, KOJI                                        |                         1 |                          1 |
 | [2026-01-11 00:00 UTC](20260111000000/report/report.html) |                        2 | KOJI, DUDZAI                                        |                         2 |                          2 |
 | [2026-01-10 12:00 UTC](20260110120000/report/report.html) |                        1 | KOJI                                                |                         1 |                          1 |
+| [2026-01-09 12:00 UTC](20260109120000/report/report.html) |                        1 | JENNA                                               |                         0 |                          0 |
 | [2026-01-09 00:00 UTC](20260109000000/report/report.html) |                        1 | JENNA                                               |                         0 |                          0 |
 | [2026-01-08 12:00 UTC](20260108120000/report/report.html) |                        1 | JENNA                                               |                         0 |                          0 |
 | [2026-01-07 12:00 UTC](20260107120000/report/report.html) |                        1 | JENNA                                               |                         0 |                          0 |
