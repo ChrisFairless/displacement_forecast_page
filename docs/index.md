@@ -7,7 +7,6 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2026-01-14 00:00 UTC](20260114000000/report/report.html) |                        0 |                                                     |                         0 |                          0 |
 | [2026-01-12 12:00 UTC](20260112120000/report/report.html) |                        1 | DUDZAI                                              |                         1 |                          1 |
 | [2026-01-11 12:00 UTC](20260111120000/report/report.html) |                        2 | DUDZAI, KOJI                                        |                         1 |                          1 |
 | [2026-01-11 00:00 UTC](20260111000000/report/report.html) |                        2 | KOJI, DUDZAI                                        |                         2 |                          2 |
