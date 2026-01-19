@@ -6,7 +6,7 @@ from pathlib import Path
 source_dir = '/Users/chrisfairless/Data/UNU/idmc/displacement_forecast/output/'
 target_dir = '/Users/chrisfairless/OneDrive/Projects/UNU/idmc/forecast/displacement_forecast_page/docs/'
 
-overwrite = False
+overwrite = True
 
 skip_html = True
 
