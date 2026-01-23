@@ -7,7 +7,8 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2026-01-22 12:00 UTC](20260122120000/report/report.html) |                        0 |                                                     |                         0 |                          0 |
+| [2026-01-22 00:00 UTC](20260122000000/report/report.html) |                        2 | EWETSE, DUDZAI                                      |                         1 |                          1 |
+| [2026-01-21 12:00 UTC](20260121120000/report/report.html) |                        2 | DUDZAI, EWETSE                                      |                         1 |                          1 |
 | [2026-01-21 00:00 UTC](20260121000000/report/report.html) |                        3 | NOKAEN, EWETSE, DUDZAI                              |                         1 |                          1 |
 | [2026-01-20 12:00 UTC](20260120120000/report/report.html) |                        2 | NOKAEN, DUDZAI                                      |                         0 |                          0 |
 | [2026-01-20 00:00 UTC](20260120000000/report/report.html) |                        2 | DUDZAI, NOKAEN                                      |                         0 |                          0 |
