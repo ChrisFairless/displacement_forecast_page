@@ -9,6 +9,16 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251004000000.png)
 
 
+## OCTAVE All countries: No forecast people exposed
+
+Storm OCTAVE is not forecast to affect people in All countries.
+
+
+## OCTAVE All countries: no forecast people displaced
+
+Storm OCTAVE is not forecast to displace people in All countries.
+
+
 ## SHAKHTI All countries: No forecast people exposed
 
 Storm SHAKHTI is not forecast to affect people in All countries.
@@ -60,15 +70,5 @@ Storm SHAKHTI is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_MATMO_2025-10-04_00UTC_VNM_displaced.png)
-
-
-## OCTAVE All countries: No forecast people exposed
-
-Storm OCTAVE is not forecast to affect people in All countries.
-
-
-## OCTAVE All countries: no forecast people displaced
-
-Storm OCTAVE is not forecast to displace people in All countries.
 
 

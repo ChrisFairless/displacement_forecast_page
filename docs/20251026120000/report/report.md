@@ -9,6 +9,16 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251026120000.png)
 
 
+## MELISSA All countries: No forecast people exposed
+
+Storm MELISSA is not forecast to affect people in All countries.
+
+
+## MELISSA All countries: no forecast people displaced
+
+Storm MELISSA is not forecast to displace people in All countries.
+
+
 ## SONIA All countries: No forecast people exposed
 
 Storm SONIA is not forecast to affect people in All countries.

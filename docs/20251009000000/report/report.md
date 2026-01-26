@@ -4,9 +4,39 @@ This is a WIP. All this is going to change, for now we're just dumping things he
 
 ## Forecast for 2025-10-09 00:00 UTC
 
-There are 4 active named storms.
+There are 5 active named storms.
 
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251009000000.png)
+
+
+## NAKRI All countries: No forecast people exposed
+
+Storm NAKRI is not forecast to affect people in All countries.
+
+
+## NAKRI All countries: no forecast people displaced
+
+Storm NAKRI is not forecast to displace people in All countries.
+
+
+## OCTAVE All countries: No forecast people exposed
+
+Storm OCTAVE is not forecast to affect people in All countries.
+
+
+## OCTAVE All countries: no forecast people displaced
+
+Storm OCTAVE is not forecast to displace people in All countries.
+
+
+## JERRY All countries: No forecast people exposed
+
+Storm JERRY is not forecast to affect people in All countries.
+
+
+## JERRY All countries: no forecast people displaced
+
+Storm JERRY is not forecast to displace people in All countries.
 
 
 ## HALONG Japan: areas affected
@@ -21,32 +51,9 @@ There are 4 active named storms.
 ![Map of possible exposed population](impact-map_TC_ECMWF_ens_HALONG_2025-10-09_00UTC_JPN_exposed.png)
 
 
-## HALONG United States: no forecast people displaced
+## PRISCILLA All countries: no forecast people displaced
 
-Storm HALONG is not forecast to displace people in United States.
-
-
-## HALONG United States: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-09_00UTC_USA_cat1.png)
-
-
-## JERRY Portugal: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_JERRY_2025-10-09_00UTC_PRT_cat1.png)
-
-
-## JERRY Sint Maarten (Dutch part): areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_JERRY_2025-10-09_00UTC_SXM_cat1.png)
-
-
-## NAKRI Japan: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NAKRI_2025-10-09_00UTC_JPN_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_NAKRI_2025-10-09_00UTC_JPN_cat3.png)
+Storm PRISCILLA is not forecast to displace people in All countries.
 
 
 ## PRISCILLA All countries: No forecast people exposed

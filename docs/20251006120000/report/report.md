@@ -9,27 +9,27 @@ There are 5 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251006120000.png)
 
 
-## PRISCILLA Mexico: areas affected
+## HALONG Japan: areas affected
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_cat3.png)
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_cat1.png)
 
 
-## PRISCILLA Mexico: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_exposed.png)
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_cat3.png)
 
 
-## PRISCILLA Mexico: people displaced
+## HALONG Japan: people exposed
 
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_displaced.png)
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_exposed.png)
 
 
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_displaced.png)
+## HALONG Japan: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_displaced.png)
 
 
 ## MATMO All countries: No forecast people exposed
@@ -52,27 +52,27 @@ Storm SHAKHTI is not forecast to affect people in All countries.
 Storm SHAKHTI is not forecast to displace people in All countries.
 
 
-## HALONG Japan: areas affected
+## PRISCILLA Mexico: areas affected
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_cat3.png)
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_cat1.png)
 
 
-## HALONG Japan: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_exposed.png)
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_cat3.png)
 
 
-## HALONG Japan: people displaced
+## PRISCILLA Mexico: people exposed
 
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_displaced.png)
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_exposed.png)
 
 
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_HALONG_2025-10-06_12UTC_JPN_displaced.png)
+## PRISCILLA Mexico: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-06_12UTC_MEX_displaced.png)
 
 
 ## OCTAVE All countries: No forecast people exposed

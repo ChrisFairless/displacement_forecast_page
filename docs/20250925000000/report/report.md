@@ -75,11 +75,6 @@ There are 6 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-25_00UTC_CAN_displaced.png)
 
 
-## HUMBERTO Greenland: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-25_00UTC_GRL_cat1.png)
-
-
 ## HUMBERTO Portugal: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-25_00UTC_PRT_cat1.png)
@@ -141,59 +136,6 @@ There are 6 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-25_00UTC_USA_displaced.png)
-
-
-## RAGASA China: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-25_00UTC_CHN_cat1.png)
-
-
-## RAGASA China: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-25_00UTC_CHN_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-25_00UTC_CHN_exposed.png)
-
-
-## RAGASA China: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-25_00UTC_CHN_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-25_00UTC_CHN_displaced.png)
-
-
-## GABRIELLE Portugal: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_cat3.png)
-
-
-## GABRIELLE Portugal: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_exposed.png)
-
-
-## GABRIELLE Portugal: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_displaced.png)
-
-
-## NARDA All countries: No forecast people exposed
-
-Storm NARDA is not forecast to affect people in All countries.
-
-
-## NARDA All countries: no forecast people displaced
-
-Storm NARDA is not forecast to displace people in All countries.
 
 
 ## BUALOI China: areas affected
@@ -305,6 +247,26 @@ Storm NARDA is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_BUALOI_2025-09-25_00UTC_VNM_displaced.png)
 
 
+## RAGASA China: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-25_00UTC_CHN_cat1.png)
+
+
+## RAGASA China: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-25_00UTC_CHN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-25_00UTC_CHN_exposed.png)
+
+
+## RAGASA China: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-25_00UTC_CHN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-25_00UTC_CHN_displaced.png)
+
+
 ## NEOGURI All countries: No forecast people exposed
 
 Storm NEOGURI is not forecast to affect people in All countries.
@@ -313,5 +275,38 @@ Storm NEOGURI is not forecast to affect people in All countries.
 ## NEOGURI All countries: no forecast people displaced
 
 Storm NEOGURI is not forecast to displace people in All countries.
+
+
+## GABRIELLE Portugal: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_cat3.png)
+
+
+## GABRIELLE Portugal: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_exposed.png)
+
+
+## GABRIELLE Portugal: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-25_00UTC_PRT_displaced.png)
+
+
+## NARDA All countries: No forecast people exposed
+
+Storm NARDA is not forecast to affect people in All countries.
+
+
+## NARDA All countries: no forecast people displaced
+
+Storm NARDA is not forecast to displace people in All countries.
 
 

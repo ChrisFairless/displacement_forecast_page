@@ -1,1 +1,1 @@
-{"forecast_time": "2026-01-25 00:00 UTC", "number_active": 1, "storm_names": ["LUANA"], "number_affecting_people": 1, "number_displacing_people": 1, "storms_affecting_people": ["LUANA"], "storms_displacing_people": ["LUANA"]}
+{"forecast_time": "2026-01-25 00:00 UTC", "storm_names": ["LUANA"], "storm_data": {"LUANA": {"countries_affected": ["Australia"], "countries_displaced": ["Australia"]}}, "storms_affecting_people": ["LUANA"], "storms_displacing_people": ["LUANA"], "number_active": 1, "number_affecting_people": 1, "number_displacing_people": 1}

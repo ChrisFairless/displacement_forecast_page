@@ -9,14 +9,44 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251027120000.png)
 
 
-## SONIA All countries: No forecast people exposed
+## MONTHA India: areas affected
 
-Storm SONIA is not forecast to affect people in All countries.
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_IND_cat1.png)
 
 
-## SONIA All countries: no forecast people displaced
+## MONTHA India: people exposed
 
-Storm SONIA is not forecast to displace people in All countries.
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_IND_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_IND_exposed.png)
+
+
+## MONTHA India: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_IND_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_IND_displaced.png)
+
+
+## MONTHA Myanmar: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_MMR_cat1.png)
+
+
+## MONTHA Myanmar: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_MMR_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_MMR_exposed.png)
+
+
+## MONTHA Myanmar: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_MMR_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_MMR_displaced.png)
 
 
 ## MELISSA Bahamas: areas affected
@@ -231,43 +261,13 @@ Storm SONIA is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_12UTC_TCA_displaced.png)
 
 
-## MONTHA India: areas affected
+## SONIA All countries: No forecast people exposed
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_IND_cat1.png)
-
-
-## MONTHA India: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_IND_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_IND_exposed.png)
+Storm SONIA is not forecast to affect people in All countries.
 
 
-## MONTHA India: people displaced
+## SONIA All countries: no forecast people displaced
 
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_IND_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_IND_displaced.png)
-
-
-## MONTHA Myanmar: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_MMR_cat1.png)
-
-
-## MONTHA Myanmar: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_MMR_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_MMR_exposed.png)
-
-
-## MONTHA Myanmar: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_MMR_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_MONTHA_2025-10-27_12UTC_MMR_displaced.png)
+Storm SONIA is not forecast to displace people in All countries.
 
 

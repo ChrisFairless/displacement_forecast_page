@@ -1,1 +1,1 @@
-{"forecast_time": "2026-01-10 12:00 UTC", "number_active": 1, "storm_names": ["KOJI"], "number_affecting_people": 1, "number_displacing_people": 1, "storms_affecting_people": ["KOJI"], "storms_displacing_people": ["KOJI"]}
+{"forecast_time": "2026-01-10 12:00 UTC", "storm_names": ["KOJI"], "storm_data": {"KOJI": {"countries_affected": ["Australia", "New Caledonia"], "countries_displaced": ["Australia", "New Caledonia"]}}, "storms_affecting_people": ["KOJI"], "storms_displacing_people": ["KOJI"], "number_active": 1, "number_affecting_people": 1, "number_displacing_people": 1}

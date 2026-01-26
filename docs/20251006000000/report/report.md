@@ -9,14 +9,14 @@ There are 5 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251006000000.png)
 
 
-## OCTAVE All countries: No forecast people exposed
+## MATMO All countries: No forecast people exposed
 
-Storm OCTAVE is not forecast to affect people in All countries.
+Storm MATMO is not forecast to affect people in All countries.
 
 
-## OCTAVE All countries: no forecast people displaced
+## MATMO All countries: no forecast people displaced
 
-Storm OCTAVE is not forecast to displace people in All countries.
+Storm MATMO is not forecast to displace people in All countries.
 
 
 ## HALONG Japan: areas affected
@@ -42,9 +42,24 @@ Storm OCTAVE is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_HALONG_2025-10-06_00UTC_JPN_displaced.png)
 
 
-## HALONG United States: areas affected
+## PRISCILLA All countries: No forecast people exposed
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-06_00UTC_USA_cat1.png)
+Storm PRISCILLA is not forecast to affect people in All countries.
+
+
+## PRISCILLA All countries: no forecast people displaced
+
+Storm PRISCILLA is not forecast to displace people in All countries.
+
+
+## OCTAVE All countries: No forecast people exposed
+
+Storm OCTAVE is not forecast to affect people in All countries.
+
+
+## OCTAVE All countries: no forecast people displaced
+
+Storm OCTAVE is not forecast to displace people in All countries.
 
 
 ## SHAKHTI All countries: No forecast people exposed
@@ -55,23 +70,5 @@ Storm SHAKHTI is not forecast to affect people in All countries.
 ## SHAKHTI All countries: no forecast people displaced
 
 Storm SHAKHTI is not forecast to displace people in All countries.
-
-
-## MATMO All countries: No forecast people exposed
-
-Storm MATMO is not forecast to affect people in All countries.
-
-
-## MATMO All countries: no forecast people displaced
-
-Storm MATMO is not forecast to displace people in All countries.
-
-
-## PRISCILLA Mexico: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-06_00UTC_MEX_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-06_00UTC_MEX_cat3.png)
 
 

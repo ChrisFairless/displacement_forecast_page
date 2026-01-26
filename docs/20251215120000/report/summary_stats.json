@@ -1,1 +1,1 @@
-{"forecast_time": "2025-12-15 12:00 UTC", "number_active": 1, "storm_names": ["BAKUNG"], "number_affecting_people": 1, "number_displacing_people": 1, "storms_affecting_people": ["BAKUNG"], "storms_displacing_people": ["BAKUNG"]}
+{"forecast_time": "2025-12-15 12:00 UTC", "storm_names": ["BAKUNG"], "storm_data": {"BAKUNG": {"countries_affected": ["Indonesia"], "countries_displaced": ["Indonesia"]}}, "storms_affecting_people": ["BAKUNG"], "storms_displacing_people": ["BAKUNG"], "number_active": 1, "number_affecting_people": 1, "number_displacing_people": 1}

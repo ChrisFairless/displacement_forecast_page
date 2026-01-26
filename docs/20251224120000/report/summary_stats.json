@@ -1,1 +1,1 @@
-{"forecast_time": "2025-12-24 12:00 UTC", "number_active": 1, "storm_names": ["GRANT"], "number_affecting_people": 1, "number_displacing_people": 1, "storms_affecting_people": ["GRANT"], "storms_displacing_people": ["GRANT"]}
+{"forecast_time": "2025-12-24 12:00 UTC", "storm_names": ["GRANT"], "storm_data": {"GRANT": {"countries_affected": ["Mauritius"], "countries_displaced": ["Mauritius"]}}, "storms_affecting_people": ["GRANT"], "storms_displacing_people": ["GRANT"], "number_active": 1, "number_affecting_people": 1, "number_displacing_people": 1}

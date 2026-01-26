@@ -9,6 +9,16 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250908000000.png)
 
 
+## KIKO All countries: No forecast people exposed
+
+Storm KIKO is not forecast to affect people in All countries.
+
+
+## KIKO All countries: no forecast people displaced
+
+Storm KIKO is not forecast to displace people in All countries.
+
+
 ## TAPAH China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_TAPAH_2025-09-08_00UTC_CHN_cat1.png)
@@ -27,20 +37,5 @@ There are 2 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_TAPAH_2025-09-08_00UTC_CHN_displaced.png)
-
-
-## TAPAH Macao: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_TAPAH_2025-09-08_00UTC_MAC_cat1.png)
-
-
-## KIKO All countries: No forecast people exposed
-
-Storm KIKO is not forecast to affect people in All countries.
-
-
-## KIKO All countries: no forecast people displaced
-
-Storm KIKO is not forecast to displace people in All countries.
 
 

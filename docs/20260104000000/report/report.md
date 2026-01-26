@@ -4,7 +4,7 @@ This is a WIP. All this is going to change, for now we're just dumping things he
 
 ## Forecast for 2026-01-04 00:00 UTC
 
-There are 1 active named storms.
+There are 2 active named storms.
 
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260104000000.png)
 
@@ -17,5 +17,15 @@ Storm GRANT is not forecast to affect people in All countries.
 ## GRANT All countries: no forecast people displaced
 
 Storm GRANT is not forecast to displace people in All countries.
+
+
+## IGGY All countries: No forecast people exposed
+
+Storm IGGY is not forecast to affect people in All countries.
+
+
+## IGGY All countries: no forecast people displaced
+
+Storm IGGY is not forecast to displace people in All countries.
 
 

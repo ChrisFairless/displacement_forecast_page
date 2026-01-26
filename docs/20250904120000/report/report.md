@@ -29,16 +29,6 @@ There are 3 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_PEIPAH_2025-09-04_12UTC_JPN_displaced.png)
 
 
-## KIKO All countries: No forecast people exposed
-
-Storm KIKO is not forecast to affect people in All countries.
-
-
-## KIKO All countries: no forecast people displaced
-
-Storm KIKO is not forecast to displace people in All countries.
-
-
 ## LORENA All countries: No forecast people exposed
 
 Storm LORENA is not forecast to affect people in All countries.
@@ -47,5 +37,15 @@ Storm LORENA is not forecast to affect people in All countries.
 ## LORENA All countries: no forecast people displaced
 
 Storm LORENA is not forecast to displace people in All countries.
+
+
+## KIKO All countries: No forecast people exposed
+
+Storm KIKO is not forecast to affect people in All countries.
+
+
+## KIKO All countries: no forecast people displaced
+
+Storm KIKO is not forecast to displace people in All countries.
 
 

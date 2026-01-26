@@ -9,16 +9,6 @@ There are 4 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250919000000.png)
 
 
-## MITAG All countries: No forecast people exposed
-
-Storm MITAG is not forecast to affect people in All countries.
-
-
-## MITAG All countries: no forecast people displaced
-
-Storm MITAG is not forecast to displace people in All countries.
-
-
 ## NEOGURI China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_00UTC_CHN_cat1.png)
@@ -174,6 +164,82 @@ Storm MITAG is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_00UTC_TWN_displaced.png)
 
 
+## MITAG All countries: No forecast people exposed
+
+Storm MITAG is not forecast to affect people in All countries.
+
+
+## MITAG All countries: no forecast people displaced
+
+Storm MITAG is not forecast to displace people in All countries.
+
+
+## GABRIELLE United Kingdom: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_GBR_cat1.png)
+
+
+## GABRIELLE United Kingdom: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_GBR_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_GBR_exposed.png)
+
+
+## GABRIELLE United Kingdom: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_GBR_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_GBR_displaced.png)
+
+
+## GABRIELLE Ireland: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_cat3.png)
+
+
+## GABRIELLE Ireland: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_exposed.png)
+
+
+## GABRIELLE Ireland: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_displaced.png)
+
+
+## GABRIELLE Portugal: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_cat3.png)
+
+
+## GABRIELLE Portugal: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_exposed.png)
+
+
+## GABRIELLE Portugal: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_displaced.png)
+
+
 ## RAGASA Bangladesh: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-19_00UTC_BGD_cat1.png)
@@ -300,14 +366,6 @@ Storm MITAG is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-19_00UTC_LAO_displaced.png)
 
 
-## RAGASA Macao: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-19_00UTC_MAC_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-19_00UTC_MAC_cat3.png)
-
-
 ## RAGASA Myanmar: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-19_00UTC_MMR_cat1.png)
@@ -412,71 +470,5 @@ Storm MITAG is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-19_00UTC_VNM_displaced.png)
-
-
-## GABRIELLE United Kingdom: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_GBR_cat1.png)
-
-
-## GABRIELLE United Kingdom: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_GBR_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_GBR_exposed.png)
-
-
-## GABRIELLE United Kingdom: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_GBR_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_GBR_displaced.png)
-
-
-## GABRIELLE Ireland: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_cat3.png)
-
-
-## GABRIELLE Ireland: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_exposed.png)
-
-
-## GABRIELLE Ireland: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_IRL_displaced.png)
-
-
-## GABRIELLE Portugal: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_cat3.png)
-
-
-## GABRIELLE Portugal: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_exposed.png)
-
-
-## GABRIELLE Portugal: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_00UTC_PRT_displaced.png)
 
 

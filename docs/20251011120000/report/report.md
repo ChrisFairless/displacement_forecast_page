@@ -29,11 +29,6 @@ There are 3 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_JERRY_2025-10-11_12UTC_PRT_displaced.png)
 
 
-## NAKRI Japan: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NAKRI_2025-10-11_12UTC_JPN_cat1.png)
-
-
 ## RAYMOND All countries: No forecast people exposed
 
 Storm RAYMOND is not forecast to affect people in All countries.
@@ -42,5 +37,15 @@ Storm RAYMOND is not forecast to affect people in All countries.
 ## RAYMOND All countries: no forecast people displaced
 
 Storm RAYMOND is not forecast to displace people in All countries.
+
+
+## NAKRI All countries: No forecast people exposed
+
+Storm NAKRI is not forecast to affect people in All countries.
+
+
+## NAKRI All countries: no forecast people displaced
+
+Storm NAKRI is not forecast to displace people in All countries.
 
 

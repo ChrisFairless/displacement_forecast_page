@@ -1,1 +1,1 @@
-{"forecast_time": "2026-01-07 12:00 UTC", "number_active": 1, "storm_names": ["JENNA"], "number_affecting_people": 0, "number_displacing_people": 0, "storms_affecting_people": [], "storms_displacing_people": []}
+{"forecast_time": "2026-01-07 12:00 UTC", "storm_names": ["JENNA"], "storm_data": {"JENNA": {"countries_affected": [], "countries_displaced": []}}, "storms_affecting_people": [], "storms_displacing_people": [], "number_active": 1, "number_affecting_people": 0, "number_displacing_people": 0}

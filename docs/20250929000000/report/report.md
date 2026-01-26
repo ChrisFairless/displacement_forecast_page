@@ -9,6 +9,36 @@ There are 5 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250929000000.png)
 
 
+## NARDA All countries: No forecast people exposed
+
+Storm NARDA is not forecast to affect people in All countries.
+
+
+## NARDA All countries: no forecast people displaced
+
+Storm NARDA is not forecast to displace people in All countries.
+
+
+## NEOGURI All countries: No forecast people exposed
+
+Storm NEOGURI is not forecast to affect people in All countries.
+
+
+## NEOGURI All countries: no forecast people displaced
+
+Storm NEOGURI is not forecast to displace people in All countries.
+
+
+## HUMBERTO All countries: No forecast people exposed
+
+Storm HUMBERTO is not forecast to affect people in All countries.
+
+
+## HUMBERTO All countries: no forecast people displaced
+
+Storm HUMBERTO is not forecast to displace people in All countries.
+
+
 ## BUALOI Lao People's Democratic Republic: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_BUALOI_2025-09-29_00UTC_LAO_cat1.png)
@@ -49,26 +79,6 @@ There are 5 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_BUALOI_2025-09-29_00UTC_VNM_displaced.png)
 
 
-## NARDA All countries: No forecast people exposed
-
-Storm NARDA is not forecast to affect people in All countries.
-
-
-## NARDA All countries: no forecast people displaced
-
-Storm NARDA is not forecast to displace people in All countries.
-
-
-## NEOGURI All countries: No forecast people exposed
-
-Storm NEOGURI is not forecast to affect people in All countries.
-
-
-## NEOGURI All countries: no forecast people displaced
-
-Storm NEOGURI is not forecast to displace people in All countries.
-
-
 ## IMELDA Bahamas: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_IMELDA_2025-09-29_00UTC_BHS_cat1.png)
@@ -107,15 +117,5 @@ Storm NEOGURI is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_IMELDA_2025-09-29_00UTC_BMU_displaced.png)
-
-
-## HUMBERTO All countries: No forecast people exposed
-
-Storm HUMBERTO is not forecast to affect people in All countries.
-
-
-## HUMBERTO All countries: no forecast people displaced
-
-Storm HUMBERTO is not forecast to displace people in All countries.
 
 

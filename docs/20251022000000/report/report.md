@@ -9,6 +9,16 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251022000000.png)
 
 
+## CHENGE All countries: No forecast people exposed
+
+Storm CHENGE is not forecast to affect people in All countries.
+
+
+## CHENGE All countries: no forecast people displaced
+
+Storm CHENGE is not forecast to displace people in All countries.
+
+
 ## FENGSHEN All countries: No forecast people exposed
 
 Storm FENGSHEN is not forecast to affect people in All countries.
@@ -40,11 +50,6 @@ Storm FENGSHEN is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BHS_displaced.png)
-
-
-## MELISSA Colombia: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_COL_cat1.png)
 
 
 ## MELISSA Cuba: areas affected
@@ -188,15 +193,5 @@ Storm MELISSA is not forecast to displace people in Turks and Caicos Islands.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_TCA_displaced.png)
-
-
-## CHENGE All countries: No forecast people exposed
-
-Storm CHENGE is not forecast to affect people in All countries.
-
-
-## CHENGE All countries: no forecast people displaced
-
-Storm CHENGE is not forecast to displace people in All countries.
 
 

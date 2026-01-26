@@ -49,11 +49,6 @@ There are 3 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_CHENGE_2025-10-21_12UTC_MDG_displaced.png)
 
 
-## CHENGE Mozambique: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_CHENGE_2025-10-21_12UTC_MOZ_cat1.png)
-
-
 ## MELISSA Bahamas: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-21_12UTC_BHS_cat1.png)

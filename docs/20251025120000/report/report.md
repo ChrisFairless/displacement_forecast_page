@@ -9,16 +9,6 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251025120000.png)
 
 
-## SONIA All countries: No forecast people exposed
-
-Storm SONIA is not forecast to affect people in All countries.
-
-
-## SONIA All countries: no forecast people displaced
-
-Storm SONIA is not forecast to displace people in All countries.
-
-
 ## MELISSA Bahamas: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-25_12UTC_BHS_cat1.png)
@@ -251,5 +241,15 @@ Storm CHENGE is not forecast to affect people in All countries.
 ## CHENGE All countries: no forecast people displaced
 
 Storm CHENGE is not forecast to displace people in All countries.
+
+
+## SONIA All countries: No forecast people exposed
+
+Storm SONIA is not forecast to affect people in All countries.
+
+
+## SONIA All countries: no forecast people displaced
+
+Storm SONIA is not forecast to displace people in All countries.
 
 

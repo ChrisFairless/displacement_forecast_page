@@ -9,6 +9,26 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251021000000.png)
 
 
+## FENGSHEN Viet Nam: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_VNM_cat1.png)
+
+
+## FENGSHEN Viet Nam: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_VNM_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_VNM_exposed.png)
+
+
+## FENGSHEN Viet Nam: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_VNM_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_VNM_displaced.png)
+
+
 ## CHENGE Madagascar: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_CHENGE_2025-10-21_00UTC_MDG_cat1.png)
@@ -47,30 +67,5 @@ There are 2 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_CHENGE_2025-10-21_00UTC_MOZ_displaced.png)
-
-
-## FENGSHEN China: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_CHN_cat1.png)
-
-
-## FENGSHEN Viet Nam: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_VNM_cat1.png)
-
-
-## FENGSHEN Viet Nam: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_VNM_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_VNM_exposed.png)
-
-
-## FENGSHEN Viet Nam: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_VNM_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_VNM_displaced.png)
 
 

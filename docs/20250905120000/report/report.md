@@ -9,16 +9,6 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250905120000.png)
 
 
-## PEIPAH All countries: No forecast people exposed
-
-Storm PEIPAH is not forecast to affect people in All countries.
-
-
-## PEIPAH All countries: no forecast people displaced
-
-Storm PEIPAH is not forecast to displace people in All countries.
-
-
 ## KIKO All countries: No forecast people exposed
 
 Storm KIKO is not forecast to affect people in All countries.
@@ -27,6 +17,16 @@ Storm KIKO is not forecast to affect people in All countries.
 ## KIKO All countries: no forecast people displaced
 
 Storm KIKO is not forecast to displace people in All countries.
+
+
+## PEIPAH All countries: No forecast people exposed
+
+Storm PEIPAH is not forecast to affect people in All countries.
+
+
+## PEIPAH All countries: no forecast people displaced
+
+Storm PEIPAH is not forecast to displace people in All countries.
 
 
 ## LORENA All countries: No forecast people exposed

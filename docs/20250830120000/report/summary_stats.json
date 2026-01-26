@@ -1,1 +1,1 @@
-{"forecast_time": "2025-08-30 12:00 UTC", "number_active": 1, "storm_names": ["NONGFA"], "number_affecting_people": 1, "number_displacing_people": 1, "storms_affecting_people": ["NONGFA"], "storms_displacing_people": ["NONGFA"]}
+{"forecast_time": "2025-08-30 12:00 UTC", "storm_names": ["NONGFA"], "storm_data": {"NONGFA": {"countries_affected": ["Myanmar"], "countries_displaced": ["Myanmar"]}}, "storms_affecting_people": ["NONGFA"], "storms_displacing_people": ["NONGFA"], "number_active": 1, "number_affecting_people": 1, "number_displacing_people": 1}

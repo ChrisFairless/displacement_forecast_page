@@ -9,72 +9,80 @@ There are 4 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250919120000.png)
 
 
-## GABRIELLE United Kingdom: areas affected
+## NEOGURI Japan: areas affected
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_GBR_cat1.png)
-
-
-## GABRIELLE United Kingdom: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_GBR_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_GBR_exposed.png)
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_cat1.png)
 
 
-## GABRIELLE United Kingdom: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_GBR_displaced.png)
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_cat3.png)
 
 
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_GBR_displaced.png)
+## NEOGURI Japan: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_exposed.png)
 
 
-## GABRIELLE Greenland: areas affected
+## NEOGURI Japan: people displaced
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_GRL_cat1.png)
-
-
-## GABRIELLE Ireland: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_IRL_cat1.png)
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_displaced.png)
 
 
-## GABRIELLE Ireland: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_IRL_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_IRL_exposed.png)
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_displaced.png)
 
 
-## GABRIELLE Ireland: people displaced
+## NEOGURI Korea, Republic of: areas affected
 
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_IRL_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_IRL_displaced.png)
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_cat1.png)
 
 
-## GABRIELLE Portugal: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_cat1.png)
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_cat3.png)
 
 
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_cat3.png)
+## NEOGURI Korea, Republic of: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_exposed.png)
 
 
-## GABRIELLE Portugal: people exposed
+## NEOGURI Korea, Republic of: people displaced
 
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_exposed.png)
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_displaced.png)
 
 
-## GABRIELLE Portugal: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_displaced.png)
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_displaced.png)
 
 
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_displaced.png)
+## NEOGURI Russian Federation: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_RUS_cat1.png)
+
+
+## NEOGURI Russian Federation: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_RUS_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_RUS_exposed.png)
+
+
+## NEOGURI Russian Federation: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_RUS_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_RUS_displaced.png)
+
+
+## MITAG All countries: No forecast people exposed
+
+Storm MITAG is not forecast to affect people in All countries.
+
+
+## MITAG All countries: no forecast people displaced
+
+Storm MITAG is not forecast to displace people in All countries.
 
 
 ## RAGASA China: areas affected
@@ -141,14 +149,6 @@ There are 4 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-19_12UTC_LAO_displaced.png)
-
-
-## RAGASA Macao: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-19_12UTC_MAC_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-19_12UTC_MAC_cat3.png)
 
 
 ## RAGASA Philippines: areas affected
@@ -240,84 +240,66 @@ There are 4 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-19_12UTC_VNM_displaced.png)
 
 
-## MITAG All countries: No forecast people exposed
+## GABRIELLE United Kingdom: areas affected
 
-Storm MITAG is not forecast to affect people in All countries.
-
-
-## MITAG All countries: no forecast people displaced
-
-Storm MITAG is not forecast to displace people in All countries.
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_GBR_cat1.png)
 
 
-## NEOGURI Japan: areas affected
+## GABRIELLE United Kingdom: people exposed
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_cat1.png)
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_GBR_exposed.png)
 
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_cat3.png)
-
-
-## NEOGURI Japan: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_exposed.png)
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_GBR_exposed.png)
 
 
-## NEOGURI Japan: people displaced
+## GABRIELLE United Kingdom: people displaced
 
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_JPN_displaced.png)
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_GBR_displaced.png)
 
 
-## NEOGURI Korea, Republic of: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_cat1.png)
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_GBR_displaced.png)
 
 
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_cat3.png)
+## GABRIELLE Ireland: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_IRL_cat1.png)
 
 
-## NEOGURI Korea, Republic of: people exposed
+## GABRIELLE Ireland: people exposed
 
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_exposed.png)
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_IRL_exposed.png)
 
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_exposed.png)
-
-
-## NEOGURI Korea, Republic of: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_displaced.png)
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_IRL_exposed.png)
 
 
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_KOR_displaced.png)
+## GABRIELLE Ireland: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_IRL_displaced.png)
 
 
-## NEOGURI Russian Federation: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_RUS_cat1.png)
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_IRL_displaced.png)
 
 
-## NEOGURI Russian Federation: people exposed
+## GABRIELLE Portugal: areas affected
 
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_RUS_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_RUS_exposed.png)
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_cat1.png)
 
 
-## NEOGURI Russian Federation: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_RUS_displaced.png)
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_cat3.png)
 
 
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_RUS_displaced.png)
+## GABRIELLE Portugal: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_exposed.png)
 
 
-## NEOGURI United States: areas affected
+## GABRIELLE Portugal: people displaced
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-19_12UTC_USA_cat1.png)
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-19_12UTC_PRT_displaced.png)
 
 

@@ -9,16 +9,6 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260111120000.png)
 
 
-## DUDZAI All countries: No forecast people exposed
-
-Storm DUDZAI is not forecast to affect people in All countries.
-
-
-## DUDZAI All countries: no forecast people displaced
-
-Storm DUDZAI is not forecast to displace people in All countries.
-
-
 ## KOJI Australia: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_KOJI_2026-01-11_12UTC_AUS_cat1.png)
@@ -40,5 +30,15 @@ Storm DUDZAI is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_KOJI_2026-01-11_12UTC_AUS_displaced.png)
+
+
+## DUDZAI All countries: No forecast people exposed
+
+Storm DUDZAI is not forecast to affect people in All countries.
+
+
+## DUDZAI All countries: no forecast people displaced
+
+Storm DUDZAI is not forecast to displace people in All countries.
 
 

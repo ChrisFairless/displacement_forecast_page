@@ -4,17 +4,9 @@ This is a WIP. All this is going to change, for now we're just dumping things he
 
 ## Forecast for 2025-10-07 00:00 UTC
 
-There are 3 active named storms.
+There are 4 active named storms.
 
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251007000000.png)
-
-
-## PRISCILLA Mexico: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_00UTC_MEX_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_00UTC_MEX_cat3.png)
 
 
 ## OCTAVE All countries: No forecast people exposed
@@ -25,6 +17,16 @@ Storm OCTAVE is not forecast to affect people in All countries.
 ## OCTAVE All countries: no forecast people displaced
 
 Storm OCTAVE is not forecast to displace people in All countries.
+
+
+## PRISCILLA All countries: No forecast people exposed
+
+Storm PRISCILLA is not forecast to affect people in All countries.
+
+
+## PRISCILLA All countries: no forecast people displaced
+
+Storm PRISCILLA is not forecast to displace people in All countries.
 
 
 ## HALONG Japan: areas affected
@@ -50,11 +52,13 @@ Storm OCTAVE is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_HALONG_2025-10-07_00UTC_JPN_displaced.png)
 
 
-## HALONG United States: areas affected
+## SHAKHTI All countries: No forecast people exposed
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-07_00UTC_USA_cat1.png)
+Storm SHAKHTI is not forecast to affect people in All countries.
 
 
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-07_00UTC_USA_cat3.png)
+## SHAKHTI All countries: no forecast people displaced
+
+Storm SHAKHTI is not forecast to displace people in All countries.
 
 

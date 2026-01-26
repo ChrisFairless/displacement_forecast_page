@@ -9,16 +9,6 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251014120000.png)
 
 
-## NAKRI All countries: No forecast people exposed
-
-Storm NAKRI is not forecast to affect people in All countries.
-
-
-## NAKRI All countries: no forecast people displaced
-
-Storm NAKRI is not forecast to displace people in All countries.
-
-
 ## LORENZO All countries: No forecast people exposed
 
 Storm LORENZO is not forecast to affect people in All countries.
@@ -27,5 +17,15 @@ Storm LORENZO is not forecast to affect people in All countries.
 ## LORENZO All countries: no forecast people displaced
 
 Storm LORENZO is not forecast to displace people in All countries.
+
+
+## NAKRI All countries: No forecast people exposed
+
+Storm NAKRI is not forecast to affect people in All countries.
+
+
+## NAKRI All countries: no forecast people displaced
+
+Storm NAKRI is not forecast to displace people in All countries.
 
 

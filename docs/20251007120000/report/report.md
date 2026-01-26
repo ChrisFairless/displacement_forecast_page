@@ -52,6 +52,29 @@ There are 4 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_HALONG_2025-10-07_12UTC_USA_displaced.png)
 
 
+## PRISCILLA Mexico: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_cat3.png)
+
+
+## PRISCILLA Mexico: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_exposed.png)
+
+
+## PRISCILLA Mexico: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_displaced.png)
+
+
 ## OCTAVE All countries: No forecast people exposed
 
 Storm OCTAVE is not forecast to affect people in All countries.
@@ -80,28 +103,5 @@ Storm OCTAVE is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_JERRY_2025-10-07_12UTC_PRT_displaced.png)
-
-
-## PRISCILLA Mexico: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_cat3.png)
-
-
-## PRISCILLA Mexico: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_exposed.png)
-
-
-## PRISCILLA Mexico: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-07_12UTC_MEX_displaced.png)
 
 

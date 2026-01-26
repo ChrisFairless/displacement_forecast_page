@@ -9,32 +9,24 @@ There are 4 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250923000000.png)
 
 
-## NEOGURI Japan: areas affected
+## GABRIELLE Portugal: areas affected
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_cat3.png)
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-23_00UTC_PRT_cat1.png)
 
 
-## NEOGURI Japan: people exposed
+## GABRIELLE Portugal: people exposed
 
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_exposed.png)
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-23_00UTC_PRT_exposed.png)
 
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_exposed.png)
-
-
-## NEOGURI Japan: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_displaced.png)
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-23_00UTC_PRT_exposed.png)
 
 
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_displaced.png)
+## GABRIELLE Portugal: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-23_00UTC_PRT_displaced.png)
 
 
-## NEOGURI United States: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_USA_cat1.png)
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-23_00UTC_PRT_displaced.png)
 
 
 ## NARDA Mexico: areas affected
@@ -57,24 +49,27 @@ There are 4 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_NARDA_2025-09-23_00UTC_MEX_displaced.png)
 
 
-## GABRIELLE Portugal: areas affected
+## NEOGURI Japan: areas affected
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-23_00UTC_PRT_cat1.png)
-
-
-## GABRIELLE Portugal: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-23_00UTC_PRT_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-23_00UTC_PRT_exposed.png)
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_cat1.png)
 
 
-## GABRIELLE Portugal: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_GABRIELLE_2025-09-23_00UTC_PRT_displaced.png)
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_cat3.png)
 
 
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-23_00UTC_PRT_displaced.png)
+## NEOGURI Japan: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_exposed.png)
+
+
+## NEOGURI Japan: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-23_00UTC_JPN_displaced.png)
 
 
 ## RAGASA China: areas affected
@@ -121,14 +116,6 @@ There are 4 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-23_00UTC_HKG_displaced.png)
-
-
-## RAGASA Macao: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-23_00UTC_MAC_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-23_00UTC_MAC_cat3.png)
 
 
 ## RAGASA Viet Nam: areas affected

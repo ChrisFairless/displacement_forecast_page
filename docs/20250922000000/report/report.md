@@ -9,6 +9,26 @@ There are 4 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250922000000.png)
 
 
+## NEOGURI Japan: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-22_00UTC_JPN_cat1.png)
+
+
+## NEOGURI Japan: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-22_00UTC_JPN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-22_00UTC_JPN_exposed.png)
+
+
+## NEOGURI Japan: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-22_00UTC_JPN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-22_00UTC_JPN_displaced.png)
+
+
 ## GABRIELLE Portugal: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-22_00UTC_PRT_cat1.png)
@@ -30,6 +50,16 @@ There are 4 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-22_00UTC_PRT_displaced.png)
+
+
+## NARDA All countries: No forecast people exposed
+
+Storm NARDA is not forecast to affect people in All countries.
+
+
+## NARDA All countries: no forecast people displaced
+
+Storm NARDA is not forecast to displace people in All countries.
 
 
 ## RAGASA China: areas affected
@@ -98,14 +128,6 @@ There are 4 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-22_00UTC_LAO_displaced.png)
 
 
-## RAGASA Macao: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-22_00UTC_MAC_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-22_00UTC_MAC_cat3.png)
-
-
 ## RAGASA Philippines: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-22_00UTC_PHL_cat1.png)
@@ -167,40 +189,5 @@ There are 4 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-22_00UTC_VNM_displaced.png)
-
-
-## NEOGURI Japan: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-22_00UTC_JPN_cat1.png)
-
-
-## NEOGURI Japan: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-22_00UTC_JPN_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-22_00UTC_JPN_exposed.png)
-
-
-## NEOGURI Japan: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-22_00UTC_JPN_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-22_00UTC_JPN_displaced.png)
-
-
-## NEOGURI United States: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-22_00UTC_USA_cat1.png)
-
-
-## NARDA All countries: No forecast people exposed
-
-Storm NARDA is not forecast to affect people in All countries.
-
-
-## NARDA All countries: no forecast people displaced
-
-Storm NARDA is not forecast to displace people in All countries.
 
 

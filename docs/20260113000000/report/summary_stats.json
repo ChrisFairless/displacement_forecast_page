@@ -1,1 +1,1 @@
-{"forecast_time": "2026-01-13 00:00 UTC", "number_active": 1, "storm_names": ["DUDZAI"], "number_affecting_people": 1, "number_displacing_people": 1, "storms_affecting_people": ["DUDZAI"], "storms_displacing_people": ["DUDZAI"]}
+{"forecast_time": "2026-01-13 00:00 UTC", "storm_names": ["DUDZAI"], "storm_data": {"DUDZAI": {"countries_affected": ["Mauritius"], "countries_displaced": ["Mauritius"]}}, "storms_affecting_people": ["DUDZAI"], "storms_displacing_people": ["DUDZAI"], "number_active": 1, "number_affecting_people": 1, "number_displacing_people": 1}

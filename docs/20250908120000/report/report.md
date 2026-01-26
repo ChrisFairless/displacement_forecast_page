@@ -9,16 +9,6 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250908120000.png)
 
 
-## KIKO All countries: No forecast people exposed
-
-Storm KIKO is not forecast to affect people in All countries.
-
-
-## KIKO All countries: no forecast people displaced
-
-Storm KIKO is not forecast to displace people in All countries.
-
-
 ## TAPAH All countries: No forecast people exposed
 
 Storm TAPAH is not forecast to affect people in All countries.
@@ -27,5 +17,15 @@ Storm TAPAH is not forecast to affect people in All countries.
 ## TAPAH All countries: no forecast people displaced
 
 Storm TAPAH is not forecast to displace people in All countries.
+
+
+## KIKO All countries: No forecast people exposed
+
+Storm KIKO is not forecast to affect people in All countries.
+
+
+## KIKO All countries: no forecast people displaced
+
+Storm KIKO is not forecast to displace people in All countries.
 
 

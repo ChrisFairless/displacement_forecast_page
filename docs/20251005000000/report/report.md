@@ -9,49 +9,6 @@ There are 5 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251005000000.png)
 
 
-## PRISCILLA Mexico: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_cat3.png)
-
-
-## PRISCILLA Mexico: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_exposed.png)
-
-
-## PRISCILLA Mexico: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_displaced.png)
-
-
-## PRISCILLA United States: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_USA_cat1.png)
-
-
-## PRISCILLA United States: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_USA_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_USA_exposed.png)
-
-
-## PRISCILLA United States: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_USA_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_USA_displaced.png)
-
-
 ## MATMO China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MATMO_2025-10-05_00UTC_CHN_cat1.png)
@@ -113,6 +70,49 @@ Storm OCTAVE is not forecast to affect people in All countries.
 ## OCTAVE All countries: no forecast people displaced
 
 Storm OCTAVE is not forecast to displace people in All countries.
+
+
+## PRISCILLA Mexico: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_cat3.png)
+
+
+## PRISCILLA Mexico: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_exposed.png)
+
+
+## PRISCILLA Mexico: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_MEX_displaced.png)
+
+
+## PRISCILLA United States: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_USA_cat1.png)
+
+
+## PRISCILLA United States: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_USA_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_USA_exposed.png)
+
+
+## PRISCILLA United States: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_USA_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_PRISCILLA_2025-10-05_00UTC_USA_displaced.png)
 
 
 ## HALONG China: areas affected

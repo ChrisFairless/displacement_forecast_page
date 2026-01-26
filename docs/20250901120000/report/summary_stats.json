@@ -1,1 +1,1 @@
-{"forecast_time": "2025-09-01 12:00 UTC", "number_active": 1, "storm_names": ["KIKO"], "number_affecting_people": 1, "number_displacing_people": 1, "storms_affecting_people": ["KIKO"], "storms_displacing_people": ["KIKO"]}
+{"forecast_time": "2025-09-01 12:00 UTC", "storm_names": ["KIKO"], "storm_data": {"KIKO": {"countries_affected": ["United States"], "countries_displaced": ["United States"]}}, "storms_affecting_people": ["KIKO"], "storms_displacing_people": ["KIKO"], "number_active": 1, "number_affecting_people": 1, "number_displacing_people": 1}

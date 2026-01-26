@@ -9,16 +9,6 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251026000000.png)
 
 
-## SONIA All countries: No forecast people exposed
-
-Storm SONIA is not forecast to affect people in All countries.
-
-
-## SONIA All countries: no forecast people displaced
-
-Storm SONIA is not forecast to displace people in All countries.
-
-
 ## CHENGE All countries: No forecast people exposed
 
 Storm CHENGE is not forecast to affect people in All countries.
@@ -27,5 +17,25 @@ Storm CHENGE is not forecast to affect people in All countries.
 ## CHENGE All countries: no forecast people displaced
 
 Storm CHENGE is not forecast to displace people in All countries.
+
+
+## MELISSA All countries: No forecast people exposed
+
+Storm MELISSA is not forecast to affect people in All countries.
+
+
+## MELISSA All countries: no forecast people displaced
+
+Storm MELISSA is not forecast to displace people in All countries.
+
+
+## SONIA All countries: No forecast people exposed
+
+Storm SONIA is not forecast to affect people in All countries.
+
+
+## SONIA All countries: no forecast people displaced
+
+Storm SONIA is not forecast to displace people in All countries.
 
 

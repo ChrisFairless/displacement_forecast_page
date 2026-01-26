@@ -9,72 +9,6 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250920120000.png)
 
 
-## NEOGURI Japan: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_cat3.png)
-
-
-## NEOGURI Japan: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_exposed.png)
-
-
-## NEOGURI Japan: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_displaced.png)
-
-
-## NEOGURI Korea, Republic of: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_KOR_cat1.png)
-
-
-## NEOGURI Korea, Republic of: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_KOR_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_KOR_exposed.png)
-
-
-## NEOGURI Korea, Republic of: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_KOR_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_KOR_displaced.png)
-
-
-## NEOGURI Russian Federation: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_cat3.png)
-
-
-## NEOGURI Russian Federation: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_exposed.png)
-
-
-## NEOGURI Russian Federation: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_displaced.png)
-
-
 ## RAGASA China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-20_12UTC_CHN_cat1.png)
@@ -142,14 +76,6 @@ There are 3 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-20_12UTC_LAO_displaced.png)
-
-
-## RAGASA Macao: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-20_12UTC_MAC_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-20_12UTC_MAC_cat3.png)
 
 
 ## RAGASA Myanmar: areas affected
@@ -259,6 +185,72 @@ There are 3 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-20_12UTC_VNM_displaced.png)
+
+
+## NEOGURI Japan: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_cat3.png)
+
+
+## NEOGURI Japan: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_exposed.png)
+
+
+## NEOGURI Japan: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_JPN_displaced.png)
+
+
+## NEOGURI Korea, Republic of: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_KOR_cat1.png)
+
+
+## NEOGURI Korea, Republic of: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_KOR_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_KOR_exposed.png)
+
+
+## NEOGURI Korea, Republic of: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_KOR_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_KOR_displaced.png)
+
+
+## NEOGURI Russian Federation: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_cat3.png)
+
+
+## NEOGURI Russian Federation: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_exposed.png)
+
+
+## NEOGURI Russian Federation: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-20_12UTC_RUS_displaced.png)
 
 
 ## GABRIELLE Ireland: areas affected

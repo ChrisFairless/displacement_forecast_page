@@ -9,16 +9,6 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251012000000.png)
 
 
-## NAKRI All countries: No forecast people exposed
-
-Storm NAKRI is not forecast to affect people in All countries.
-
-
-## NAKRI All countries: no forecast people displaced
-
-Storm NAKRI is not forecast to displace people in All countries.
-
-
 ## JERRY Portugal: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_JERRY_2025-10-12_00UTC_PRT_cat1.png)
@@ -37,6 +27,16 @@ Storm NAKRI is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_JERRY_2025-10-12_00UTC_PRT_displaced.png)
+
+
+## NAKRI All countries: No forecast people exposed
+
+Storm NAKRI is not forecast to affect people in All countries.
+
+
+## NAKRI All countries: no forecast people displaced
+
+Storm NAKRI is not forecast to displace people in All countries.
 
 
 ## RAYMOND All countries: No forecast people exposed

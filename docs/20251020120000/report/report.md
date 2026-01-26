@@ -9,9 +9,14 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251020120000.png)
 
 
-## FENGSHEN China: areas affected
+## CHENGE All countries: No forecast people exposed
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-20_12UTC_CHN_cat1.png)
+Storm CHENGE is not forecast to affect people in All countries.
+
+
+## CHENGE All countries: no forecast people displaced
+
+Storm CHENGE is not forecast to displace people in All countries.
 
 
 ## FENGSHEN Viet Nam: areas affected
@@ -32,15 +37,5 @@ There are 2 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-20_12UTC_VNM_displaced.png)
-
-
-## CHENGE All countries: No forecast people exposed
-
-Storm CHENGE is not forecast to affect people in All countries.
-
-
-## CHENGE All countries: no forecast people displaced
-
-Storm CHENGE is not forecast to displace people in All countries.
 
 

@@ -29,11 +29,6 @@ There are 2 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_CHENGE_2025-10-19_12UTC_MOZ_displaced.png)
 
 
-## FENGSHEN China: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-19_12UTC_CHN_cat1.png)
-
-
 ## FENGSHEN Viet Nam: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-19_12UTC_VNM_cat1.png)

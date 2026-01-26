@@ -52,16 +52,6 @@ There are 3 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_IMELDA_2025-10-01_12UTC_IRL_displaced.png)
 
 
-## OCTAVE All countries: No forecast people exposed
-
-Storm OCTAVE is not forecast to affect people in All countries.
-
-
-## OCTAVE All countries: no forecast people displaced
-
-Storm OCTAVE is not forecast to displace people in All countries.
-
-
 ## HUMBERTO All countries: No forecast people exposed
 
 Storm HUMBERTO is not forecast to affect people in All countries.
@@ -70,5 +60,15 @@ Storm HUMBERTO is not forecast to affect people in All countries.
 ## HUMBERTO All countries: no forecast people displaced
 
 Storm HUMBERTO is not forecast to displace people in All countries.
+
+
+## OCTAVE All countries: No forecast people exposed
+
+Storm OCTAVE is not forecast to affect people in All countries.
+
+
+## OCTAVE All countries: no forecast people displaced
+
+Storm OCTAVE is not forecast to displace people in All countries.
 
 

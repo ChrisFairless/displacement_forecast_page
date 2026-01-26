@@ -9,87 +9,14 @@ There are 5 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250926120000.png)
 
 
-## HUMBERTO Bermuda: areas affected
+## NEOGURI All countries: No forecast people exposed
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_cat3.png)
+Storm NEOGURI is not forecast to affect people in All countries.
 
 
-## HUMBERTO Bermuda: people exposed
+## NEOGURI All countries: no forecast people displaced
 
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_exposed.png)
-
-
-## HUMBERTO Bermuda: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_displaced.png)
-
-
-## HUMBERTO United Kingdom: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_GBR_cat1.png)
-
-
-## HUMBERTO United Kingdom: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_GBR_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_GBR_exposed.png)
-
-
-## HUMBERTO United Kingdom: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_GBR_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_GBR_displaced.png)
-
-
-## HUMBERTO Ireland: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_IRL_cat1.png)
-
-
-## HUMBERTO Ireland: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_IRL_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_IRL_exposed.png)
-
-
-## HUMBERTO Ireland: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_IRL_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_IRL_displaced.png)
-
-
-## GABRIELLE All countries: No forecast people exposed
-
-Storm GABRIELLE is not forecast to affect people in All countries.
-
-
-## GABRIELLE All countries: no forecast people displaced
-
-Storm GABRIELLE is not forecast to displace people in All countries.
-
-
-## NARDA All countries: No forecast people exposed
-
-Storm NARDA is not forecast to affect people in All countries.
-
-
-## NARDA All countries: no forecast people displaced
-
-Storm NARDA is not forecast to displace people in All countries.
+Storm NEOGURI is not forecast to displace people in All countries.
 
 
 ## BUALOI China: areas affected
@@ -175,13 +102,86 @@ Storm NARDA is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_BUALOI_2025-09-26_12UTC_VNM_displaced.png)
 
 
-## NEOGURI All countries: No forecast people exposed
+## GABRIELLE All countries: No forecast people exposed
 
-Storm NEOGURI is not forecast to affect people in All countries.
+Storm GABRIELLE is not forecast to affect people in All countries.
 
 
-## NEOGURI All countries: no forecast people displaced
+## GABRIELLE All countries: no forecast people displaced
 
-Storm NEOGURI is not forecast to displace people in All countries.
+Storm GABRIELLE is not forecast to displace people in All countries.
+
+
+## NARDA All countries: No forecast people exposed
+
+Storm NARDA is not forecast to affect people in All countries.
+
+
+## NARDA All countries: no forecast people displaced
+
+Storm NARDA is not forecast to displace people in All countries.
+
+
+## HUMBERTO Bermuda: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_cat3.png)
+
+
+## HUMBERTO Bermuda: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_exposed.png)
+
+
+## HUMBERTO Bermuda: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_BMU_displaced.png)
+
+
+## HUMBERTO United Kingdom: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_GBR_cat1.png)
+
+
+## HUMBERTO United Kingdom: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_GBR_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_GBR_exposed.png)
+
+
+## HUMBERTO United Kingdom: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_GBR_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_GBR_displaced.png)
+
+
+## HUMBERTO Ireland: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_IRL_cat1.png)
+
+
+## HUMBERTO Ireland: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_IRL_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_IRL_exposed.png)
+
+
+## HUMBERTO Ireland: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_IRL_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-26_12UTC_IRL_displaced.png)
 
 

@@ -9,16 +9,6 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250823000000.png)
 
 
-## ERIN All countries: No forecast people exposed
-
-Storm ERIN is not forecast to affect people in All countries.
-
-
-## ERIN All countries: no forecast people displaced
-
-Storm ERIN is not forecast to displace people in All countries.
-
-
 ## KAJIKI Bangladesh: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_KAJIKI_2025-08-23_00UTC_BGD_cat1.png)
@@ -166,5 +156,15 @@ Storm ERIN is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_KAJIKI_2025-08-23_00UTC_VNM_displaced.png)
+
+
+## ERIN All countries: No forecast people exposed
+
+Storm ERIN is not forecast to affect people in All countries.
+
+
+## ERIN All countries: no forecast people displaced
+
+Storm ERIN is not forecast to displace people in All countries.
 
 

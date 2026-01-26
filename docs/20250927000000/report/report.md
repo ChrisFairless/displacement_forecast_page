@@ -9,16 +9,6 @@ There are 5 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250927000000.png)
 
 
-## GABRIELLE All countries: No forecast people exposed
-
-Storm GABRIELLE is not forecast to affect people in All countries.
-
-
-## GABRIELLE All countries: no forecast people displaced
-
-Storm GABRIELLE is not forecast to displace people in All countries.
-
-
 ## HUMBERTO Bermuda: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HUMBERTO_2025-09-27_00UTC_BMU_cat1.png)
@@ -92,16 +82,6 @@ Storm NEOGURI is not forecast to affect people in All countries.
 Storm NEOGURI is not forecast to displace people in All countries.
 
 
-## NARDA All countries: No forecast people exposed
-
-Storm NARDA is not forecast to affect people in All countries.
-
-
-## NARDA All countries: no forecast people displaced
-
-Storm NARDA is not forecast to displace people in All countries.
-
-
 ## BUALOI China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_BUALOI_2025-09-27_00UTC_CHN_cat1.png)
@@ -166,5 +146,25 @@ Storm NARDA is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_BUALOI_2025-09-27_00UTC_VNM_displaced.png)
+
+
+## NARDA All countries: No forecast people exposed
+
+Storm NARDA is not forecast to affect people in All countries.
+
+
+## NARDA All countries: no forecast people displaced
+
+Storm NARDA is not forecast to displace people in All countries.
+
+
+## GABRIELLE All countries: No forecast people exposed
+
+Storm GABRIELLE is not forecast to affect people in All countries.
+
+
+## GABRIELLE All countries: no forecast people displaced
+
+Storm GABRIELLE is not forecast to displace people in All countries.
 
 

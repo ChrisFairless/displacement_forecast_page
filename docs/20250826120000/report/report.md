@@ -9,14 +9,14 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250826120000.png)
 
 
-## JULIETTE All countries: No forecast people exposed
+## FERNAND All countries: No forecast people exposed
 
-Storm JULIETTE is not forecast to affect people in All countries.
+Storm FERNAND is not forecast to affect people in All countries.
 
 
-## JULIETTE All countries: no forecast people displaced
+## FERNAND All countries: no forecast people displaced
 
-Storm JULIETTE is not forecast to displace people in All countries.
+Storm FERNAND is not forecast to displace people in All countries.
 
 
 ## KAJIKI All countries: No forecast people exposed
@@ -29,13 +29,13 @@ Storm KAJIKI is not forecast to affect people in All countries.
 Storm KAJIKI is not forecast to displace people in All countries.
 
 
-## FERNAND All countries: No forecast people exposed
+## JULIETTE All countries: No forecast people exposed
 
-Storm FERNAND is not forecast to affect people in All countries.
+Storm JULIETTE is not forecast to affect people in All countries.
 
 
-## FERNAND All countries: no forecast people displaced
+## JULIETTE All countries: no forecast people displaced
 
-Storm FERNAND is not forecast to displace people in All countries.
+Storm JULIETTE is not forecast to displace people in All countries.
 
 

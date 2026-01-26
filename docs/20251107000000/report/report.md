@@ -9,6 +9,16 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251107000000.png)
 
 
+## KALMAEGI All countries: No forecast people exposed
+
+Storm KALMAEGI is not forecast to affect people in All countries.
+
+
+## KALMAEGI All countries: no forecast people displaced
+
+Storm KALMAEGI is not forecast to displace people in All countries.
+
+
 ## FUNG-WONG China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_CHN_cat1.png)
@@ -95,61 +105,5 @@ There are 2 active named storms.
 ## FUNG-WONG Macao: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_MAC_cat1.png)
-
-
-## FUNG-WONG Philippines: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_PHL_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_PHL_cat3.png)
-
-
-## FUNG-WONG Philippines: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_PHL_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_PHL_exposed.png)
-
-
-## FUNG-WONG Philippines: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_PHL_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_PHL_displaced.png)
-
-
-## FUNG-WONG Taiwan, Province of China: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_TWN_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_TWN_cat3.png)
-
-
-## FUNG-WONG Taiwan, Province of China: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_TWN_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_TWN_exposed.png)
-
-
-## FUNG-WONG Taiwan, Province of China: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_TWN_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_FUNG-WONG_2025-11-07_00UTC_TWN_displaced.png)
-
-
-## KALMAEGI All countries: No forecast people exposed
-
-Storm KALMAEGI is not forecast to affect people in All countries.
-
-
-## KALMAEGI All countries: no forecast people displaced
-
-Storm KALMAEGI is not forecast to displace people in All countries.
 
 

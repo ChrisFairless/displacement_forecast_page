@@ -9,16 +9,6 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260121120000.png)
 
 
-## DUDZAI All countries: No forecast people exposed
-
-Storm DUDZAI is not forecast to affect people in All countries.
-
-
-## DUDZAI All countries: no forecast people displaced
-
-Storm DUDZAI is not forecast to displace people in All countries.
-
-
 ## EWETSE Madagascar: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_EWETSE_2026-01-21_12UTC_MDG_cat1.png)
@@ -77,5 +67,15 @@ Storm DUDZAI is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_EWETSE_2026-01-21_12UTC_MUS_displaced.png)
+
+
+## DUDZAI All countries: No forecast people exposed
+
+Storm DUDZAI is not forecast to affect people in All countries.
+
+
+## DUDZAI All countries: no forecast people displaced
+
+Storm DUDZAI is not forecast to displace people in All countries.
 
 

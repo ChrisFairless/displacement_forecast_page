@@ -19,6 +19,184 @@ Storm MITAG is not forecast to affect people in All countries.
 Storm MITAG is not forecast to displace people in All countries.
 
 
+## RAGASA China: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_cat3.png)
+
+
+## RAGASA China: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_exposed.png)
+
+
+## RAGASA China: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_displaced.png)
+
+
+## RAGASA Hong Kong: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_cat3.png)
+
+
+## RAGASA Hong Kong: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_exposed.png)
+
+
+## RAGASA Hong Kong: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_displaced.png)
+
+
+## RAGASA Japan: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_cat3.png)
+
+
+## RAGASA Japan: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_exposed.png)
+
+
+## RAGASA Japan: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_displaced.png)
+
+
+## RAGASA Lao People's Democratic Republic: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_LAO_cat1.png)
+
+
+## RAGASA Lao People's Democratic Republic: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_LAO_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_LAO_exposed.png)
+
+
+## RAGASA Lao People's Democratic Republic: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_LAO_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_LAO_displaced.png)
+
+
+## RAGASA Philippines: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_cat3.png)
+
+
+## RAGASA Philippines: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_exposed.png)
+
+
+## RAGASA Philippines: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_displaced.png)
+
+
+## RAGASA Thailand: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_THA_cat1.png)
+
+
+## RAGASA Thailand: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_THA_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_THA_exposed.png)
+
+
+## RAGASA Thailand: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_THA_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_THA_displaced.png)
+
+
+## RAGASA Taiwan, Province of China: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_cat3.png)
+
+
+## RAGASA Taiwan, Province of China: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_exposed.png)
+
+
+## RAGASA Taiwan, Province of China: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_displaced.png)
+
+
+## RAGASA Viet Nam: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_cat3.png)
+
+
+## RAGASA Viet Nam: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_exposed.png)
+
+
+## RAGASA Viet Nam: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_displaced.png)
+
+
 ## NEOGURI Japan: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-18_12UTC_JPN_cat1.png)
@@ -148,11 +326,6 @@ Storm MITAG is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-18_12UTC_GBR_displaced.png)
 
 
-## GABRIELLE Greenland: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-18_12UTC_GRL_cat1.png)
-
-
 ## GABRIELLE Ireland: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-18_12UTC_IRL_cat1.png)
@@ -191,191 +364,5 @@ Storm MITAG is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_GABRIELLE_2025-09-18_12UTC_PRT_displaced.png)
-
-
-## RAGASA China: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_cat3.png)
-
-
-## RAGASA China: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_exposed.png)
-
-
-## RAGASA China: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_CHN_displaced.png)
-
-
-## RAGASA Hong Kong: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_cat3.png)
-
-
-## RAGASA Hong Kong: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_exposed.png)
-
-
-## RAGASA Hong Kong: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_HKG_displaced.png)
-
-
-## RAGASA Japan: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_cat3.png)
-
-
-## RAGASA Japan: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_exposed.png)
-
-
-## RAGASA Japan: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_JPN_displaced.png)
-
-
-## RAGASA Lao People's Democratic Republic: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_LAO_cat1.png)
-
-
-## RAGASA Lao People's Democratic Republic: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_LAO_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_LAO_exposed.png)
-
-
-## RAGASA Lao People's Democratic Republic: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_LAO_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_LAO_displaced.png)
-
-
-## RAGASA Macao: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_MAC_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_MAC_cat3.png)
-
-
-## RAGASA Philippines: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_cat3.png)
-
-
-## RAGASA Philippines: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_exposed.png)
-
-
-## RAGASA Philippines: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_PHL_displaced.png)
-
-
-## RAGASA Thailand: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_THA_cat1.png)
-
-
-## RAGASA Thailand: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_THA_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_THA_exposed.png)
-
-
-## RAGASA Thailand: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_THA_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_THA_displaced.png)
-
-
-## RAGASA Taiwan, Province of China: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_cat3.png)
-
-
-## RAGASA Taiwan, Province of China: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_exposed.png)
-
-
-## RAGASA Taiwan, Province of China: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_TWN_displaced.png)
-
-
-## RAGASA Viet Nam: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_cat3.png)
-
-
-## RAGASA Viet Nam: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_exposed.png)
-
-
-## RAGASA Viet Nam: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-18_12UTC_VNM_displaced.png)
 
 

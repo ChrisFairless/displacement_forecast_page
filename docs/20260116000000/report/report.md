@@ -9,26 +9,6 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260116000000.png)
 
 
-## NOKAEN Philippines: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NOKAEN_2026-01-16_00UTC_PHL_cat1.png)
-
-
-## NOKAEN Philippines: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NOKAEN_2026-01-16_00UTC_PHL_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_NOKAEN_2026-01-16_00UTC_PHL_exposed.png)
-
-
-## NOKAEN Philippines: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NOKAEN_2026-01-16_00UTC_PHL_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_NOKAEN_2026-01-16_00UTC_PHL_displaced.png)
-
-
 ## DUDZAI Mauritius: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_DUDZAI_2026-01-16_00UTC_MUS_cat1.png)
@@ -47,5 +27,25 @@ There are 2 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_DUDZAI_2026-01-16_00UTC_MUS_displaced.png)
+
+
+## NOKAEN Philippines: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NOKAEN_2026-01-16_00UTC_PHL_cat1.png)
+
+
+## NOKAEN Philippines: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_NOKAEN_2026-01-16_00UTC_PHL_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_NOKAEN_2026-01-16_00UTC_PHL_exposed.png)
+
+
+## NOKAEN Philippines: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_NOKAEN_2026-01-16_00UTC_PHL_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_NOKAEN_2026-01-16_00UTC_PHL_displaced.png)
 
 

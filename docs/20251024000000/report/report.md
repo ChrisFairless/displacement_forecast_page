@@ -9,6 +9,16 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251024000000.png)
 
 
+## MELISSA All countries: No forecast people exposed
+
+Storm MELISSA is not forecast to affect people in All countries.
+
+
+## MELISSA All countries: no forecast people displaced
+
+Storm MELISSA is not forecast to displace people in All countries.
+
+
 ## CHENGE All countries: No forecast people exposed
 
 Storm CHENGE is not forecast to affect people in All countries.

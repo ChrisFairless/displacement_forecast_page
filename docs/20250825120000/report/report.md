@@ -9,26 +9,6 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250825120000.png)
 
 
-## FERNAND All countries: No forecast people exposed
-
-Storm FERNAND is not forecast to affect people in All countries.
-
-
-## FERNAND All countries: no forecast people displaced
-
-Storm FERNAND is not forecast to displace people in All countries.
-
-
-## JULIETTE All countries: No forecast people exposed
-
-Storm JULIETTE is not forecast to affect people in All countries.
-
-
-## JULIETTE All countries: no forecast people displaced
-
-Storm JULIETTE is not forecast to displace people in All countries.
-
-
 ## KAJIKI Lao People's Democratic Republic: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_KAJIKI_2025-08-25_12UTC_LAO_cat1.png)
@@ -70,5 +50,25 @@ Storm JULIETTE is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_KAJIKI_2025-08-25_12UTC_VNM_displaced.png)
+
+
+## JULIETTE All countries: No forecast people exposed
+
+Storm JULIETTE is not forecast to affect people in All countries.
+
+
+## JULIETTE All countries: no forecast people displaced
+
+Storm JULIETTE is not forecast to displace people in All countries.
+
+
+## FERNAND All countries: No forecast people exposed
+
+Storm FERNAND is not forecast to affect people in All countries.
+
+
+## FERNAND All countries: no forecast people displaced
+
+Storm FERNAND is not forecast to displace people in All countries.
 
 

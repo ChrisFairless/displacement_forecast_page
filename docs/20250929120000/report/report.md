@@ -9,6 +9,26 @@ There are 5 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20250929120000.png)
 
 
+## BUALOI All countries: No forecast people exposed
+
+Storm BUALOI is not forecast to affect people in All countries.
+
+
+## BUALOI All countries: no forecast people displaced
+
+Storm BUALOI is not forecast to displace people in All countries.
+
+
+## NARDA All countries: No forecast people exposed
+
+Storm NARDA is not forecast to affect people in All countries.
+
+
+## NARDA All countries: no forecast people displaced
+
+Storm NARDA is not forecast to displace people in All countries.
+
+
 ## HUMBERTO All countries: No forecast people exposed
 
 Storm HUMBERTO is not forecast to affect people in All countries.
@@ -67,25 +87,5 @@ Storm NEOGURI is not forecast to affect people in All countries.
 ## NEOGURI All countries: no forecast people displaced
 
 Storm NEOGURI is not forecast to displace people in All countries.
-
-
-## NARDA All countries: No forecast people exposed
-
-Storm NARDA is not forecast to affect people in All countries.
-
-
-## NARDA All countries: no forecast people displaced
-
-Storm NARDA is not forecast to displace people in All countries.
-
-
-## BUALOI All countries: No forecast people exposed
-
-Storm BUALOI is not forecast to affect people in All countries.
-
-
-## BUALOI All countries: no forecast people displaced
-
-Storm BUALOI is not forecast to displace people in All countries.
 
 

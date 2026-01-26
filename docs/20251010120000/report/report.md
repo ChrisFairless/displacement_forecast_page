@@ -39,36 +39,6 @@ Storm PRISCILLA is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAYMOND_2025-10-10_12UTC_MEX_displaced.png)
 
 
-## HALONG United States: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-10_12UTC_USA_cat1.png)
-
-
-## HALONG United States: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_HALONG_2025-10-10_12UTC_USA_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_HALONG_2025-10-10_12UTC_USA_exposed.png)
-
-
-## HALONG United States: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_HALONG_2025-10-10_12UTC_USA_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_HALONG_2025-10-10_12UTC_USA_displaced.png)
-
-
-## JERRY All countries: No forecast people exposed
-
-Storm JERRY is not forecast to affect people in All countries.
-
-
-## JERRY All countries: no forecast people displaced
-
-Storm JERRY is not forecast to displace people in All countries.
-
-
 ## NAKRI Japan: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NAKRI_2025-10-10_12UTC_JPN_cat1.png)
@@ -100,5 +70,35 @@ Storm KAREN is not forecast to affect people in All countries.
 ## KAREN All countries: no forecast people displaced
 
 Storm KAREN is not forecast to displace people in All countries.
+
+
+## JERRY All countries: No forecast people exposed
+
+Storm JERRY is not forecast to affect people in All countries.
+
+
+## JERRY All countries: no forecast people displaced
+
+Storm JERRY is not forecast to displace people in All countries.
+
+
+## HALONG United States: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_HALONG_2025-10-10_12UTC_USA_cat1.png)
+
+
+## HALONG United States: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_HALONG_2025-10-10_12UTC_USA_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_HALONG_2025-10-10_12UTC_USA_exposed.png)
+
+
+## HALONG United States: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_HALONG_2025-10-10_12UTC_USA_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_HALONG_2025-10-10_12UTC_USA_displaced.png)
 
 

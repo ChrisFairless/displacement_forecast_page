@@ -19,16 +19,6 @@ Storm LORENA is not forecast to affect people in All countries.
 Storm LORENA is not forecast to displace people in All countries.
 
 
-## KIKO All countries: No forecast people exposed
-
-Storm KIKO is not forecast to affect people in All countries.
-
-
-## KIKO All countries: no forecast people displaced
-
-Storm KIKO is not forecast to displace people in All countries.
-
-
 ## PEIPAH Japan: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_PEIPAH_2025-09-05_00UTC_JPN_cat1.png)
@@ -47,5 +37,15 @@ Storm KIKO is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_PEIPAH_2025-09-05_00UTC_JPN_displaced.png)
+
+
+## KIKO All countries: No forecast people exposed
+
+Storm KIKO is not forecast to affect people in All countries.
+
+
+## KIKO All countries: no forecast people displaced
+
+Storm KIKO is not forecast to displace people in All countries.
 
 

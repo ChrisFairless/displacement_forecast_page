@@ -4,8 +4,5 @@ This is a WIP. All this is going to change, for now we're just dumping things he
 
 ## Forecast for 2025-12-20 12:00 UTC
 
-There are 0 active named storms.
-
-![Active storm ensemble tracks](ECMWF_TC_tracks_20251220120000.png)
-
+There are no active named storms.
 

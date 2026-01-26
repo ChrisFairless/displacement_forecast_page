@@ -4,7 +4,7 @@ This is a WIP. All this is going to change, for now we're just dumping things he
 
 ## Forecast for 2026-01-03 12:00 UTC
 
-There are 1 active named storms.
+There are 2 active named storms.
 
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260103120000.png)
 
@@ -27,5 +27,15 @@ There are 1 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_GRANT_2026-01-03_12UTC_MOZ_displaced.png)
+
+
+## IGGY All countries: No forecast people exposed
+
+Storm IGGY is not forecast to affect people in All countries.
+
+
+## IGGY All countries: no forecast people displaced
+
+Storm IGGY is not forecast to displace people in All countries.
 
 
