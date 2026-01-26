@@ -7,7 +7,6 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2026-01-26 00:00 UTC](20260126000000/report/report.html) |                        0 |                                                     |                         0 |                          0 |
 | [2026-01-25 00:00 UTC](20260125000000/report/report.html) |                        1 | LUANA                                               |                         1 |                          1 |
 | [2026-01-24 12:00 UTC](20260124120000/report/report.html) |                        1 | LUANA                                               |                         1 |                          1 |
 | [2026-01-24 00:00 UTC](20260124000000/report/report.html) |                        1 | LUANA                                               |                         1 |                          1 |
