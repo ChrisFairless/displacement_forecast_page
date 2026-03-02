@@ -7,6 +7,40 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-03-02 00:00 UTC](20260302000000/report/report.html) |                        1 | URMIL                                               |                         0 |                          0 |
+| [2026-03-01 12:00 UTC](20260301120000/report/report.html) |                        1 | URMIL                                               |                         0 |                          0 |
+| [2026-03-01 00:00 UTC](20260301000000/report/report.html) |                        1 | URMIL                                               |                         0 |                          0 |
+| [2026-02-28 12:00 UTC](20260228120000/report/report.html) |                        1 | URMIL                                               |                         0 |                          0 |
+| [2026-02-26 12:00 UTC](20260226120000/report/report.html) |                        1 | HORACIO                                             |                         0 |                          0 |
+| [2026-02-26 00:00 UTC](20260226000000/report/report.html) |                        1 | HORACIO                                             |                         0 |                          0 |
+| [2026-02-25 12:00 UTC](20260225120000/report/report.html) |                        1 | HORACIO                                             |                         0 |                          0 |
+| [2026-02-25 00:00 UTC](20260225000000/report/report.html) |                        1 | HORACIO                                             |                         0 |                          0 |
+| [2026-02-24 12:00 UTC](20260224120000/report/report.html) |                        1 | HORACIO                                             |                         0 |                          0 |
+| [2026-02-24 00:00 UTC](20260224000000/report/report.html) |                        1 | HORACIO                                             |                         0 |                          0 |
+| [2026-02-23 12:00 UTC](20260223120000/report/report.html) |                        1 | HORACIO                                             |                         1 |                          1 |
+| [2026-02-23 00:00 UTC](20260223000000/report/report.html) |                        1 | HORACIO                                             |                         0 |                          0 |
+| [2026-02-22 12:00 UTC](20260222120000/report/report.html) |                        1 | HORACIO                                             |                         0 |                          0 |
+| [2026-02-22 00:00 UTC](20260222000000/report/report.html) |                        1 | HORACIO                                             |                         0 |                          0 |
+| [2026-02-21 12:00 UTC](20260221120000/report/report.html) |                        1 | HORACIO                                             |                         1 |                          1 |
+| [2026-02-21 00:00 UTC](20260221000000/report/report.html) |                        1 | HORACIO                                             |                         1 |                          1 |
+| [2026-02-20 12:00 UTC](20260220120000/report/report.html) |                        1 | HORACIO                                             |                         1 |                          1 |
+| [2026-02-13 00:00 UTC](20260213000000/report/report.html) |                        1 | GEZANI                                              |                         1 |                          1 |
+| [2026-02-12 00:00 UTC](20260212000000/report/report.html) |                        1 | GEZANI                                              |                         1 |                          1 |
+| [2026-02-07 12:00 UTC](20260207120000/report/report.html) |                        1 | MITCHELL                                            |                         1 |                          1 |
+| [2026-02-07 00:00 UTC](20260207000000/report/report.html) |                        2 | MITCHELL, PENHA                                     |                         1 |                          1 |
+| [2026-02-06 12:00 UTC](20260206120000/report/report.html) |                        2 | MITCHELL, PENHA                                     |                         1 |                          1 |
+| [2026-02-06 00:00 UTC](20260206000000/report/report.html) |                        1 | PENHA                                               |                         0 |                          0 |
+| [2026-02-05 12:00 UTC](20260205120000/report/report.html) |                        1 | PENHA                                               |                         1 |                          1 |
+| [2026-02-05 00:00 UTC](20260205000000/report/report.html) |                        1 | PENHA                                               |                         1 |                          1 |
+| [2026-02-04 12:00 UTC](20260204120000/report/report.html) |                        2 | FYTIA, PENHA                                        |                         1 |                          1 |
+| [2026-02-03 00:00 UTC](20260203000000/report/report.html) |                        1 | FYTIA                                               |                         0 |                          0 |
+| [2026-02-02 12:00 UTC](20260202120000/report/report.html) |                        1 | FYTIA                                               |                         0 |                          0 |
+| [2026-02-02 00:00 UTC](20260202000000/report/report.html) |                        1 | FYTIA                                               |                         0 |                          0 |
+| [2026-02-01 12:00 UTC](20260201120000/report/report.html) |                        1 | FYTIA                                               |                         0 |                          0 |
+| [2026-02-01 00:00 UTC](20260201000000/report/report.html) |                        1 | FYTIA                                               |                         0 |                          0 |
+| [2026-01-31 00:00 UTC](20260131000000/report/report.html) |                        1 | FYTIA                                               |                         1 |                          1 |
+| [2026-01-30 12:00 UTC](20260130120000/report/report.html) |                        1 | FYTIA                                               |                         1 |                          1 |
+| [2026-01-30 00:00 UTC](20260130000000/report/report.html) |                        1 | FYTIA                                               |                         1 |                          1 |
 | [2026-01-26 00:00 UTC](20260126000000/report/report.html) |                        0 |                                                     |                         0 |                          0 |
 | [2026-01-25 12:00 UTC](20260125120000/report/report.html) |                        0 |                                                     |                         0 |                          0 |
 | [2026-01-25 00:00 UTC](20260125000000/report/report.html) |                        1 | LUANA                                               |                         1 |                          1 |
