@@ -7,6 +7,8 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-03-11 12:00 UTC](20260311120000/report/report.html) |                        1 | NURI                                                |                         0 |                          0 |
+| [2026-03-11 00:00 UTC](20260311000000/report/report.html) |                        1 | NURI                                                |                         1 |                          1 |
 | [2026-03-02 00:00 UTC](20260302000000/report/report.html) |                        1 | URMIL                                               |                         0 |                          0 |
 | [2026-03-01 12:00 UTC](20260301120000/report/report.html) |                        1 | URMIL                                               |                         0 |                          0 |
 | [2026-03-01 00:00 UTC](20260301000000/report/report.html) |                        1 | URMIL                                               |                         0 |                          0 |
