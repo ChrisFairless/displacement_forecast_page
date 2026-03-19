@@ -7,6 +7,12 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-03-19 00:00 UTC](20260319000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-18 12:00 UTC](20260318120000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-18 00:00 UTC](20260318000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-17 12:00 UTC](20260317120000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-12 12:00 UTC](20260312120000/report/report.html) |                        1 | NURI                                                |                         0 |                          0 |
+| [2026-03-12 00:00 UTC](20260312000000/report/report.html) |                        1 | NURI                                                |                         0 |                          0 |
 | [2026-03-11 12:00 UTC](20260311120000/report/report.html) |                        1 | NURI                                                |                         0 |                          0 |
 | [2026-03-11 00:00 UTC](20260311000000/report/report.html) |                        1 | NURI                                                |                         1 |                          1 |
 | [2026-03-02 00:00 UTC](20260302000000/report/report.html) |                        1 | URMIL                                               |                         0 |                          0 |
