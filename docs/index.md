@@ -7,6 +7,15 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-03-23 12:00 UTC](20260323120000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-23 00:00 UTC](20260323000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-22 12:00 UTC](20260322120000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-22 00:00 UTC](20260322000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-21 12:00 UTC](20260321120000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-21 00:00 UTC](20260321000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-20 12:00 UTC](20260320120000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-20 00:00 UTC](20260320000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-19 12:00 UTC](20260319120000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
 | [2026-03-19 00:00 UTC](20260319000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
 | [2026-03-18 12:00 UTC](20260318120000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
 | [2026-03-18 00:00 UTC](20260318000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
