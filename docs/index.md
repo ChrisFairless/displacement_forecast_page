@@ -7,6 +7,9 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-03-28 12:00 UTC](20260328120000/report/report.html) |                        1 | NARELLE                                             |                         0 |                          0 |
+| [2026-03-28 00:00 UTC](20260328000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
+| [2026-03-27 12:00 UTC](20260327120000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
 | [2026-03-27 00:00 UTC](20260327000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
 | [2026-03-26 12:00 UTC](20260326120000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
 | [2026-03-26 00:00 UTC](20260326000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
