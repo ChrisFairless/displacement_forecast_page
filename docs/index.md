@@ -7,6 +7,17 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-04-08 00:00 UTC](20260408000000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
+| [2026-04-07 12:00 UTC](20260407120000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
+| [2026-04-07 00:00 UTC](20260407000000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
+| [2026-04-06 12:00 UTC](20260406120000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
+| [2026-04-06 00:00 UTC](20260406000000/report/report.html) |                        3 | INDUSA, MAILA, VAIANU                               |                         2 |                          2 |
+| [2026-04-05 12:00 UTC](20260405120000/report/report.html) |                        3 | INDUSA, MAILA, VAIANU                               |                         2 |                          2 |
+| [2026-04-05 00:00 UTC](20260405000000/report/report.html) |                        2 | INDUSA, MAILA                                       |                         1 |                          1 |
+| [2026-04-04 00:00 UTC](20260404000000/report/report.html) |                        1 | INDUSA                                              |                         0 |                          0 |
+| [2026-04-03 12:00 UTC](20260403120000/report/report.html) |                        1 | INDUSA                                              |                         0 |                          0 |
+| [2026-04-03 00:00 UTC](20260403000000/report/report.html) |                        1 | INDUSA                                              |                         0 |                          0 |
+| [2026-04-02 12:00 UTC](20260402120000/report/report.html) |                        1 | INDUSA                                              |                         0 |                          0 |
 | [2026-03-28 12:00 UTC](20260328120000/report/report.html) |                        1 | NARELLE                                             |                         0 |                          0 |
 | [2026-03-28 00:00 UTC](20260328000000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
 | [2026-03-27 12:00 UTC](20260327120000/report/report.html) |                        1 | NARELLE                                             |                         1 |                          1 |
