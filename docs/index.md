@@ -7,6 +7,9 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-04-09 12:00 UTC](20260409120000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
+| [2026-04-09 00:00 UTC](20260409000000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
+| [2026-04-08 12:00 UTC](20260408120000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
 | [2026-04-08 00:00 UTC](20260408000000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
 | [2026-04-07 12:00 UTC](20260407120000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
 | [2026-04-07 00:00 UTC](20260407000000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
