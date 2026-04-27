@@ -7,6 +7,17 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-04-20 00:00 UTC](20260420000000/report/report.html) |                        1 | SINLAKU                                             |                         0 |                          0 |
+| [2026-04-19 12:00 UTC](20260419120000/report/report.html) |                        1 | SINLAKU                                             |                         0 |                          0 |
+| [2026-04-19 00:00 UTC](20260419000000/report/report.html) |                        1 | SINLAKU                                             |                         0 |                          0 |
+| [2026-04-18 12:00 UTC](20260418120000/report/report.html) |                        1 | SINLAKU                                             |                         0 |                          0 |
+| [2026-04-16 00:00 UTC](20260416000000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
+| [2026-04-15 12:00 UTC](20260415120000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
+| [2026-04-15 00:00 UTC](20260415000000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
+| [2026-04-14 12:00 UTC](20260414120000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
+| [2026-04-14 00:00 UTC](20260414000000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
+| [2026-04-13 00:00 UTC](20260413000000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
+| [2026-04-12 12:00 UTC](20260412120000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
 | [2026-04-12 00:00 UTC](20260412000000/report/report.html) |                        2 | MAILA, SINLAKU                                      |                         1 |                          1 |
 | [2026-04-11 12:00 UTC](20260411120000/report/report.html) |                        2 | MAILA, SINLAKU                                      |                         1 |                          1 |
 | [2026-04-11 00:00 UTC](20260411000000/report/report.html) |                        2 | MAILA, SINLAKU                                      |                         2 |                          2 |
