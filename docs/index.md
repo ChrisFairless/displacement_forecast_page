@@ -7,6 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-04-27 12:00 UTC](20260427120000/report/report.html) |                        1 | JULUKA                                              |                         0 |                          0 |
 | [2026-04-20 00:00 UTC](20260420000000/report/report.html) |                        1 | SINLAKU                                             |                         0 |                          0 |
 | [2026-04-19 12:00 UTC](20260419120000/report/report.html) |                        1 | SINLAKU                                             |                         0 |                          0 |
 | [2026-04-19 00:00 UTC](20260419000000/report/report.html) |                        1 | SINLAKU                                             |                         0 |                          0 |
