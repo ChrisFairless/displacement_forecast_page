@@ -7,6 +7,12 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-05-09 00:00 UTC](20260509000000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
+| [2026-05-08 12:00 UTC](20260508120000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
+| [2026-05-08 00:00 UTC](20260508000000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
+| [2026-05-07 12:00 UTC](20260507120000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
+| [2026-05-07 00:00 UTC](20260507000000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
+| [2026-05-06 12:00 UTC](20260506120000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
 | [2026-04-27 12:00 UTC](20260427120000/report/report.html) |                        1 | JULUKA                                              |                         0 |                          0 |
 | [2026-04-20 00:00 UTC](20260420000000/report/report.html) |                        1 | SINLAKU                                             |                         0 |                          0 |
 | [2026-04-19 12:00 UTC](20260419120000/report/report.html) |                        1 | SINLAKU                                             |                         0 |                          0 |
