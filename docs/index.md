@@ -7,6 +7,8 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-05-10 12:00 UTC](20260510120000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
+| [2026-05-10 00:00 UTC](20260510000000/report/report.html) |                        1 | HAGUPIT                                             |                         0 |                          0 |
 | [2026-05-09 00:00 UTC](20260509000000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
 | [2026-05-08 12:00 UTC](20260508120000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
 | [2026-05-08 00:00 UTC](20260508000000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
