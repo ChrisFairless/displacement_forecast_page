@@ -7,6 +7,16 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-05-31 12:00 UTC](20260531120000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-05-31 00:00 UTC](20260531000000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-05-30 12:00 UTC](20260530120000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-05-30 00:00 UTC](20260530000000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-05-29 12:00 UTC](20260529120000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-05-29 00:00 UTC](20260529000000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-05-28 12:00 UTC](20260528120000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-05-28 00:00 UTC](20260528000000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-05-27 12:00 UTC](20260527120000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-05-27 00:00 UTC](20260527000000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
 | [2026-05-10 12:00 UTC](20260510120000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
 | [2026-05-10 00:00 UTC](20260510000000/report/report.html) |                        1 | HAGUPIT                                             |                         0 |                          0 |
 | [2026-05-09 00:00 UTC](20260509000000/report/report.html) |                        1 | HAGUPIT                                             |                         1 |                          1 |
