@@ -7,6 +7,11 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-06-03 00:00 UTC](20260603000000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-06-02 12:00 UTC](20260602120000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-06-02 00:00 UTC](20260602000000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-06-01 12:00 UTC](20260601120000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
+| [2026-06-01 00:00 UTC](20260601000000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
 | [2026-05-31 12:00 UTC](20260531120000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
 | [2026-05-31 00:00 UTC](20260531000000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
 | [2026-05-30 12:00 UTC](20260530120000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
