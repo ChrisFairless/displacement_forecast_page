@@ -7,6 +7,12 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-06-06 00:00 UTC](20260606000000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
+| [2026-06-05 12:00 UTC](20260605120000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
+| [2026-06-05 00:00 UTC](20260605000000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
+| [2026-06-04 12:00 UTC](20260604120000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
+| [2026-06-04 00:00 UTC](20260604000000/report/report.html) |                        2 | AMANDA, JANGMI                                      |                         0 |                          0 |
+| [2026-06-03 12:00 UTC](20260603120000/report/report.html) |                        2 | AMANDA, JANGMI                                      |                         0 |                          0 |
 | [2026-06-03 00:00 UTC](20260603000000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
 | [2026-06-02 12:00 UTC](20260602120000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
 | [2026-06-02 00:00 UTC](20260602000000/report/report.html) |                        1 | JANGMI                                              |                         1 |                          1 |
