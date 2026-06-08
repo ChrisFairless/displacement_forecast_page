@@ -7,6 +7,10 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-06-08 00:00 UTC](20260608000000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
+| [2026-06-07 12:00 UTC](20260607120000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
+| [2026-06-07 00:00 UTC](20260607000000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
+| [2026-06-06 12:00 UTC](20260606120000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
 | [2026-06-06 00:00 UTC](20260606000000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
 | [2026-06-05 12:00 UTC](20260605120000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
 | [2026-06-05 00:00 UTC](20260605000000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
