@@ -7,6 +7,10 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-06-10 00:00 UTC](20260610000000/report/report.html) |                        2 | BORIS, CRISTINA                                     |                         0 |                          0 |
+| [2026-06-09 12:00 UTC](20260609120000/report/report.html) |                        2 | BORIS, CRISTINA                                     |                         0 |                          0 |
+| [2026-06-09 00:00 UTC](20260609000000/report/report.html) |                        2 | BORIS, CRISTINA                                     |                         1 |                          1 |
+| [2026-06-08 12:00 UTC](20260608120000/report/report.html) |                        2 | AMANDA, BORIS                                       |                         1 |                          1 |
 | [2026-06-08 00:00 UTC](20260608000000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
 | [2026-06-07 12:00 UTC](20260607120000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
 | [2026-06-07 00:00 UTC](20260607000000/report/report.html) |                        1 | AMANDA                                              |                         0 |                          0 |
