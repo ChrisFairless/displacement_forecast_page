@@ -7,6 +7,12 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-06-22 00:00 UTC](20260622000000/report/report.html) |                        1 | MEKKHALA                                            |                         1 |                          1 |
+| [2026-06-21 12:00 UTC](20260621120000/report/report.html) |                        1 | MEKKHALA                                            |                         1 |                          1 |
+| [2026-06-21 00:00 UTC](20260621000000/report/report.html) |                        1 | MEKKHALA                                            |                         1 |                          1 |
+| [2026-06-20 12:00 UTC](20260620120000/report/report.html) |                        1 | MEKKHALA                                            |                         1 |                          1 |
+| [2026-06-20 00:00 UTC](20260620000000/report/report.html) |                        1 | MEKKHALA                                            |                         1 |                          1 |
+| [2026-06-18 12:00 UTC](20260618120000/report/report.html) |                        1 | ARTHUR                                              |                         1 |                          1 |
 | [2026-06-18 00:00 UTC](20260618000000/report/report.html) |                        1 | ARTHUR                                              |                         1 |                          1 |
 | [2026-06-17 12:00 UTC](20260617120000/report/report.html) |                        1 | ARTHUR                                              |                         1 |                          1 |
 | [2026-06-11 12:00 UTC](20260611120000/report/report.html) |                        1 | CRISTINA                                            |                         0 |                          0 |
