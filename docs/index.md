@@ -7,6 +7,9 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-06-26 00:00 UTC](20260626000000/report/report.html) |                        2 | HIGOS, MEKKHALA                                     |                         2 |                          2 |
+| [2026-06-25 12:00 UTC](20260625120000/report/report.html) |                        2 | HIGOS, MEKKHALA                                     |                         2 |                          2 |
+| [2026-06-25 00:00 UTC](20260625000000/report/report.html) |                        2 | HIGOS, MEKKHALA                                     |                         2 |                          2 |
 | [2026-06-24 12:00 UTC](20260624120000/report/report.html) |                        2 | HIGOS, MEKKHALA                                     |                         2 |                          2 |
 | [2026-06-24 00:00 UTC](20260624000000/report/report.html) |                        2 | HIGOS, MEKKHALA                                     |                         2 |                          2 |
 | [2026-06-23 12:00 UTC](20260623120000/report/report.html) |                        2 | HIGOS, MEKKHALA                                     |                         2 |                          2 |
