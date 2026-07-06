@@ -7,6 +7,11 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-07-05 12:00 UTC](20260705120000/report/report.html) |                        2 | BAVI, MAYSAK                                        |                         2 |                          2 |
+| [2026-07-05 00:00 UTC](20260705000000/report/report.html) |                        2 | BAVI, MAYSAK                                        |                         2 |                          2 |
+| [2026-07-04 00:00 UTC](20260704000000/report/report.html) |                        2 | BAVI, MAYSAK                                        |                         2 |                          2 |
+| [2026-07-03 12:00 UTC](20260703120000/report/report.html) |                        3 | BAVI, DOUGLAS, MAYSAK                               |                         2 |                          2 |
+| [2026-07-03 00:00 UTC](20260703000000/report/report.html) |                        3 | BAVI, DOUGLAS, MAYSAK                               |                         2 |                          2 |
 | [2026-06-27 12:00 UTC](20260627120000/report/report.html) |                        1 | MEKKHALA                                            |                         0 |                          0 |
 | [2026-06-27 00:00 UTC](20260627000000/report/report.html) |                        2 | HIGOS, MEKKHALA                                     |                         1 |                          1 |
 | [2026-06-26 12:00 UTC](20260626120000/report/report.html) |                        2 | HIGOS, MEKKHALA                                     |                         2 |                          2 |
