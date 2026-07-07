@@ -1,0 +1,69 @@
+name: Daily Displacement Forecast Update
+run-name: Displacement Forecast 🚀
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '15 7 * * *'
+    - cron: '15 19 * * *'
+jobs:
+  update-forecast:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    concurrency:
+      group: forecast-update
+      cancel-in-progress: false
+    steps:
+      - name: Check out this repository
+        uses: actions/checkout@v4
+        with:
+          path: page-repo
+
+      - name: Check out forecast repository
+        uses: actions/checkout@v4
+        with:
+          repository: ChrisFairless/displacement_forecast
+          path: forecast-repo
+
+      - name: Set up Micromamba
+        uses: mamba-org/setup-micromamba@v2
+        with:
+          environment-file: forecast-repo/requirements.yml
+          environment-name: idmc_forecast
+          cache-environment: true
+          cache-downloads: true
+          init-shell: bash
+
+      - name: Run forecast
+        shell: bash -l {0}
+        working-directory: forecast-repo
+        run: |
+          cat > climada.conf <<'EOF'
+          {
+          "forecast_sandbox": {
+            "dir": "${{ github.workspace }}/page-repo/docs"
+          }
+          }
+          EOF
+          python process_all_forecasts.py
+
+      - name: Commit and push any changes
+        working-directory: page-repo
+        run: |-
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          find docs -type f -path "*/report/*.png" -exec git add {} +
+          find docs -type f -path "*/report/*.md" -exec git add {} +
+          find docs -type f -path "*/index.md" -exec git add {} +
+          timestamp=$(date -u)
+          if git diff --staged --quiet; then
+            echo "No changes to commit" >> $GITHUB_STEP_SUMMARY
+          else
+            git commit -m "Automated update: ${timestamp}"
+            git push
+            echo "Forecast updated at ${timestamp}" >> $GITHUB_STEP_SUMMARY
+          fi
