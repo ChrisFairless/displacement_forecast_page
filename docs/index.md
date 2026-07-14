@@ -10,13 +10,7 @@ This will grow up to be an informative greeting one day.
 | [2026-07-13 12:00 UTC](20260713120000/report/report.html) |                        2 | BAVI, HAISHEN                                       |                         2 |                          2 |
 | [2026-07-13 00:00 UTC](20260713000000/report/report.html) |                        2 | BAVI, HAISHEN                                       |                         2 |                          2 |
 | [2026-07-12 12:00 UTC](20260712120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-12 00:00 UTC](20260712000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-11 12:00 UTC](20260711120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-11 00:00 UTC](20260711000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-10 12:00 UTC](20260710120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-10 00:00 UTC](20260710000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-09 12:00 UTC](20260709120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-09 00:00 UTC](20260709000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-08 12:00 UTC](20260708120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-08 00:00 UTC](20260708000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-07 12:00 UTC](20260707120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
