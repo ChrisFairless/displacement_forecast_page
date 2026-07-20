@@ -7,6 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-07-19 12:00 UTC](20260719120000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
 | [2026-07-13 12:00 UTC](20260713120000/report/report.html) |                        2 | BAVI, HAISHEN                                       |                         2 |                          2 |
 | [2026-07-13 00:00 UTC](20260713000000/report/report.html) |                        2 | BAVI, HAISHEN                                       |                         2 |                          2 |
 | [2026-07-12 12:00 UTC](20260712120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
