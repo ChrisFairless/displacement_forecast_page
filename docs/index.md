@@ -7,33 +7,16 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2026-07-22 00:00 UTC](20260722000000/report/report.html) |                        2 | BERTHA, FAUSTO                                      |                         1 |                          1 |
 | [2026-07-21 12:00 UTC](20260721120000/report/report.html) |                        2 | BERTHA, FAUSTO                                      |                         2 |                          2 |
 | [2026-07-21 00:00 UTC](20260721000000/report/report.html) |                        3 | BERTHA, ELIDA, FAUSTO                               |                         2 |                          2 |
 | [2026-07-20 12:00 UTC](20260720120000/report/report.html) |                        2 | ELIDA, FAUSTO                                       |                         1 |                          1 |
 | [2026-07-20 00:00 UTC](20260720000000/report/report.html) |                        2 | ELIDA, FAUSTO                                       |                         1 |                          1 |
-| [2026-07-19 12:00 UTC](20260719120000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
-| [2026-07-19 00:00 UTC](20260719000000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
-| [2026-07-18 12:00 UTC](20260718120000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
-| [2026-07-18 00:00 UTC](20260718000000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
-| [2026-07-17 12:00 UTC](20260717120000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
-| [2026-07-17 00:00 UTC](20260717000000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
-| [2026-07-16 12:00 UTC](20260716120000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
-| [2026-07-16 00:00 UTC](20260716000000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
-| [2026-07-15 12:00 UTC](20260715120000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
-| [2026-07-15 00:00 UTC](20260715000000/report/report.html) |                        1 | BAVI                                                |                         0 |                          0 |
 | [2026-07-14 12:00 UTC](20260714120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-14 00:00 UTC](20260714000000/report/report.html) |                        2 | BAVI, HAISHEN                                       |                         1 |                          1 |
 | [2026-07-13 12:00 UTC](20260713120000/report/report.html) |                        2 | BAVI, HAISHEN                                       |                         2 |                          2 |
 | [2026-07-13 00:00 UTC](20260713000000/report/report.html) |                        2 | BAVI, HAISHEN                                       |                         2 |                          2 |
 | [2026-07-12 12:00 UTC](20260712120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-12 00:00 UTC](20260712000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-11 12:00 UTC](20260711120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-11 00:00 UTC](20260711000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-10 12:00 UTC](20260710120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-10 00:00 UTC](20260710000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-09 12:00 UTC](20260709120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
-| [2026-07-09 00:00 UTC](20260709000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-08 12:00 UTC](20260708120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-08 00:00 UTC](20260708000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-07 12:00 UTC](20260707120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
