@@ -7,6 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-07-22 00:00 UTC](20260722000000/report/report.html) |                        2 | BERTHA, FAUSTO                                      |                         1 |                          1 |
 | [2026-07-20 12:00 UTC](20260720120000/report/report.html) |                        2 | ELIDA, FAUSTO                                       |                         1 |                          1 |
 | [2026-07-20 00:00 UTC](20260720000000/report/report.html) |                        2 | ELIDA, FAUSTO                                       |                         1 |                          1 |
 | [2026-07-13 12:00 UTC](20260713120000/report/report.html) |                        2 | BAVI, HAISHEN                                       |                         2 |                          2 |
