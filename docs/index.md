@@ -7,6 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-07-30 00:00 UTC](20260730000000/report/report.html) |                        3 | DOLPHIN, FAUSTO, GENEVIEVE                          |                         1 |                          1 |
 | [2026-07-23 00:00 UTC](20260723000000/report/report.html) |                        2 | BERTHA, FAUSTO                                      |                         2 |                          2 |
 | [2026-07-22 12:00 UTC](20260722120000/report/report.html) |                        2 | BERTHA, FAUSTO                                      |                         2 |                          2 |
 | [2026-07-21 12:00 UTC](20260721120000/report/report.html) |                        2 | BERTHA, FAUSTO                                      |                         2 |                          2 |
