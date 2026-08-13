@@ -7,6 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-08-13 12:00 UTC](20260813120000/report/report.html) |                        5 | CRISTOBAL, HERNAN, LALA, NANGKA, PEILOU             |                         1 |                          1 |
 | [2026-08-13 00:00 UTC](20260813000000/report/report.html) |                        3 | CRISTOBAL, NANGKA, PEILOU                           |                         0 |                          0 |
 | [2026-08-12 12:00 UTC](20260812120000/report/report.html) |                        3 | CRISTOBAL, NANGKA, PEILOU                           |                         0 |                          0 |
 | [2026-08-12 00:00 UTC](20260812000000/report/report.html) |                        3 | CHANHOM, NANGKA, PEILOU                             |                         0 |                          0 |
