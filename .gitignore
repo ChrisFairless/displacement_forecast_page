@@ -6,3 +6,4 @@ cache*
 *__pycache__*
 deleteme
 *egg-info*
+.github/workflows/old*
