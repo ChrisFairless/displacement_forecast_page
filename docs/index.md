@@ -8,11 +8,15 @@ This will grow up to be an informative greeting one day.
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
 | [2026-08-18 00:00 UTC](20260818000000/report/report.html) |                        1 | LALA                                                |                         0 |                          0 |
+| [2026-08-17 12:00 UTC](20260817120000/report/report.html) |                        1 | LALA                                                |                         0 |                          0 |
+| [2026-08-17 00:00 UTC](20260817000000/report/report.html) |                        1 | LALA                                                |                         0 |                          0 |
+| [2026-08-16 12:00 UTC](20260816120000/report/report.html) |                        2 | LALA, NANGKA                                        |                         0 |                          0 |
 | [2026-08-16 00:00 UTC](20260816000000/report/report.html) |                        3 | HERNAN, LALA, NANGKA                                |                         1 |                          1 |
 | [2026-08-15 12:00 UTC](20260815120000/report/report.html) |                        3 | HERNAN, LALA, NANGKA                                |                         1 |                          1 |
 | [2026-08-15 00:00 UTC](20260815000000/report/report.html) |                        3 | HERNAN, LALA, NANGKA                                |                         1 |                          1 |
 | [2026-08-14 12:00 UTC](20260814120000/report/report.html) |                        3 | HERNAN, LALA, NANGKA                                |                         1 |                          1 |
 | [2026-08-14 00:00 UTC](20260814000000/report/report.html) |                        5 | CRISTOBAL, HERNAN, LALA, NANGKA, PEILOU             |                         1 |                          1 |
+| [2026-08-13 12:00 UTC](20260813120000/report/report.html) |                        5 | CRISTOBAL, HERNAN, LALA, NANGKA, PEILOU             |                         1 |                          1 |
 | [2026-08-13 00:00 UTC](20260813000000/report/report.html) |                        3 | CRISTOBAL, NANGKA, PEILOU                           |                         0 |                          0 |
 | [2026-08-12 12:00 UTC](20260812120000/report/report.html) |                        3 | CRISTOBAL, NANGKA, PEILOU                           |                         0 |                          0 |
 | [2026-08-12 00:00 UTC](20260812000000/report/report.html) |                        3 | CHANHOM, NANGKA, PEILOU                             |                         0 |                          0 |
@@ -41,22 +45,45 @@ This will grow up to be an informative greeting one day.
 | [2026-07-31 12:00 UTC](20260731120000/report/report.html) |                        2 | DOLPHIN, GENEVIEVE                                  |                         1 |                          1 |
 | [2026-07-31 00:00 UTC](20260731000000/report/report.html) |                        2 | DOLPHIN, GENEVIEVE                                  |                         1 |                          1 |
 | [2026-07-30 12:00 UTC](20260730120000/report/report.html) |                        2 | DOLPHIN, GENEVIEVE                                  |                         1 |                          1 |
+| [2026-07-30 00:00 UTC](20260730000000/report/report.html) |                        3 | DOLPHIN, FAUSTO, GENEVIEVE                          |                         1 |                          1 |
 | [2026-07-29 12:00 UTC](20260729120000/report/report.html) |                        3 | DOLPHIN, FAUSTO, GENEVIEVE                          |                         1 |                          1 |
 | [2026-07-29 00:00 UTC](20260729000000/report/report.html) |                        3 | DOLPHIN, FAUSTO, GENEVIEVE                          |                         0 |                          0 |
 | [2026-07-28 12:00 UTC](20260728120000/report/report.html) |                        3 | DOLPHIN, FAUSTO, GENEVIEVE                          |                         1 |                          1 |
+| [2026-07-28 00:00 UTC](20260728000000/report/report.html) |                        3 | DOLPHIN, FAUSTO, GENEVIEVE                          |                         1 |                          1 |
 | [2026-07-27 12:00 UTC](20260727120000/report/report.html) |                        3 | DOLPHIN, FAUSTO, GENEVIEVE                          |                         0 |                          0 |
+| [2026-07-27 00:00 UTC](20260727000000/report/report.html) |                        2 | FAUSTO, GENEVIEVE                                   |                         0 |                          0 |
+| [2026-07-26 12:00 UTC](20260726120000/report/report.html) |                        3 | FAUSTO, GENEVIEVE, NOUL                             |                         0 |                          0 |
+| [2026-07-26 00:00 UTC](20260726000000/report/report.html) |                        3 | FAUSTO, GENEVIEVE, NOUL                             |                         1 |                          1 |
+| [2026-07-25 12:00 UTC](20260725120000/report/report.html) |                        3 | FAUSTO, GENEVIEVE, NOUL                             |                         1 |                          1 |
 | [2026-07-23 00:00 UTC](20260723000000/report/report.html) |                        2 | BERTHA, FAUSTO                                      |                         2 |                          2 |
 | [2026-07-22 12:00 UTC](20260722120000/report/report.html) |                        2 | BERTHA, FAUSTO                                      |                         2 |                          2 |
+| [2026-07-22 00:00 UTC](20260722000000/report/report.html) |                        2 | BERTHA, FAUSTO                                      |                         1 |                          1 |
 | [2026-07-21 12:00 UTC](20260721120000/report/report.html) |                        2 | BERTHA, FAUSTO                                      |                         2 |                          2 |
 | [2026-07-21 00:00 UTC](20260721000000/report/report.html) |                        3 | BERTHA, ELIDA, FAUSTO                               |                         2 |                          2 |
 | [2026-07-20 12:00 UTC](20260720120000/report/report.html) |                        2 | ELIDA, FAUSTO                                       |                         1 |                          1 |
 | [2026-07-20 00:00 UTC](20260720000000/report/report.html) |                        2 | ELIDA, FAUSTO                                       |                         1 |                          1 |
+| [2026-07-19 12:00 UTC](20260719120000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
+| [2026-07-19 00:00 UTC](20260719000000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
+| [2026-07-18 12:00 UTC](20260718120000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
+| [2026-07-18 00:00 UTC](20260718000000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
+| [2026-07-17 12:00 UTC](20260717120000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
+| [2026-07-17 00:00 UTC](20260717000000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
+| [2026-07-16 12:00 UTC](20260716120000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
+| [2026-07-16 00:00 UTC](20260716000000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
+| [2026-07-15 12:00 UTC](20260715120000/report/report.html) |                        1 | ELIDA                                               |                         0 |                          0 |
+| [2026-07-15 00:00 UTC](20260715000000/report/report.html) |                        1 | BAVI                                                |                         0 |                          0 |
 | [2026-07-14 12:00 UTC](20260714120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-14 00:00 UTC](20260714000000/report/report.html) |                        2 | BAVI, HAISHEN                                       |                         1 |                          1 |
 | [2026-07-13 12:00 UTC](20260713120000/report/report.html) |                        2 | BAVI, HAISHEN                                       |                         2 |                          2 |
 | [2026-07-13 00:00 UTC](20260713000000/report/report.html) |                        2 | BAVI, HAISHEN                                       |                         2 |                          2 |
 | [2026-07-12 12:00 UTC](20260712120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
+| [2026-07-12 00:00 UTC](20260712000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-11 12:00 UTC](20260711120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
+| [2026-07-11 00:00 UTC](20260711000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
+| [2026-07-10 12:00 UTC](20260710120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
+| [2026-07-10 00:00 UTC](20260710000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
+| [2026-07-09 12:00 UTC](20260709120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
+| [2026-07-09 00:00 UTC](20260709000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-08 12:00 UTC](20260708120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-08 00:00 UTC](20260708000000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
 | [2026-07-07 12:00 UTC](20260707120000/report/report.html) |                        1 | BAVI                                                |                         1 |                          1 |
@@ -137,11 +164,13 @@ This will grow up to be an informative greeting one day.
 | [2026-04-15 00:00 UTC](20260415000000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
 | [2026-04-14 12:00 UTC](20260414120000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
 | [2026-04-14 00:00 UTC](20260414000000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
+| [2026-04-13 12:00 UTC](20260413120000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
 | [2026-04-13 00:00 UTC](20260413000000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
 | [2026-04-12 12:00 UTC](20260412120000/report/report.html) |                        1 | SINLAKU                                             |                         1 |                          1 |
 | [2026-04-12 00:00 UTC](20260412000000/report/report.html) |                        2 | MAILA, SINLAKU                                      |                         1 |                          1 |
 | [2026-04-11 12:00 UTC](20260411120000/report/report.html) |                        2 | MAILA, SINLAKU                                      |                         1 |                          1 |
 | [2026-04-11 00:00 UTC](20260411000000/report/report.html) |                        2 | MAILA, SINLAKU                                      |                         2 |                          2 |
+| [2026-04-10 12:00 UTC](20260410120000/report/report.html) |                        2 | MAILA, SINLAKU                                      |                         2 |                          2 |
 | [2026-04-10 00:00 UTC](20260410000000/report/report.html) |                        2 | MAILA, SINLAKU                                      |                         2 |                          2 |
 | [2026-04-09 12:00 UTC](20260409120000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
 | [2026-04-09 00:00 UTC](20260409000000/report/report.html) |                        2 | MAILA, VAIANU                                       |                         2 |                          2 |
@@ -399,14 +428,14 @@ This will grow up to be an informative greeting one day.
 | [2025-10-28 00:00 UTC](20251028000000/report/report.html) |                        3 | MELISSA, MONTHA, SONIA                              |                         2 |                          2 |
 | [2025-10-27 12:00 UTC](20251027120000/report/report.html) |                        3 | MELISSA, MONTHA, SONIA                              |                         2 |                          2 |
 | [2025-10-27 00:00 UTC](20251027000000/report/report.html) |                        3 | MELISSA, MONTHA, SONIA                              |                         2 |                          2 |
-| [2025-10-26 12:00 UTC](20251026120000/report/report.html) |                        2 | MELISSA, SONIA                                      |                         0 |                          0 |
-| [2025-10-26 00:00 UTC](20251026000000/report/report.html) |                        3 | CHENGE, MELISSA, SONIA                              |                         0 |                          0 |
+| [2025-10-26 12:00 UTC](20251026120000/report/report.html) |                        2 | MELISSA, SONIA                                      |                         1 |                          1 |
+| [2025-10-26 00:00 UTC](20251026000000/report/report.html) |                        3 | CHENGE, MELISSA, SONIA                              |                         1 |                          1 |
 | [2025-10-25 12:00 UTC](20251025120000/report/report.html) |                        3 | CHENGE, MELISSA, SONIA                              |                         1 |                          1 |
 | [2025-10-25 00:00 UTC](20251025000000/report/report.html) |                        2 | CHENGE, MELISSA                                     |                         1 |                          1 |
 | [2025-10-24 12:00 UTC](20251024120000/report/report.html) |                        2 | CHENGE, MELISSA                                     |                         1 |                          1 |
-| [2025-10-24 00:00 UTC](20251024000000/report/report.html) |                        2 | CHENGE, MELISSA                                     |                         0 |                          0 |
-| [2025-10-23 12:00 UTC](20251023120000/report/report.html) |                        3 | CHENGE, FENGSHEN, MELISSA                           |                         0 |                          0 |
-| [2025-10-23 00:00 UTC](20251023000000/report/report.html) |                        3 | CHENGE, FENGSHEN, MELISSA                           |                         0 |                          0 |
+| [2025-10-24 00:00 UTC](20251024000000/report/report.html) |                        2 | CHENGE, MELISSA                                     |                         1 |                          1 |
+| [2025-10-23 12:00 UTC](20251023120000/report/report.html) |                        3 | CHENGE, FENGSHEN, MELISSA                           |                         1 |                          1 |
+| [2025-10-23 00:00 UTC](20251023000000/report/report.html) |                        3 | CHENGE, FENGSHEN, MELISSA                           |                         1 |                          1 |
 | [2025-10-22 12:00 UTC](20251022120000/report/report.html) |                        3 | CHENGE, FENGSHEN, MELISSA                           |                         1 |                          1 |
 | [2025-10-22 00:00 UTC](20251022000000/report/report.html) |                        3 | CHENGE, FENGSHEN, MELISSA                           |                         1 |                          1 |
 | [2025-10-21 12:00 UTC](20251021120000/report/report.html) |                        3 | CHENGE, FENGSHEN, MELISSA                           |                         3 |                          3 |
