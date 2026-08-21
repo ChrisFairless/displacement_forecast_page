@@ -7,7 +7,6 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
-| [2026-08-21 00:00 UTC](20260821000000/report/report.html) |                        2 | LALA, SAUDEL                                        |                         1 |                          1 |
 | [2026-08-20 12:00 UTC](20260820120000/report/report.html) |                        2 | LALA, SAUDEL                                        |                         1 |                          1 |
 | [2026-08-20 00:00 UTC](20260820000000/report/report.html) |                        2 | LALA, SAUDEL                                        |                         1 |                          1 |
 | [2026-08-19 00:00 UTC](20260819000000/report/report.html) |                        1 | LALA                                                |                         0 |                          0 |
