@@ -7,6 +7,8 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                              |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|-----------------------------------------------------|---------------------------|----------------------------|
+| [2026-08-23 00:00 UTC](20260823000000/report/report.html) |                        5 | GAENARI, LALA, MOKE, NARRA, SAUDEL                  |                         2 |                          2 |
+| [2026-08-22 12:00 UTC](20260822120000/report/report.html) |                        5 | GAENARI, LALA, MOKE, NARRA, SAUDEL                  |                         2 |                          2 |
 | [2026-08-21 12:00 UTC](20260821120000/report/report.html) |                        2 | LALA, SAUDEL                                        |                         1 |                          1 |
 | [2026-08-20 12:00 UTC](20260820120000/report/report.html) |                        2 | LALA, SAUDEL                                        |                         1 |                          1 |
 | [2026-08-20 00:00 UTC](20260820000000/report/report.html) |                        2 | LALA, SAUDEL                                        |                         1 |                          1 |
