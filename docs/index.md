@@ -7,6 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
+| [2026-09-12 12:00 UTC](20260912120000/report/report.html) |                        1 | NORBERT                                              |                         0 |                          0 |
 | [2026-09-12 00:00 UTC](20260912000000/report/report.html) |                        1 | NORBERT                                              |                         1 |                          1 |
 | [2026-09-11 12:00 UTC](20260911120000/report/report.html) |                        2 | LOWELL, NORBERT                                      |                         1 |                          1 |
 | [2026-09-08 12:00 UTC](20260908120000/report/report.html) |                        2 | LOWELL, MARIE                                        |                         1 |                          1 |
