@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
-| [2026-09-18 12:00 UTC](20260918120000/report/report.html) |                        1 | DUJUAN                                               |                         1 |                          1 |
+| [2026-09-19 00:00 UTC](20260919000000/report/report.html) |                        1 | DUJUAN                                               |                         1 |                          1 |
 | [2026-09-18 00:00 UTC](20260918000000/report/report.html) |                        1 | DUJUAN                                               |                         1 |                          1 |
 | [2026-09-17 12:00 UTC](20260917120000/report/report.html) |                        1 | DUJUAN                                               |                         1 |                          1 |
 | [2026-09-17 00:00 UTC](20260917000000/report/report.html) |                        1 | DUJUAN                                               |                         1 |                          1 |
