@@ -7,7 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
-| [2026-09-28 12:00 UTC](20260928120000/report/report.html) |                        6 | FAY, HANNA, NOLO, POLO, RACHEL, SURIGAE              |                         2 |                          2 |
+| [2026-09-29 00:00 UTC](20260929000000/report/report.html) |                        6 | FAY, HANNA, NOLO, POLO, RACHEL, SURIGAE              |                         2 |                          2 |
 | [2026-09-28 00:00 UTC](20260928000000/report/report.html) |                        6 | FAY, NOLO, ODALYS, POLO, RACHEL, SURIGAE             |                         2 |                          2 |
 | [2026-09-27 12:00 UTC](20260927120000/report/report.html) |                        5 | FAY, NOLO, ODALYS, POLO, SURIGAE                     |                         2 |                          2 |
 | [2026-09-27 00:00 UTC](20260927000000/report/report.html) |                        6 | FAY, GONZALO, NOLO, ODALYS, POLO, SURIGAE            |                         2 |                          2 |
