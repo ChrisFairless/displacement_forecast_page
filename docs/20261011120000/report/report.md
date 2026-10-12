@@ -1,0 +1,61 @@
+# Displacement forecast
+
+This is a WIP. All this is going to change, for now we're just dumping things here.
+
+## Forecast for 2026-10-11 12:00 UTC
+
+There are 4 active named storms.
+
+![Active storm ensemble tracks](ECMWF_TC_tracks_20261011120000.png)
+
+
+## RACHEL All countries: No forecast people exposed
+
+Storm RACHEL is not forecast to affect people in All countries.
+
+
+## RACHEL All countries: no forecast people displaced
+
+Storm RACHEL is not forecast to displace people in All countries.
+
+
+## NOLO All countries: No forecast people exposed
+
+Storm NOLO is not forecast to affect people in All countries.
+
+
+## NOLO All countries: no forecast people displaced
+
+Storm NOLO is not forecast to displace people in All countries.
+
+
+## SIMON Mexico: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_SIMON_2026-10-11_12UTC_MEX_cat1.png)
+
+
+## SIMON Mexico: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_SIMON_2026-10-11_12UTC_MEX_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_SIMON_2026-10-11_12UTC_MEX_exposed.png)
+
+
+## SIMON Mexico: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_SIMON_2026-10-11_12UTC_MEX_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_SIMON_2026-10-11_12UTC_MEX_displaced.png)
+
+
+## KOGUMA All countries: No forecast people exposed
+
+Storm KOGUMA is not forecast to affect people in All countries.
+
+
+## KOGUMA All countries: no forecast people displaced
+
+Storm KOGUMA is not forecast to displace people in All countries.
+
+
