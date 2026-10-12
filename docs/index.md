@@ -7,8 +7,6 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
-| [2026-10-12 00:00 UTC](20261012000000/report/report.html) |                        2 | KOGUMA, SIMON                                        |                         1 |                          1 |
-| [2026-10-11 12:00 UTC](20261011120000/report/report.html) |                        4 | KOGUMA, NOLO, RACHEL, SIMON                          |                         1 |                          1 |
 | [2026-10-09 12:00 UTC](20261009120000/report/report.html) |                        5 | ISAIAS, KOGUMA, NOLO, RACHEL, SIMON                  |                         3 |                          3 |
 | [2026-10-09 00:00 UTC](20261009000000/report/report.html) |                        5 | ISAIAS, KOGUMA, NOLO, RACHEL, SIMON                  |                         4 |                          4 |
 | [2026-10-08 12:00 UTC](20261008120000/report/report.html) |                        5 | ISAIAS, KOGUMA, NOLO, RACHEL, SIMON                  |                         4 |                          4 |
