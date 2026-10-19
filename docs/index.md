@@ -7,6 +7,8 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
+| [2026-10-19 00:00 UTC](20261019000000/report/report.html) |                        3 | CHAMPI, TRUDY, WATI                                  |                         2 |                          2 |
+| [2026-10-18 12:00 UTC](20261018120000/report/report.html) |                        3 | CHAMPI, TRUDY, WATI                                  |                         2 |                          2 |
 | [2026-10-18 00:00 UTC](20261018000000/report/report.html) |                        3 | CHAMPI, TRUDY, WATI                                  |                         2 |                          2 |
 | [2026-10-17 12:00 UTC](20261017120000/report/report.html) |                        3 | CHAMPI, TRUDY, WATI                                  |                         3 |                          3 |
 | [2026-10-17 00:00 UTC](20261017000000/report/report.html) |                        4 | CHAMPI, SIMON, TRUDY, WATI                           |                         2 |                          2 |
@@ -23,7 +25,7 @@ This will grow up to be an informative greeting one day.
 | [2026-10-11 12:00 UTC](20261011120000/report/report.html) |                        4 | KOGUMA, NOLO, RACHEL, SIMON                          |                         1 |                          1 |
 | [2026-10-11 00:00 UTC](20261011000000/report/report.html) |                        4 | KOGUMA, NOLO, RACHEL, SIMON                          |                         2 |                          2 |
 | [2026-10-10 12:00 UTC](20261010120000/report/report.html) |                        5 | ISAIAS, KOGUMA, NOLO, RACHEL, SIMON                  |                         2 |                          2 |
-| [2026-10-10 00:00 UTC](20261010000000/report/report.html) |                        5 | ISAIAS, KOGUMA, NOLO, RACHEL, SIMON                  |                         3 |                          2 |
+| [2026-10-10 00:00 UTC](20261010000000/report/report.html) |                        5 | ISAIAS, KOGUMA, NOLO, RACHEL, SIMON                  |                         3 |                          3 |
 | [2026-10-09 12:00 UTC](20261009120000/report/report.html) |                        5 | ISAIAS, KOGUMA, NOLO, RACHEL, SIMON                  |                         3 |                          3 |
 | [2026-10-09 00:00 UTC](20261009000000/report/report.html) |                        5 | ISAIAS, KOGUMA, NOLO, RACHEL, SIMON                  |                         4 |                          4 |
 | [2026-10-08 12:00 UTC](20261008120000/report/report.html) |                        5 | ISAIAS, KOGUMA, NOLO, RACHEL, SIMON                  |                         4 |                          4 |
@@ -40,7 +42,7 @@ This will grow up to be an informative greeting one day.
 | [2026-10-03 00:00 UTC](20261003000000/report/report.html) |                        3 | CHOI-WAN, NOLO, RACHEL                               |                         3 |                          3 |
 | [2026-10-02 12:00 UTC](20261002120000/report/report.html) |                        3 | CHOI-WAN, NOLO, RACHEL                               |                         2 |                          2 |
 | [2026-10-02 00:00 UTC](20261002000000/report/report.html) |                        4 | CHOI-WAN, NOLO, RACHEL, SURIGAE                      |                         2 |                          2 |
-| [2026-10-01 12:00 UTC](20261001120000/report/report.html) |                        4 | CHOI-WAN, NOLO, RACHEL, SURIGAE                      |                         0 |                          0 |
+| [2026-10-01 12:00 UTC](20261001120000/report/report.html) |                        4 | CHOI-WAN, NOLO, RACHEL, SURIGAE                      |                         2 |                          2 |
 | [2026-10-01 00:00 UTC](20261001000000/report/report.html) |                        5 | CHOI-WAN, HANNA, NOLO, RACHEL, SURIGAE               |                         1 |                          1 |
 | [2026-09-30 12:00 UTC](20260930120000/report/report.html) |                        4 | HANNA, NOLO, RACHEL, SURIGAE                         |                         1 |                          1 |
 | [2026-09-30 00:00 UTC](20260930000000/report/report.html) |                        6 | FAY, HANNA, NOLO, POLO, RACHEL, SURIGAE              |                         1 |                          1 |
