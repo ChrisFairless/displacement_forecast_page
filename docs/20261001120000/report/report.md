@@ -14,17 +14,45 @@ There are 4 active named storms.
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_JPN_cat1.png)
 
 
-## CHOI-WAN Northern Mariana Islands: no forecast people displaced
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_JPN_cat3.png)
 
-Storm CHOI-WAN is not forecast to displace people in Northern Mariana Islands.
+
+## CHOI-WAN Japan: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_JPN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_JPN_exposed.png)
+
+
+## CHOI-WAN Japan: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_JPN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_JPN_displaced.png)
+
+
+## CHOI-WAN Northern Mariana Islands: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_MNP_cat1.png)
 
 
 ![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_MNP_cat3.png)
 
 
-## SURIGAE All countries: no forecast people displaced
+## CHOI-WAN Northern Mariana Islands: people exposed
 
-Storm SURIGAE is not forecast to displace people in All countries.
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_MNP_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_MNP_exposed.png)
+
+
+## CHOI-WAN Northern Mariana Islands: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_MNP_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_CHOI-WAN_2026-10-01_12UTC_MNP_displaced.png)
 
 
 ## SURIGAE All countries: No forecast people exposed
@@ -47,13 +75,46 @@ Storm NOLO is not forecast to affect people in All countries.
 Storm NOLO is not forecast to displace people in All countries.
 
 
-## RACHEL United States: no forecast people displaced
+## RACHEL Mexico: areas affected
 
-Storm RACHEL is not forecast to displace people in United States.
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RACHEL_2026-10-01_12UTC_MEX_cat1.png)
 
 
-## RACHEL United States: no forecast people displaced
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RACHEL_2026-10-01_12UTC_MEX_cat3.png)
 
-Storm RACHEL is not forecast to displace people in United States.
+
+## RACHEL Mexico: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RACHEL_2026-10-01_12UTC_MEX_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RACHEL_2026-10-01_12UTC_MEX_exposed.png)
+
+
+## RACHEL Mexico: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RACHEL_2026-10-01_12UTC_MEX_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RACHEL_2026-10-01_12UTC_MEX_displaced.png)
+
+
+## RACHEL United States: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RACHEL_2026-10-01_12UTC_USA_cat1.png)
+
+
+## RACHEL United States: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RACHEL_2026-10-01_12UTC_USA_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_RACHEL_2026-10-01_12UTC_USA_exposed.png)
+
+
+## RACHEL United States: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RACHEL_2026-10-01_12UTC_USA_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_RACHEL_2026-10-01_12UTC_USA_displaced.png)
 
 

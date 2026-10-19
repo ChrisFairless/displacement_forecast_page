@@ -115,6 +115,21 @@ There are 3 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_12UTC_CAN_displaced.png)
 
 
+## MELISSA Colombia: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_12UTC_COL_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_12UTC_COL_exposed.png)
+
+
+## MELISSA Colombia: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-27_12UTC_COL_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_12UTC_COL_displaced.png)
+
+
 ## MELISSA Cuba: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-27_12UTC_CUB_cat1.png)

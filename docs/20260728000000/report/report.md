@@ -19,16 +19,6 @@ Storm FAUSTO is not forecast to affect people in All countries.
 Storm FAUSTO is not forecast to displace people in All countries.
 
 
-## GENEVIEVE Mexico: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GENEVIEVE_2026-07-28_00UTC_MEX_cat1.png)
-
-
-## DOLPHIN China: no forecast people displaced
-
-Storm DOLPHIN is not forecast to displace people in China.
-
-
 ## DOLPHIN China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_DOLPHIN_2026-07-28_00UTC_CHN_cat1.png)
@@ -156,5 +146,15 @@ Storm DOLPHIN is not forecast to displace people in China.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_DOLPHIN_2026-07-28_00UTC_TWN_displaced.png)
+
+
+## GENEVIEVE Mexico: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GENEVIEVE_2026-07-28_00UTC_MEX_cat1.png)
+
+
+## GENEVIEVE Mexico: no forecast people displaced
+
+Storm GENEVIEVE is not forecast to displace people in Mexico.
 
 

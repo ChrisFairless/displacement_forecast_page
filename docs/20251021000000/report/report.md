@@ -9,6 +9,16 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20251021000000.png)
 
 
+## FENGSHEN China: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_CHN_cat1.png)
+
+
+## FENGSHEN Viet Nam: no forecast people displaced
+
+Storm FENGSHEN is not forecast to displace people in Viet Nam.
+
+
 ## FENGSHEN Viet Nam: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_FENGSHEN_2025-10-21_00UTC_VNM_cat1.png)

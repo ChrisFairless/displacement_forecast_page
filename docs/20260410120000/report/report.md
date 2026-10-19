@@ -120,3 +120,8 @@ There are 2 active named storms.
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MAILA_2026-04-10_12UTC_SLB_cat1.png)
 
 
+## MAILA Solomon Islands: no forecast people displaced
+
+Storm MAILA is not forecast to displace people in Solomon Islands.
+
+

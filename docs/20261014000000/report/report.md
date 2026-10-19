@@ -19,6 +19,26 @@ Storm KOGUMA is not forecast to affect people in All countries.
 Storm KOGUMA is not forecast to displace people in All countries.
 
 
+## SIMON Mexico: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_SIMON_2026-10-14_00UTC_MEX_cat1.png)
+
+
+## SIMON Mexico: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_SIMON_2026-10-14_00UTC_MEX_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_SIMON_2026-10-14_00UTC_MEX_exposed.png)
+
+
+## SIMON Mexico: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_SIMON_2026-10-14_00UTC_MEX_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_SIMON_2026-10-14_00UTC_MEX_displaced.png)
+
+
 ## TRUDY Mexico: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_TRUDY_2026-10-14_00UTC_MEX_cat1.png)
@@ -40,25 +60,5 @@ Storm KOGUMA is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_TRUDY_2026-10-14_00UTC_MEX_displaced.png)
-
-
-## SIMON Mexico: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_SIMON_2026-10-14_00UTC_MEX_cat1.png)
-
-
-## SIMON Mexico: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_SIMON_2026-10-14_00UTC_MEX_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_SIMON_2026-10-14_00UTC_MEX_exposed.png)
-
-
-## SIMON Mexico: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_SIMON_2026-10-14_00UTC_MEX_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_SIMON_2026-10-14_00UTC_MEX_displaced.png)
 
 

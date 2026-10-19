@@ -161,6 +161,26 @@ Storm SAUDEL is not forecast to displace people in Philippines.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_SAUDEL_2026-08-22_00UTC_TWN_displaced.png)
 
 
+## MOKE All countries: No forecast people exposed
+
+Storm MOKE is not forecast to affect people in All countries.
+
+
+## MOKE All countries: no forecast people displaced
+
+Storm MOKE is not forecast to displace people in All countries.
+
+
+## LALA All countries: No forecast people exposed
+
+Storm LALA is not forecast to affect people in All countries.
+
+
+## LALA All countries: no forecast people displaced
+
+Storm LALA is not forecast to displace people in All countries.
+
+
 ## NARRA China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NARRA_2026-08-22_00UTC_CHN_cat1.png)
@@ -199,25 +219,5 @@ Storm SAUDEL is not forecast to displace people in Philippines.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_NARRA_2026-08-22_00UTC_VNM_displaced.png)
-
-
-## MOKE All countries: No forecast people exposed
-
-Storm MOKE is not forecast to affect people in All countries.
-
-
-## MOKE All countries: no forecast people displaced
-
-Storm MOKE is not forecast to displace people in All countries.
-
-
-## LALA All countries: No forecast people exposed
-
-Storm LALA is not forecast to affect people in All countries.
-
-
-## LALA All countries: no forecast people displaced
-
-Storm LALA is not forecast to displace people in All countries.
 
 

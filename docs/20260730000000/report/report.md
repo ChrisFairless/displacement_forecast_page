@@ -9,26 +9,6 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260730000000.png)
 
 
-## FAUSTO All countries: No forecast people exposed
-
-Storm FAUSTO is not forecast to affect people in All countries.
-
-
-## FAUSTO All countries: no forecast people displaced
-
-Storm FAUSTO is not forecast to displace people in All countries.
-
-
-## GENEVIEVE All countries: No forecast people exposed
-
-Storm GENEVIEVE is not forecast to affect people in All countries.
-
-
-## GENEVIEVE All countries: no forecast people displaced
-
-Storm GENEVIEVE is not forecast to displace people in All countries.
-
-
 ## DOLPHIN China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_DOLPHIN_2026-07-30_00UTC_CHN_cat1.png)
@@ -169,5 +149,25 @@ Storm DOLPHIN is not forecast to displace people in Korea, Democratic People's R
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_DOLPHIN_2026-07-30_00UTC_TWN_displaced.png)
+
+
+## GENEVIEVE All countries: No forecast people exposed
+
+Storm GENEVIEVE is not forecast to affect people in All countries.
+
+
+## GENEVIEVE All countries: no forecast people displaced
+
+Storm GENEVIEVE is not forecast to displace people in All countries.
+
+
+## FAUSTO All countries: No forecast people exposed
+
+Storm FAUSTO is not forecast to affect people in All countries.
+
+
+## FAUSTO All countries: no forecast people displaced
+
+Storm FAUSTO is not forecast to displace people in All countries.
 
 

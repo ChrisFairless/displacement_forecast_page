@@ -9,6 +9,16 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260725000000.png)
 
 
+## FAUSTO All countries: No forecast people exposed
+
+Storm FAUSTO is not forecast to affect people in All countries.
+
+
+## FAUSTO All countries: no forecast people displaced
+
+Storm FAUSTO is not forecast to displace people in All countries.
+
+
 ## NOUL China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NOUL_2026-07-25_00UTC_CHN_cat1.png)
@@ -47,16 +57,6 @@ There are 3 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_NOUL_2026-07-25_00UTC_HKG_displaced.png)
-
-
-## FAUSTO All countries: No forecast people exposed
-
-Storm FAUSTO is not forecast to affect people in All countries.
-
-
-## FAUSTO All countries: no forecast people displaced
-
-Storm FAUSTO is not forecast to displace people in All countries.
 
 
 ## GENEVIEVE Mexico: areas affected

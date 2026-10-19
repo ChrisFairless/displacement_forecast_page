@@ -9,57 +9,14 @@ There are 6 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260928120000.png)
 
 
-## HANNA All countries: No forecast people exposed
+## POLO All countries: No forecast people exposed
 
-Storm HANNA is not forecast to affect people in All countries.
-
-
-## HANNA All countries: no forecast people displaced
-
-Storm HANNA is not forecast to displace people in All countries.
+Storm POLO is not forecast to affect people in All countries.
 
 
-## NOLO All countries: No forecast people exposed
+## POLO All countries: no forecast people displaced
 
-Storm NOLO is not forecast to affect people in All countries.
-
-
-## NOLO All countries: no forecast people displaced
-
-Storm NOLO is not forecast to displace people in All countries.
-
-
-## RACHEL Mexico: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RACHEL_2026-09-28_12UTC_MEX_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RACHEL_2026-09-28_12UTC_MEX_cat3.png)
-
-
-## RACHEL Mexico: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_RACHEL_2026-09-28_12UTC_MEX_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_RACHEL_2026-09-28_12UTC_MEX_exposed.png)
-
-
-## RACHEL Mexico: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_RACHEL_2026-09-28_12UTC_MEX_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_RACHEL_2026-09-28_12UTC_MEX_displaced.png)
-
-
-## FAY All countries: No forecast people exposed
-
-Storm FAY is not forecast to affect people in All countries.
-
-
-## FAY All countries: no forecast people displaced
-
-Storm FAY is not forecast to displace people in All countries.
+Storm POLO is not forecast to displace people in All countries.
 
 
 ## SURIGAE All countries: No forecast people exposed
@@ -72,43 +29,46 @@ Storm SURIGAE is not forecast to affect people in All countries.
 Storm SURIGAE is not forecast to displace people in All countries.
 
 
-## POLO Mexico: areas affected
+## NOLO All countries: No forecast people exposed
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_POLO_2026-09-28_12UTC_MEX_cat1.png)
-
-
-## POLO Mexico: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_POLO_2026-09-28_12UTC_MEX_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_POLO_2026-09-28_12UTC_MEX_exposed.png)
+Storm NOLO is not forecast to affect people in All countries.
 
 
-## POLO Mexico: people displaced
+## NOLO All countries: no forecast people displaced
 
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_POLO_2026-09-28_12UTC_MEX_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_POLO_2026-09-28_12UTC_MEX_displaced.png)
+Storm NOLO is not forecast to displace people in All countries.
 
 
-## POLO United States: areas affected
+## FAY All countries: No forecast people exposed
 
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_POLO_2026-09-28_12UTC_USA_cat1.png)
-
-
-## POLO United States: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_POLO_2026-09-28_12UTC_USA_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_POLO_2026-09-28_12UTC_USA_exposed.png)
+Storm FAY is not forecast to affect people in All countries.
 
 
-## POLO United States: people displaced
+## FAY All countries: no forecast people displaced
 
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_POLO_2026-09-28_12UTC_USA_displaced.png)
+Storm FAY is not forecast to displace people in All countries.
 
 
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_POLO_2026-09-28_12UTC_USA_displaced.png)
+## RACHEL Mexico: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RACHEL_2026-09-28_12UTC_MEX_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RACHEL_2026-09-28_12UTC_MEX_cat3.png)
+
+
+## HANNA All countries: no forecast people displaced
+
+Storm HANNA is not forecast to displace people in All countries.
+
+
+## HANNA All countries: No forecast people exposed
+
+Storm HANNA is not forecast to affect people in All countries.
+
+
+## HANNA All countries: no forecast people displaced
+
+Storm HANNA is not forecast to displace people in All countries.
 
 

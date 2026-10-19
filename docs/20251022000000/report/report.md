@@ -52,6 +52,86 @@ Storm FENGSHEN is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BHS_displaced.png)
 
 
+## MELISSA Belize: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BLZ_cat1.png)
+
+
+## MELISSA Belize: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BLZ_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BLZ_exposed.png)
+
+
+## MELISSA Belize: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BLZ_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BLZ_displaced.png)
+
+
+## MELISSA Bermuda: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BMU_cat1.png)
+
+
+## MELISSA Bermuda: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BMU_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BMU_exposed.png)
+
+
+## MELISSA Bermuda: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BMU_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_BMU_displaced.png)
+
+
+## MELISSA Canada: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_CAN_cat1.png)
+
+
+## MELISSA Canada: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_CAN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_CAN_exposed.png)
+
+
+## MELISSA Canada: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_CAN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_CAN_displaced.png)
+
+
+## MELISSA Colombia: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_COL_cat1.png)
+
+
+## MELISSA Colombia: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_COL_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_COL_exposed.png)
+
+
+## MELISSA Colombia: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_COL_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_COL_displaced.png)
+
+
 ## MELISSA Cuba: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_CUB_cat1.png)
@@ -113,9 +193,32 @@ Storm FENGSHEN is not forecast to displace people in All countries.
 ![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_HND_exposed.png)
 
 
-## MELISSA Jamaica: no forecast people displaced
+## MELISSA Honduras: people displaced
 
-Storm MELISSA is not forecast to displace people in Jamaica.
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_HND_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_HND_displaced.png)
+
+
+## MELISSA Haiti: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_HTI_cat1.png)
+
+
+## MELISSA Haiti: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_HTI_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_HTI_exposed.png)
+
+
+## MELISSA Haiti: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_HTI_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_HTI_displaced.png)
 
 
 ## MELISSA Jamaica: areas affected
@@ -133,9 +236,12 @@ Storm MELISSA is not forecast to displace people in Jamaica.
 ![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_JAM_exposed.png)
 
 
-## MELISSA Mexico: no forecast people displaced
+## MELISSA Jamaica: people displaced
 
-Storm MELISSA is not forecast to displace people in Mexico.
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_JAM_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_JAM_displaced.png)
 
 
 ## MELISSA Mexico: areas affected
@@ -150,9 +256,12 @@ Storm MELISSA is not forecast to displace people in Mexico.
 ![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_MEX_exposed.png)
 
 
-## MELISSA Nicaragua: no forecast people displaced
+## MELISSA Mexico: people displaced
 
-Storm MELISSA is not forecast to displace people in Nicaragua.
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_MEX_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_MEX_displaced.png)
 
 
 ## MELISSA Nicaragua: areas affected
@@ -170,9 +279,12 @@ Storm MELISSA is not forecast to displace people in Nicaragua.
 ![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_NIC_exposed.png)
 
 
-## MELISSA Turks and Caicos Islands: no forecast people displaced
+## MELISSA Nicaragua: people displaced
 
-Storm MELISSA is not forecast to displace people in Turks and Caicos Islands.
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_NIC_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_NIC_displaced.png)
 
 
 ## MELISSA Turks and Caicos Islands: areas affected
@@ -193,5 +305,28 @@ Storm MELISSA is not forecast to displace people in Turks and Caicos Islands.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_TCA_displaced.png)
+
+
+## MELISSA United States: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_USA_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_USA_cat3.png)
+
+
+## MELISSA United States: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_USA_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_USA_exposed.png)
+
+
+## MELISSA United States: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_USA_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-22_00UTC_USA_displaced.png)
 
 

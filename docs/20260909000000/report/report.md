@@ -9,16 +9,6 @@ There are 3 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260909000000.png)
 
 
-## MARIE All countries: No forecast people exposed
-
-Storm MARIE is not forecast to affect people in All countries.
-
-
-## MARIE All countries: no forecast people displaced
-
-Storm MARIE is not forecast to displace people in All countries.
-
-
 ## LOWELL All countries: No forecast people exposed
 
 Storm LOWELL is not forecast to affect people in All countries.
@@ -27,6 +17,16 @@ Storm LOWELL is not forecast to affect people in All countries.
 ## LOWELL All countries: no forecast people displaced
 
 Storm LOWELL is not forecast to displace people in All countries.
+
+
+## MARIE All countries: No forecast people exposed
+
+Storm MARIE is not forecast to affect people in All countries.
+
+
+## MARIE All countries: no forecast people displaced
+
+Storm MARIE is not forecast to displace people in All countries.
 
 
 ## KROVANH All countries: No forecast people exposed

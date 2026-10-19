@@ -9,19 +9,6 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260727000000.png)
 
 
-## GENEVIEVE Mexico: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GENEVIEVE_2026-07-27_00UTC_MEX_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_GENEVIEVE_2026-07-27_00UTC_MEX_cat3.png)
-
-
-## FAUSTO All countries: no forecast people displaced
-
-Storm FAUSTO is not forecast to displace people in All countries.
-
-
 ## FAUSTO All countries: No forecast people exposed
 
 Storm FAUSTO is not forecast to affect people in All countries.
@@ -30,5 +17,18 @@ Storm FAUSTO is not forecast to affect people in All countries.
 ## FAUSTO All countries: no forecast people displaced
 
 Storm FAUSTO is not forecast to displace people in All countries.
+
+
+## GENEVIEVE Mexico: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_GENEVIEVE_2026-07-27_00UTC_MEX_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_GENEVIEVE_2026-07-27_00UTC_MEX_cat3.png)
+
+
+## GENEVIEVE Mexico: no forecast people displaced
+
+Storm GENEVIEVE is not forecast to displace people in Mexico.
 
 

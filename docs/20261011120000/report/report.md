@@ -9,16 +9,6 @@ There are 4 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20261011120000.png)
 
 
-## RACHEL All countries: No forecast people exposed
-
-Storm RACHEL is not forecast to affect people in All countries.
-
-
-## RACHEL All countries: no forecast people displaced
-
-Storm RACHEL is not forecast to displace people in All countries.
-
-
 ## NOLO All countries: No forecast people exposed
 
 Storm NOLO is not forecast to affect people in All countries.
@@ -57,5 +47,15 @@ Storm KOGUMA is not forecast to affect people in All countries.
 ## KOGUMA All countries: no forecast people displaced
 
 Storm KOGUMA is not forecast to displace people in All countries.
+
+
+## RACHEL All countries: No forecast people exposed
+
+Storm RACHEL is not forecast to affect people in All countries.
+
+
+## RACHEL All countries: no forecast people displaced
+
+Storm RACHEL is not forecast to displace people in All countries.
 
 

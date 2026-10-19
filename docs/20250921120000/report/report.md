@@ -75,6 +75,19 @@ There are 3 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RAGASA_2025-09-21_12UTC_LAO_displaced.png)
 
 
+## RAGASA Macao: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-21_12UTC_MAC_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-21_12UTC_MAC_cat3.png)
+
+
+## RAGASA Philippines: no forecast people displaced
+
+Storm RAGASA is not forecast to displace people in Philippines.
+
+
 ## RAGASA Philippines: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_RAGASA_2025-09-21_12UTC_PHL_cat1.png)
@@ -222,5 +235,15 @@ There are 3 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-21_12UTC_JPN_displaced.png)
+
+
+## NEOGURI United States: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_NEOGURI_2025-09-21_12UTC_USA_cat1.png)
+
+
+## NEOGURI United States: no forecast people displaced
+
+Storm NEOGURI is not forecast to displace people in United States.
 
 

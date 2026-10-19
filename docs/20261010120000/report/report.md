@@ -9,24 +9,14 @@ There are 5 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20261010120000.png)
 
 
-## KOGUMA All countries: No forecast people exposed
+## ISAIAS All countries: No forecast people exposed
 
-Storm KOGUMA is not forecast to affect people in All countries.
-
-
-## KOGUMA All countries: no forecast people displaced
-
-Storm KOGUMA is not forecast to displace people in All countries.
+Storm ISAIAS is not forecast to affect people in All countries.
 
 
-## NOLO All countries: No forecast people exposed
+## ISAIAS All countries: no forecast people displaced
 
-Storm NOLO is not forecast to affect people in All countries.
-
-
-## NOLO All countries: no forecast people displaced
-
-Storm NOLO is not forecast to displace people in All countries.
+Storm ISAIAS is not forecast to displace people in All countries.
 
 
 ## SIMON Mexico: areas affected
@@ -49,14 +39,24 @@ Storm NOLO is not forecast to displace people in All countries.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_SIMON_2026-10-10_12UTC_MEX_displaced.png)
 
 
-## ISAIAS All countries: No forecast people exposed
+## KOGUMA All countries: No forecast people exposed
 
-Storm ISAIAS is not forecast to affect people in All countries.
+Storm KOGUMA is not forecast to affect people in All countries.
 
 
-## ISAIAS All countries: no forecast people displaced
+## KOGUMA All countries: no forecast people displaced
 
-Storm ISAIAS is not forecast to displace people in All countries.
+Storm KOGUMA is not forecast to displace people in All countries.
+
+
+## NOLO All countries: No forecast people exposed
+
+Storm NOLO is not forecast to affect people in All countries.
+
+
+## NOLO All countries: no forecast people displaced
+
+Storm NOLO is not forecast to displace people in All countries.
 
 
 ## RACHEL Mexico: areas affected

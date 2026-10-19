@@ -19,14 +19,334 @@ Storm FENGSHEN is not forecast to affect people in All countries.
 Storm FENGSHEN is not forecast to displace people in All countries.
 
 
-## MELISSA All countries: No forecast people exposed
+## MELISSA Bahamas: areas affected
 
-Storm MELISSA is not forecast to affect people in All countries.
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BHS_cat1.png)
 
 
-## MELISSA All countries: no forecast people displaced
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BHS_cat3.png)
 
-Storm MELISSA is not forecast to displace people in All countries.
+
+## MELISSA Bahamas: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BHS_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BHS_exposed.png)
+
+
+## MELISSA Bahamas: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BHS_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BHS_displaced.png)
+
+
+## MELISSA Belize: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BLZ_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BLZ_cat3.png)
+
+
+## MELISSA Belize: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BLZ_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BLZ_exposed.png)
+
+
+## MELISSA Belize: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BLZ_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BLZ_displaced.png)
+
+
+## MELISSA Bermuda: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BMU_cat1.png)
+
+
+## MELISSA Bermuda: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BMU_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BMU_exposed.png)
+
+
+## MELISSA Bermuda: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BMU_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_BMU_displaced.png)
+
+
+## MELISSA Canada: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CAN_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CAN_cat3.png)
+
+
+## MELISSA Canada: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CAN_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CAN_exposed.png)
+
+
+## MELISSA Canada: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CAN_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CAN_displaced.png)
+
+
+## MELISSA Colombia: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_COL_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_COL_cat3.png)
+
+
+## MELISSA Colombia: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_COL_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_COL_exposed.png)
+
+
+## MELISSA Colombia: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_COL_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_COL_displaced.png)
+
+
+## MELISSA Cuba: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CUB_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CUB_cat3.png)
+
+
+## MELISSA Cuba: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CUB_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CUB_exposed.png)
+
+
+## MELISSA Cuba: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CUB_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CUB_displaced.png)
+
+
+## MELISSA Cayman Islands: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CYM_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CYM_cat3.png)
+
+
+## MELISSA Cayman Islands: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CYM_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CYM_exposed.png)
+
+
+## MELISSA Cayman Islands: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CYM_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_CYM_displaced.png)
+
+
+## MELISSA Dominican Republic: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_DOM_cat1.png)
+
+
+## MELISSA Dominican Republic: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_DOM_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_DOM_exposed.png)
+
+
+## MELISSA Dominican Republic: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_DOM_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_DOM_displaced.png)
+
+
+## MELISSA Honduras: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_HND_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_HND_cat3.png)
+
+
+## MELISSA Honduras: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_HND_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_HND_exposed.png)
+
+
+## MELISSA Honduras: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_HND_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_HND_displaced.png)
+
+
+## MELISSA Haiti: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_HTI_cat1.png)
+
+
+## MELISSA Haiti: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_HTI_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_HTI_exposed.png)
+
+
+## MELISSA Haiti: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_HTI_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_HTI_displaced.png)
+
+
+## MELISSA Jamaica: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_JAM_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_JAM_cat3.png)
+
+
+## MELISSA Jamaica: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_JAM_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_JAM_exposed.png)
+
+
+## MELISSA Jamaica: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_JAM_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_JAM_displaced.png)
+
+
+## MELISSA Mexico: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_MEX_cat1.png)
+
+
+## MELISSA Mexico: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_MEX_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_MEX_exposed.png)
+
+
+## MELISSA Mexico: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_MEX_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_MEX_displaced.png)
+
+
+## MELISSA Nicaragua: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_NIC_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_NIC_cat3.png)
+
+
+## MELISSA Nicaragua: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_NIC_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_NIC_exposed.png)
+
+
+## MELISSA Nicaragua: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_NIC_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_NIC_displaced.png)
+
+
+## MELISSA Turks and Caicos Islands: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_TCA_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_TCA_cat3.png)
+
+
+## MELISSA Turks and Caicos Islands: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_TCA_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_TCA_exposed.png)
+
+
+## MELISSA Turks and Caicos Islands: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_TCA_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_TCA_displaced.png)
+
+
+## MELISSA United States: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_USA_cat1.png)
+
+
+## MELISSA United States: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_USA_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_USA_exposed.png)
+
+
+## MELISSA United States: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_USA_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_MELISSA_2025-10-23_00UTC_USA_displaced.png)
 
 
 ## CHENGE All countries: No forecast people exposed

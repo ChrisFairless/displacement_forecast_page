@@ -57,3 +57,8 @@ There are 1 active named storms.
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_SINLAKU_2026-04-13_12UTC_USA_cat1.png)
 
 
+## SINLAKU United States: no forecast people displaced
+
+Storm SINLAKU is not forecast to displace people in United States.
+
+

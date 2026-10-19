@@ -9,6 +9,39 @@ There are 5 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20261010000000.png)
 
 
+## KOGUMA All countries: No forecast people exposed
+
+Storm KOGUMA is not forecast to affect people in All countries.
+
+
+## KOGUMA All countries: no forecast people displaced
+
+Storm KOGUMA is not forecast to displace people in All countries.
+
+
+## SIMON Mexico: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_cat3.png)
+
+
+## SIMON Mexico: people exposed
+
+![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_exposed.png)
+
+![Map of possible exposed population](impact-map_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_exposed.png)
+
+
+## SIMON Mexico: people displaced
+
+![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_displaced.png)
+
+
+![Map of possible displaced population](impact-map_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_displaced.png)
+
+
 ## ISAIAS United States: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_ISAIAS_2026-10-10_00UTC_USA_cat1.png)
@@ -72,29 +105,6 @@ There are 5 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RACHEL_2026-10-10_00UTC_USA_displaced.png)
 
 
-## SIMON Mexico: areas affected
-
-![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_cat1.png)
-
-
-![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_cat3.png)
-
-
-## SIMON Mexico: people exposed
-
-![Histogram of possible exposed population](impact-histogram_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_exposed.png)
-
-![Map of possible exposed population](impact-map_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_exposed.png)
-
-
-## SIMON Mexico: people displaced
-
-![Histogram of possible displaced population](impact-histogram_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_displaced.png)
-
-
-![Map of possible displaced population](impact-map_TC_ECMWF_ens_SIMON_2026-10-10_00UTC_MEX_displaced.png)
-
-
 ## NOLO All countries: No forecast people exposed
 
 Storm NOLO is not forecast to affect people in All countries.
@@ -103,15 +113,5 @@ Storm NOLO is not forecast to affect people in All countries.
 ## NOLO All countries: no forecast people displaced
 
 Storm NOLO is not forecast to displace people in All countries.
-
-
-## KOGUMA All countries: No forecast people exposed
-
-Storm KOGUMA is not forecast to affect people in All countries.
-
-
-## KOGUMA All countries: no forecast people displaced
-
-Storm KOGUMA is not forecast to displace people in All countries.
 
 

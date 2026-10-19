@@ -9,6 +9,16 @@ There are 4 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20261011000000.png)
 
 
+## NOLO All countries: No forecast people exposed
+
+Storm NOLO is not forecast to affect people in All countries.
+
+
+## NOLO All countries: no forecast people displaced
+
+Storm NOLO is not forecast to displace people in All countries.
+
+
 ## SIMON Mexico: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_SIMON_2026-10-11_00UTC_MEX_cat1.png)
@@ -27,26 +37,6 @@ There are 4 active named storms.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_SIMON_2026-10-11_00UTC_MEX_displaced.png)
-
-
-## KOGUMA All countries: No forecast people exposed
-
-Storm KOGUMA is not forecast to affect people in All countries.
-
-
-## KOGUMA All countries: no forecast people displaced
-
-Storm KOGUMA is not forecast to displace people in All countries.
-
-
-## NOLO All countries: No forecast people exposed
-
-Storm NOLO is not forecast to affect people in All countries.
-
-
-## NOLO All countries: no forecast people displaced
-
-Storm NOLO is not forecast to displace people in All countries.
 
 
 ## RACHEL Mexico: areas affected
@@ -87,5 +77,15 @@ Storm NOLO is not forecast to displace people in All countries.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_RACHEL_2026-10-11_00UTC_USA_displaced.png)
+
+
+## KOGUMA All countries: No forecast people exposed
+
+Storm KOGUMA is not forecast to affect people in All countries.
+
+
+## KOGUMA All countries: no forecast people displaced
+
+Storm KOGUMA is not forecast to displace people in All countries.
 
 

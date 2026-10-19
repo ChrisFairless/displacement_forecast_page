@@ -9,26 +9,6 @@ There are 5 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260813120000.png)
 
 
-## PEILOU All countries: No forecast people exposed
-
-Storm PEILOU is not forecast to affect people in All countries.
-
-
-## PEILOU All countries: no forecast people displaced
-
-Storm PEILOU is not forecast to displace people in All countries.
-
-
-## CRISTOBAL All countries: No forecast people exposed
-
-Storm CRISTOBAL is not forecast to affect people in All countries.
-
-
-## CRISTOBAL All countries: no forecast people displaced
-
-Storm CRISTOBAL is not forecast to displace people in All countries.
-
-
 ## LALA Northern Mariana Islands: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_LALA_2026-08-13_12UTC_MNP_cat1.png)
@@ -67,16 +47,6 @@ Storm LALA is not forecast to displace people in United States.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_LALA_2026-08-13_12UTC_USA_displaced.png)
 
 
-## HERNAN All countries: No forecast people exposed
-
-Storm HERNAN is not forecast to affect people in All countries.
-
-
-## HERNAN All countries: no forecast people displaced
-
-Storm HERNAN is not forecast to displace people in All countries.
-
-
 ## NANGKA All countries: No forecast people exposed
 
 Storm NANGKA is not forecast to affect people in All countries.
@@ -85,5 +55,35 @@ Storm NANGKA is not forecast to affect people in All countries.
 ## NANGKA All countries: no forecast people displaced
 
 Storm NANGKA is not forecast to displace people in All countries.
+
+
+## CRISTOBAL All countries: No forecast people exposed
+
+Storm CRISTOBAL is not forecast to affect people in All countries.
+
+
+## CRISTOBAL All countries: no forecast people displaced
+
+Storm CRISTOBAL is not forecast to displace people in All countries.
+
+
+## PEILOU All countries: No forecast people exposed
+
+Storm PEILOU is not forecast to affect people in All countries.
+
+
+## PEILOU All countries: no forecast people displaced
+
+Storm PEILOU is not forecast to displace people in All countries.
+
+
+## HERNAN All countries: No forecast people exposed
+
+Storm HERNAN is not forecast to affect people in All countries.
+
+
+## HERNAN All countries: no forecast people displaced
+
+Storm HERNAN is not forecast to displace people in All countries.
 
 

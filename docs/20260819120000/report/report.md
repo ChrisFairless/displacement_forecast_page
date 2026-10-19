@@ -9,16 +9,6 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20260819120000.png)
 
 
-## LALA All countries: No forecast people exposed
-
-Storm LALA is not forecast to affect people in All countries.
-
-
-## LALA All countries: no forecast people displaced
-
-Storm LALA is not forecast to displace people in All countries.
-
-
 ## SAUDEL China: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_SAUDEL_2026-08-19_12UTC_CHN_cat1.png)
@@ -205,5 +195,15 @@ Storm SAUDEL is not forecast to displace people in Philippines.
 
 
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_SAUDEL_2026-08-19_12UTC_VNM_displaced.png)
+
+
+## LALA All countries: No forecast people exposed
+
+Storm LALA is not forecast to affect people in All countries.
+
+
+## LALA All countries: no forecast people displaced
+
+Storm LALA is not forecast to displace people in All countries.
 
 

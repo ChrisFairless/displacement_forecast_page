@@ -29,6 +29,19 @@ There are 3 active named storms.
 ![Map of possible displaced population](impact-map_TC_ECMWF_ens_KROSA_2025-07-25_12UTC_JPN_displaced.png)
 
 
+## KROSA Northern Mariana Islands: areas affected
+
+![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_KROSA_2025-07-25_12UTC_MNP_cat1.png)
+
+
+![Map of areas possibly experiencing Cat 3 winds](impact-map_TC_ECMWF_ens_KROSA_2025-07-25_12UTC_MNP_cat3.png)
+
+
+## KROSA Russian Federation: no forecast people displaced
+
+Storm KROSA is not forecast to displace people in Russian Federation.
+
+
 ## KROSA Russian Federation: areas affected
 
 ![Map of areas possibly experiencing Cat 1 winds](impact-map_TC_ECMWF_ens_KROSA_2025-07-25_12UTC_RUS_cat1.png)

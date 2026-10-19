@@ -9,16 +9,6 @@ There are 2 active named storms.
 ![Active storm ensemble tracks](ECMWF_TC_tracks_20261013120000.png)
 
 
-## KOGUMA All countries: No forecast people exposed
-
-Storm KOGUMA is not forecast to affect people in All countries.
-
-
-## KOGUMA All countries: no forecast people displaced
-
-Storm KOGUMA is not forecast to displace people in All countries.
-
-
 ## SIMON All countries: No forecast people exposed
 
 Storm SIMON is not forecast to affect people in All countries.
@@ -27,5 +17,15 @@ Storm SIMON is not forecast to affect people in All countries.
 ## SIMON All countries: no forecast people displaced
 
 Storm SIMON is not forecast to displace people in All countries.
+
+
+## KOGUMA All countries: No forecast people exposed
+
+Storm KOGUMA is not forecast to affect people in All countries.
+
+
+## KOGUMA All countries: no forecast people displaced
+
+Storm KOGUMA is not forecast to displace people in All countries.
 
 
