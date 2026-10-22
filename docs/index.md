@@ -7,6 +7,8 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
+| [2026-10-21 12:00 UTC](20261021120000/report/report.html) |                        2 | AGUEDA, CHAMPI                                       |                         1 |                          1 |
+| [2026-10-21 00:00 UTC](20261021000000/report/report.html) |                        2 | AGUEDA, CHAMPI                                       |                         1 |                          1 |
 | [2026-10-20 12:00 UTC](20261020120000/report/report.html) |                        3 | AGUEDA, CHAMPI, TRUDY                                |                         1 |                          1 |
 | [2026-10-20 00:00 UTC](20261020000000/report/report.html) |                        2 | CHAMPI, TRUDY                                        |                         1 |                          1 |
 | [2026-10-19 12:00 UTC](20261019120000/report/report.html) |                        3 | CHAMPI, TRUDY, WATI                                  |                         1 |                          1 |
