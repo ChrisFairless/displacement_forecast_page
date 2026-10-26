@@ -7,10 +7,14 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
+| [2026-10-25 12:00 UTC](20261025120000/report/report.html) |                        3 | CHAMPI, IN-FA, VANCE                                 |                         2 |                          2 |
+| [2026-10-25 00:00 UTC](20261025000000/report/report.html) |                        3 | CHAMPI, IN-FA, VANCE                                 |                         2 |                          2 |
+| [2026-10-24 12:00 UTC](20261024120000/report/report.html) |                        3 | CHAMPI, IN-FA, VANCE                                 |                         2 |                          2 |
 | [2026-10-24 00:00 UTC](20261024000000/report/report.html) |                        4 | AGUEDA, CHAMPI, IN-FA, VANCE                         |                         3 |                          3 |
 | [2026-10-23 12:00 UTC](20261023120000/report/report.html) |                        3 | AGUEDA, CHAMPI, VANCE                                |                         2 |                          2 |
 | [2026-10-23 00:00 UTC](20261023000000/report/report.html) |                        4 | AGUEDA, CHAMPI, JOSEPHINE, VANCE                     |                         2 |                          2 |
 | [2026-10-22 12:00 UTC](20261022120000/report/report.html) |                        4 | AGUEDA, CHAMPI, JOSEPHINE, VANCE                     |                         2 |                          2 |
+| [2026-10-22 00:00 UTC](20261022000000/report/report.html) |                        4 | AGUEDA, CHAMPI, JOSEPHINE, VANCE                     |                         2 |                          2 |
 | [2026-10-21 12:00 UTC](20261021120000/report/report.html) |                        2 | AGUEDA, CHAMPI                                       |                         1 |                          1 |
 | [2026-10-21 00:00 UTC](20261021000000/report/report.html) |                        2 | AGUEDA, CHAMPI                                       |                         1 |                          1 |
 | [2026-10-20 12:00 UTC](20261020120000/report/report.html) |                        3 | AGUEDA, CHAMPI, TRUDY                                |                         1 |                          1 |
