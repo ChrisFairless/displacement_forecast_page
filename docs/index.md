@@ -7,6 +7,11 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
+| [2026-10-28 00:00 UTC](20261028000000/report/report.html) |                        3 | ARNAB, IN-FA, VANCE                                  |                         3 |                          3 |
+| [2026-10-27 12:00 UTC](20261027120000/report/report.html) |                        4 | ARNAB, IN-FA, OLANA, VANCE                           |                         3 |                          3 |
+| [2026-10-27 00:00 UTC](20261027000000/report/report.html) |                        4 | ARNAB, IN-FA, OLANA, VANCE                           |                         3 |                          3 |
+| [2026-10-26 12:00 UTC](20261026120000/report/report.html) |                        4 | ARNAB, IN-FA, OLANA, VANCE                           |                         2 |                          2 |
+| [2026-10-26 00:00 UTC](20261026000000/report/report.html) |                        4 | CHAMPI, IN-FA, OLANA, VANCE                          |                         2 |                          2 |
 | [2026-10-25 12:00 UTC](20261025120000/report/report.html) |                        3 | CHAMPI, IN-FA, VANCE                                 |                         2 |                          2 |
 | [2026-10-25 00:00 UTC](20261025000000/report/report.html) |                        3 | CHAMPI, IN-FA, VANCE                                 |                         2 |                          2 |
 | [2026-10-24 12:00 UTC](20261024120000/report/report.html) |                        3 | CHAMPI, IN-FA, VANCE                                 |                         2 |                          2 |
