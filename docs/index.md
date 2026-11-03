@@ -7,6 +7,14 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
+| [2026-11-03 00:00 UTC](20261103000000/report/report.html) |                        2 | IN-FA, MURASU                                        |                         0 |                          0 |
+| [2026-11-02 12:00 UTC](20261102120000/report/report.html) |                        2 | IN-FA, MURASU                                        |                         2 |                          2 |
+| [2026-11-02 00:00 UTC](20261102000000/report/report.html) |                        2 | IN-FA, MURASU                                        |                         1 |                          1 |
+| [2026-11-01 12:00 UTC](20261101120000/report/report.html) |                        2 | IN-FA, MURASU                                        |                         2 |                          2 |
+| [2026-11-01 00:00 UTC](20261101000000/report/report.html) |                        1 | IN-FA                                                |                         1 |                          1 |
+| [2026-10-31 12:00 UTC](20261031120000/report/report.html) |                        1 | IN-FA                                                |                         1 |                          1 |
+| [2026-10-31 00:00 UTC](20261031000000/report/report.html) |                        1 | IN-FA                                                |                         1 |                          1 |
+| [2026-10-30 12:00 UTC](20261030120000/report/report.html) |                        1 | IN-FA                                                |                         1 |                          1 |
 | [2026-10-30 00:00 UTC](20261030000000/report/report.html) |                        2 | IN-FA, VANCE                                         |                         1 |                          1 |
 | [2026-10-29 12:00 UTC](20261029120000/report/report.html) |                        3 | ARNAB, IN-FA, VANCE                                  |                         1 |                          1 |
 | [2026-10-29 00:00 UTC](20261029000000/report/report.html) |                        2 | IN-FA, VANCE                                         |                         1 |                          1 |
