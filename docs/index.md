@@ -7,6 +7,8 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
+| [2026-11-04 00:00 UTC](20261104000000/report/report.html) |                        2 | IN-FA, MURASU                                        |                         0 |                          0 |
+| [2026-11-03 12:00 UTC](20261103120000/report/report.html) |                        2 | IN-FA, MURASU                                        |                         0 |                          0 |
 | [2026-11-03 00:00 UTC](20261103000000/report/report.html) |                        2 | IN-FA, MURASU                                        |                         0 |                          0 |
 | [2026-11-02 12:00 UTC](20261102120000/report/report.html) |                        2 | IN-FA, MURASU                                        |                         2 |                          2 |
 | [2026-11-02 00:00 UTC](20261102000000/report/report.html) |                        2 | IN-FA, MURASU                                        |                         1 |                          1 |
