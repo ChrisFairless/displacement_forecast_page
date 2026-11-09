@@ -7,6 +7,11 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
+| [2026-11-09 00:00 UTC](20261109000000/report/report.html) |                        2 | CEMPAKA, PENA                                        |                         1 |                          1 |
+| [2026-11-08 12:00 UTC](20261108120000/report/report.html) |                        2 | CEMPAKA, PENA                                        |                         1 |                          1 |
+| [2026-11-08 00:00 UTC](20261108000000/report/report.html) |                        2 | CEMPAKA, PENA                                        |                         1 |                          1 |
+| [2026-11-07 12:00 UTC](20261107120000/report/report.html) |                        2 | CEMPAKA, PENA                                        |                         2 |                          2 |
+| [2026-11-07 00:00 UTC](20261107000000/report/report.html) |                        1 | PENA                                                 |                         0 |                          0 |
 | [2026-11-05 12:00 UTC](20261105120000/report/report.html) |                        1 | IN-FA                                                |                         0 |                          0 |
 | [2026-11-05 00:00 UTC](20261105000000/report/report.html) |                        1 | IN-FA                                                |                         0 |                          0 |
 | [2026-11-04 12:00 UTC](20261104120000/report/report.html) |                        1 | IN-FA                                                |                         0 |                          0 |
