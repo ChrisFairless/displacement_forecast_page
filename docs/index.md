@@ -7,6 +7,7 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
+| [2026-11-10 12:00 UTC](20261110120000/report/report.html) |                        2 | CEMPAKA, PENA                                        |                         2 |                          2 |
 | [2026-11-10 00:00 UTC](20261110000000/report/report.html) |                        2 | CEMPAKA, PENA                                        |                         1 |                          1 |
 | [2026-11-09 12:00 UTC](20261109120000/report/report.html) |                        2 | CEMPAKA, PENA                                        |                         1 |                          1 |
 | [2026-11-09 00:00 UTC](20261109000000/report/report.html) |                        2 | CEMPAKA, PENA                                        |                         1 |                          1 |
