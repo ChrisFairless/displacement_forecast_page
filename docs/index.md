@@ -7,6 +7,14 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
+| [2026-11-23 00:00 UTC](20261123000000/report/report.html) |                        1 | XAVIER                                               |                         0 |                          0 |
+| [2026-11-22 12:00 UTC](20261122120000/report/report.html) |                        1 | XAVIER                                               |                         0 |                          0 |
+| [2026-11-22 00:00 UTC](20261122000000/report/report.html) |                        1 | XAVIER                                               |                         1 |                          1 |
+| [2026-11-21 12:00 UTC](20261121120000/report/report.html) |                        1 | XAVIER                                               |                         0 |                          0 |
+| [2026-11-21 00:00 UTC](20261121000000/report/report.html) |                        1 | XAVIER                                               |                         0 |                          0 |
+| [2026-11-20 12:00 UTC](20261120120000/report/report.html) |                        1 | XAVIER                                               |                         1 |                          1 |
+| [2026-11-20 00:00 UTC](20261120000000/report/report.html) |                        2 | AKVAN, XAVIER                                        |                         0 |                          0 |
+| [2026-11-19 12:00 UTC](20261119120000/report/report.html) |                        2 | AKVAN, XAVIER                                        |                         1 |                          1 |
 | [2026-11-19 00:00 UTC](20261119000000/report/report.html) |                        2 | AKVAN, XAVIER                                        |                         1 |                          1 |
 | [2026-11-18 12:00 UTC](20261118120000/report/report.html) |                        2 | AKVAN, XAVIER                                        |                         0 |                          0 |
 | [2026-11-18 00:00 UTC](20261118000000/report/report.html) |                        2 | AKVAN, XAVIER                                        |                         0 |                          0 |
