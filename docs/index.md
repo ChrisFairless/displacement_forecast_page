@@ -7,6 +7,8 @@ This will grow up to be an informative greeting one day.
 
 | Forecast Time                                             |   Number of Named Storms | Storms                                               |   Number Affecting People |   Number Displacing People |
 |-----------------------------------------------------------|--------------------------|------------------------------------------------------|---------------------------|----------------------------|
+| [2026-11-24 00:00 UTC](20261124000000/report/report.html) |                        1 | XAVIER                                               |                         0 |                          0 |
+| [2026-11-23 12:00 UTC](20261123120000/report/report.html) |                        1 | XAVIER                                               |                         1 |                          1 |
 | [2026-11-23 00:00 UTC](20261123000000/report/report.html) |                        1 | XAVIER                                               |                         0 |                          0 |
 | [2026-11-22 12:00 UTC](20261122120000/report/report.html) |                        1 | XAVIER                                               |                         0 |                          0 |
 | [2026-11-22 00:00 UTC](20261122000000/report/report.html) |                        1 | XAVIER                                               |                         1 |                          1 |
